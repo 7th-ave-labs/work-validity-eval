@@ -1,0 +1,31 @@
+{
+  "n_esco_items": 5826,
+  "n_none_of_the_above": 96,
+  "pct_none_of_the_above": 1.65,
+  "n_covered_by_any_op_llm": 5730,
+  "pct_covered_by_any_op_llm": 98.35,
+  "n_ops_with_any_esco_items_llm": 18,
+  "n_ops_with_ge_40_esco_items_llm": 17,
+  "centroid_llm_strict_agreement_pct": 39.36,
+  "centroid_top2_llm_agreement_pct": 59.1,
+  "llm_confidence_distribution": {
+    "high": 3893,
+    "medium": 1642,
+    "low": 291
+  },
+  "hdbscan_ari_vs_llm": 0.06000468354281727,
+  "hdbscan_nmi_vs_llm": 0.2045951800784857,
+  "kmeans18_ari_vs_llm": 0.13255977759961193,
+  "kmeans18_nmi_vs_llm": 0.25632185616107406,
+  "knn_same_op_rate": {
+    "k=1": 0.4514834205933682,
+    "k=5": 0.4011867364746946,
+    "k=10": 0.3756544502617801
+  },
+  "knn_same_op_rate_null": {
+    "k=1": 0.08516579406631762,
+    "k=5": 0.07993019197207679,
+    "k=10": 0.07921465968586387
+  },
+  "silhouette_llm_op_id_umap15": -0.13665685057640076
+}

@@ -1,0 +1,595 @@
+[
+  {
+    "label_id": "inspect_evaluate_and_verify_compliance_and_performance",
+    "label_name": "Inspect, Evaluate, and Verify Compliance and Performance",
+    "definition": "Examine systems, sites, documents, activities, or test results against explicit standards, regulations, protocols, or expected conditions to determine whether they are acceptable, compliant, secure, safe, or functioning properly. The worker identifies deviations, vulnerabilities, failures, or violations and may recommend or trigger corrective action.",
+    "minimum_task_contract": "The item must provide a concrete subject to examine plus an explicit standard, protocol, regulation, policy, or expected condition that determines whether the subject passes, fails, or needs corrective action.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-data evaluation operation that an AI agent can perform with standard tools, with the main limitation being that some cases require domain-specific judgment or real-world inspection evidence.",
+    "evaluation_artifact": "inspection/audit/review report",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      33,
+      43,
+      26,
+      59,
+      54,
+      23,
+      21,
+      24
+    ],
+    "n_sub_ops": 8,
+    "n_tasks": 952,
+    "inclusion_examples": [
+      "Evaluate patients' vital signs or laboratory data to determine emergency intervention needs.",
+      "Review all regulatory agency submission materials to ensure timeliness, accuracy, comprehensiveness, or compliance with regulatory standards.",
+      "Inspect or review projects to monitor compliance with building and safety codes or other regulations.",
+      "Investigate complaints and suspected violations regarding illegal dumping, pollution, pesticides, product quality, or labeling laws."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The weakest-fit member is cluster 59 because complaint/violation investigation is slightly more forensic than routine compliance checking, but the bucket still coherently represents one operation centered on evaluating conditions against standards and determining corrective action.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "develop_and_maintain_instructional_and_operational_documents",
+    "label_name": "Develop and Maintain Instructional and Operational Documents",
+    "definition": "Create, revise, and maintain formal documents that guide work, learning, or service delivery, including curricula, instructional materials, procedures, policies, plans, and related records. The shared operation is producing structured guidance artifacts that can be reviewed for completeness, correctness, and alignment with requirements.",
+    "minimum_task_contract": "The item must require the worker to produce or revise a formal guidance document or document set with explicit requirements or constraints, so the result can be judged against the stated purpose and content criteria rather than by self-report.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-document production task that an AI agent can execute with standard tools, with the main bottleneck being domain-specific correctness and stakeholder requirements.",
+    "evaluation_artifact": "document package",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      29,
+      34,
+      44,
+      31,
+      19,
+      30,
+      38,
+      39,
+      8,
+      4
+    ],
+    "n_sub_ops": 10,
+    "n_tasks": 758,
+    "inclusion_examples": [
+      "Develop instructional materials, such as lesson plans, handouts, or examinations.",
+      "Develop treatment plans, based on scientific rationale, standards of care, and professional practice guidelines.",
+      "Prepare study-related documentation, such as protocol worksheets, procedural manuals, adverse event reports, institutional review board documents, or progress reports.",
+      "Develop and implement purchasing and contract management instructions, policies, and procedures."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The weakest-fit member is develop treatment plans, which is more individualized case planning than general document development, but the bucket still reads as one broad document-creation operation rather than a merger that must be split.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "supervise_and_coordinate_work",
+    "label_name": "Supervise and Coordinate Work",
+    "definition": "Direct, coordinate, schedule, and monitor the work of people, teams, or units so ongoing activities are carried out effectively and in line with priorities, procedures, and constraints. This includes assigning duties, aligning interdependent tasks, and reviewing performance or progress, but not doing the underlying technical work itself.",
+    "minimum_task_contract": "A benchmark item must expose a real staffing, team, or cross-unit coordination situation with explicit constraints or dependencies, so the worker must assign, align, or supervise work rather than merely describe management in the abstract.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "The operation is largely text-based management work that can be executed and checked through schedules, coordination plans, and supervision logs, with no special licensure or physical manipulation required.",
+    "evaluation_artifact": "work assignment and coordination plan",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      62,
+      58,
+      36,
+      61,
+      27,
+      12
+    ],
+    "n_sub_ops": 6,
+    "n_tasks": 538,
+    "inclusion_examples": [
+      "Supervise the work of office, administrative, or customer service employees to ensure adherence to quality standards, deadlines, and proper procedures, correcting errors or problems.",
+      "Plan, schedule, or coordinate project activities to meet deadlines.",
+      "Prepare and issue work schedules, deadlines, and duty assignments for office or administrative staff.",
+      "Direct, supervise and evaluate work activities of medical, nursing, technical, clerical, service, maintenance, and other personnel."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The weakest-fit member is cluster 12 (Coordinate emergency response), which is a domain-specific instance of coordination rather than a separate operation; the bucket is coherent as one broader supervise/coordinate-work operation.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "consult_and_coordinate_with_others",
+    "label_name": "Consult and Coordinate With Others",
+    "definition": "Exchange information with other people to evaluate a case, clarify needs, resolve problems, and align next steps. This includes collaborating on substantive work and directing people to appropriate external services when needed.",
+    "minimum_task_contract": "The benchmark item must present a concrete case or work problem that requires the worker to communicate with other people to evaluate, coordinate, resolve, or redirect next steps, and the output must be checkable as a specific communication or referral artifact.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "Mostly text- and communication-based coordination that an AI agent can perform with standard tools, with the main limitation being real-world stakeholder interaction and judgment calls.",
+    "evaluation_artifact": "case coordination log or referral record",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      60,
+      18,
+      15,
+      14
+    ],
+    "n_sub_ops": 4,
+    "n_tasks": 433,
+    "inclusion_examples": [
+      "Confer with supervisory personnel, owners, contractors, or design professionals to discuss and resolve matters, such as work procedures, complaints, or construction problems.",
+      "Collaborate with others in the organization to ensure successful implementation of chosen problem solutions.",
+      "Refer patients, clients, or family members to community resources or to specialists as necessary.",
+      "Confer with medical professionals regarding image-based diagnoses."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The weakest-fit member is cluster 15 because referral is a downstream action rather than pure consultation, but all four themes still form one coherent operation around professional coordination and case/problem handling.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "advise_and_counsel_people",
+    "label_name": "Advise and Counsel People",
+    "definition": "Provide guidance, counseling, information, feedback, or recommendations to individuals or groups to help them understand issues, make decisions, or follow a plan. The shared operation is interpersonal advisory support, whether the topic is academic, career, technical, policy, or personal in nature.",
+    "minimum_task_contract": "The benchmark item must expose a concrete person- or group-facing advisory situation with an explicit issue, decision, or plan to address, so the worker\u2019s output can be judged as relevant, accurate, and appropriately tailored rather than generic information-sharing.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is primarily a text-and-dialogue operation that an AI agent can perform well using retrieval and drafting tools, with the main limitation being the need for real-world judgment and stakeholder context.",
+    "evaluation_artifact": "advice or counseling record",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      37,
+      52,
+      13,
+      6,
+      28
+    ],
+    "n_sub_ops": 5,
+    "n_tasks": 431,
+    "inclusion_examples": [
+      "Counsel individuals, groups, or families to help them understand problems, deal with crisis situations, define goals, and develop realistic action plans.",
+      "Advise managers on organizational policy matters, such as equal employment opportunity and sexual harassment, and recommend needed changes.",
+      "Provide staff and users with assistance solving computer-related problems, such as malfunctions and program problems.",
+      "Advise students on issues such as course selection, progress toward graduation, and career decisions."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "All members fit a single broad advisory operation; the weakest-fit member is provide technical support, but it still centers on giving assistance and troubleshooting to another person or team rather than doing the underlying work, so the bucket is a reasonable single-operation merge.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "analyze_and_interpret_data_for_decisions",
+    "label_name": "Analyze and Interpret Data for Decisions",
+    "definition": "Examine data, records, measurements, or test outputs to identify patterns, relationships, anomalies, risks, or likely outcomes that support a decision, recommendation, forecast, or plan. The worker turns raw or summarized information into an evaluable judgment or inference rather than merely collecting or reporting it.",
+    "minimum_task_contract": "The benchmark item must provide concrete data or diagnostic information and require an explicit interpretive conclusion that supports a decision, forecast, recommendation, or classification, not just extraction, transcription, or description of the inputs.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text/data analysis operation that an AI agent can perform with standard analytical tools; the main bottleneck is domain-specific judgment rather than physical action.",
+    "evaluation_artifact": "analysis memo or decision-support report",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      47,
+      32
+    ],
+    "n_sub_ops": 2,
+    "n_tasks": 414,
+    "inclusion_examples": [
+      "Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",
+      "Analyze and interpret patients' histories, symptoms, physical findings, or diagnostic information to develop appropriate diagnoses."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The bucket is coherent: both members are instances of interpreting information to support decisions, with diagnostic interpretation as a domain-specific subtype of the broader data-analysis operation.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "maintain_and_record_operational_information",
+    "label_name": "Maintain and Record Operational Information",
+    "definition": "Create, update, preserve, and retrieve work-related records, logs, histories, and databases that document ongoing operations or case activity. The shared operation is the accurate capture and maintenance of factual information for later organizational, regulatory, or professional use.",
+    "minimum_task_contract": "The item must require the worker to capture or maintain factual information about real work activity in a concrete record artifact, and it must specify what information is being documented and the purpose of keeping it.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-data handling task that an AI agent can perform with standard tools, with the main bottleneck being access to the underlying facts rather than physical work.",
+    "evaluation_artifact": "record set or database entry",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      7,
+      46,
+      10,
+      25
+    ],
+    "n_sub_ops": 4,
+    "n_tasks": 348,
+    "inclusion_examples": [
+      "Record, review, or maintain daily logs, reports, maintenance, and other records associated with geothermal operations.",
+      "Maintain databases of logistics information.",
+      "Collect, record, and maintain patient information, such as medical history, reports, or examination results.",
+      "Record repairs and maintenance performed."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The weakest-fit member is cluster 10, which adds case-history gathering, but the bucket still coheres as one operation centered on recording and maintaining operational or case information rather than analysis or action.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "prepare_reports_and_presentations",
+    "label_name": "Prepare Reports and Presentations",
+    "definition": "Compile, synthesize, and communicate completed findings, results, status, recommendations, or compliance information in a written, oral, tabular, or graphic artifact (report, presentation, publication, brief, summary) for a specified audience. The shared operation is producing the communicative artifact, not performing the underlying research or analysis that feeds it.",
+    "minimum_task_contract": "The item must require producing a concrete communicative artifact summarizing completed findings for a specified audience, with enough source material or results to distinguish reporting from doing the underlying research or analysis itself.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "Given source findings and an audience specification, drafting reports, presentations, and briefs is a textbook knowledge-work operation for an LLM agent with standard writing and charting tools.",
+    "evaluation_artifact": "report or presentation document",
+    "evaluation_method": "rubric_on_artifact",
+    "sibling_labels": [
+      "conduct_scientific_research",
+      "analyze_and_interpret_data_for_decisions",
+      "develop_and_maintain_instructional_and_operational_documents"
+    ],
+    "sub_operation_cluster_ids": [
+      45,
+      9
+    ],
+    "n_sub_ops": 2,
+    "n_tasks": 307,
+    "inclusion_examples": [
+      "Prepare reports of findings, illustrating data graphically and translating complex findings into written text.",
+      "Present research findings at scientific conferences and in papers written for scientific journals."
+    ],
+    "exclusion_examples": [
+      "Plan or conduct a research study to produce new findings (that is conduct_scientific_research).",
+      "Draft a policy or procedure manual for internal operations (that is develop_and_maintain_instructional_and_operational_documents)."
+    ],
+    "source_bucket_coherence_note": "The weakest-fit member is 'Conduct scientific research,' which is a different upstream operation than reporting findings, so the bucket is a near-merger of research execution and research communication rather than a single pure operation. | Split out of the emergent bucket 'Produce and Communicate Research Reports' at promotion time."
+  },
+  {
+    "label_id": "design_and_develop_technical_systems_and_applications",
+    "label_name": "Design And Develop Technical Systems And Applications",
+    "definition": "Create, evaluate, and specify technical systems, components, or digital applications, including selecting or validating designs and modifying them to meet functional, performance, or efficiency requirements. The shared operation is to turn requirements and constraints into a concrete system or software design decision or artifact.",
+    "minimum_task_contract": "Must expose a concrete technical system, component, or software/application artifact and require the worker to evaluate, specify, design, or modify it against explicit functional, performance, compatibility, efficiency, or environmental criteria.",
+    "agent_doability": "medium",
+    "agent_doability_rationale": "An AI agent can draft designs, compare options, and produce specifications or code, but real-world validation of technical performance and efficiency often requires domain expertise and physical or production testing.",
+    "evaluation_artifact": "design specification or implementation artifact",
+    "evaluation_method": "expert_review",
+    "sub_operation_cluster_ids": [
+      48,
+      51,
+      55
+    ],
+    "n_sub_ops": 3,
+    "n_tasks": 266,
+    "inclusion_examples": [
+      "Design and develop computer hardware and support peripherals, including central processing units (CPUs), support logic, microprocessors, custom integrated circuits, and printers and disk drives.",
+      "Design integrated mechanical or alternative systems, such as mechanical cooling systems with natural ventilation systems, to improve energy efficiency.",
+      "Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The weakest-fit member is cluster 51 because its energy-efficiency emphasis is a design constraint rather than a distinct operation; overall this is one coherent operation centered on technical design/specification and development.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "assess_eligibility_or_financial_status",
+    "label_name": "Assess Eligibility or Financial Status",
+    "definition": "Evaluate whether a person, application, or account meets a defined standard by gathering and reviewing relevant information, often through interview, records, or financial analysis. The shared operation is making a qualification, admissibility, risk, or feasibility judgment against explicit criteria.",
+    "minimum_task_contract": "The benchmark item must provide explicit criteria and sufficient applicant, recipient, or financial information so the worker can make a concrete eligibility, admissibility, qualification, risk, or feasibility determination rather than merely summarize facts.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-data analysis task that an AI agent can perform with standard retrieval and calculation tools, though final judgments may depend on policy interpretation.",
+    "evaluation_artifact": "eligibility or financial assessment memo",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      50,
+      11
+    ],
+    "n_sub_ops": 2,
+    "n_tasks": 247,
+    "inclusion_examples": [
+      "Analyze applicants' financial status, credit, and property evaluations to determine feasibility of granting loans.",
+      "Interview and investigate applicants for public assistance to gather information pertinent to their applications."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The weakest-fit member is 'Assess financial status,' but it still fits the same higher-level operation of evaluating status against criteria; this bucket is coherent as one operation and does not need splitting.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "create_and_update_visual_and_technical_drawings",
+    "label_name": "Create and Update Visual and Technical Drawings",
+    "definition": "Create, revise, or interpret structured visual artifacts that communicate spatial arrangement, dimensions, composition, or design intent. The worker turns source information into a map, layout, or technical drawing that can be checked for correctness, completeness, and adherence to conventions.",
+    "minimum_task_contract": "The item must provide source information and require production, revision, or interpretation of a map, layout, or technical drawing whose correctness can be judged against explicit spatial, dimensional, or representational constraints.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "These are primarily digital, text-and-image-based artifacts that an AI agent can generate and revise with standard tools, with evaluation possible against source specs or rubric criteria.",
+    "evaluation_artifact": "map, layout, or technical drawing file",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      67,
+      66,
+      42
+    ],
+    "n_sub_ops": 3,
+    "n_tasks": 208,
+    "inclusion_examples": [
+      "Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",
+      "Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts.",
+      "Prepare topographic or contour maps of land surveyed, including site features and other relevant information, such as charts, drawings, and survey notes."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The weakest-fit member is 'Plan visual layouts and designs,' which is broader than maps or technical drawings, but the bucket still coheres as one operation centered on creating and updating structured visual/spatial representations.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "develop_and_execute_outreach_campaigns_for_external_support",
+    "label_name": "Develop and Execute Outreach Campaigns for External Support",
+    "definition": "Create, plan, and carry out outward-facing campaigns intended to secure external support, such as funding, donations, sponsorships, or other contributions. The work centers on crafting persuasive outreach materials and coordinating their delivery to targeted audiences to obtain a measurable response.",
+    "minimum_task_contract": "Must describe a concrete outward-facing campaign or outreach effort whose explicit goal is to obtain external support such as grants, donations, sponsorships, or similar contributions, with enough detail to evaluate the campaign materials or plan against that goal.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-planning operation that an AI agent can execute with standard tools; the main bottleneck is strategic judgment about audience and messaging rather than physical action or licensure.",
+    "evaluation_artifact": "campaign plan and outreach materials",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      17,
+      5,
+      20
+    ],
+    "n_sub_ops": 3,
+    "n_tasks": 186,
+    "inclusion_examples": [
+      "Plan and prepare advertising and promotional material to increase sales of products or services, working with customers, company officials, sales departments, and advertising agencies.",
+      "Write grant applications to obtain funding.",
+      "Develop or implement fundraising activities, such as annual giving campaigns or direct mail programs."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The weakest-fit member is write grant proposals, but it still fits the broader operation of developing persuasive external-support outreach; this bucket is a single operation rather than a merger that should be split.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "estimate_costs_and_manage_budgets",
+    "label_name": "Estimate Costs and Manage Budgets",
+    "definition": "Estimate the costs, resource needs, and feasibility of a planned activity, and use those estimates to create, monitor, adjust, or report on budgets for the relevant unit or project. The work centers on financial planning and control for a defined scope, often to support decisions about alternatives, allocations, or expenditures.",
+    "minimum_task_contract": "The benchmark item must expose a defined project, program, or operational scope with enough cost, resource, or expenditure information to require both estimating/comparing costs and producing or managing a budget tied to that same scope.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-data analysis task that an AI agent can perform with spreadsheets, documents, and calculation tools; the main limitation is domain-specific judgment rather than physical work.",
+    "evaluation_artifact": "cost estimate and budget document",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      57,
+      56
+    ],
+    "n_sub_ops": 2,
+    "n_tasks": 176,
+    "inclusion_examples": [
+      "Analyze blueprints and other documentation to prepare time, cost, materials, and labor estimates.",
+      "Plan, administer, and control budgets for contracts, equipment, and supplies."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The bucket is coherent as one operation because both members are financial planning/control variants over the same underlying cost-and-resource analysis workflow; the weakest fit is cluster 57, which leans toward feasibility estimation but still belongs with budget work.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "assess_and_restore_environmental_conditions",
+    "label_name": "Assess and Restore Environmental Conditions",
+    "definition": "Evaluate the environmental effects of a site, project, or activity and develop or implement plans to restore, remediate, conserve, or mitigate resulting impacts. The work centers on diagnosing environmental conditions and translating that assessment into a concrete restoration or management plan.",
+    "minimum_task_contract": "The item must present a specific site, project, activity, or environmental condition and require both impact assessment and a concrete restoration, remediation, conservation, or mitigation plan tied to that same case.",
+    "agent_doability": "medium",
+    "agent_doability_rationale": "An agent can analyze environmental data and draft restoration plans, but real-world execution and validation often depend on field measurements, site-specific constraints, and stakeholder or regulatory input.",
+    "evaluation_artifact": "environmental assessment and restoration plan",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      63,
+      64
+    ],
+    "n_sub_ops": 2,
+    "n_tasks": 132,
+    "inclusion_examples": [
+      "Evaluate proposals for infrastructure projects or other development for environmental impact or sustainability.",
+      "Plan environmental restoration projects, using biological databases, environmental strategies, and planning software."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The two members are tightly linked as sequential parts of one environmental management operation; the weakest fit is 'Assess environmental impacts,' but it still belongs because the assessment feeds the restoration plan rather than forming a separate operation.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "select_and_place_people_into_roles",
+    "label_name": "Select and Place People Into Roles",
+    "definition": "Evaluate people or candidates and choose, recommend, or assign them to specific roles, positions, or parts based on fit. The operation may include recruiting, interviewing, auditioning, screening, or making hiring/casting recommendations, but its shared core is selecting individuals for placement into roles.",
+    "minimum_task_contract": "The item must expose candidate-specific evidence and a target role or role criteria, and require the worker to make or justify a selection, recommendation, or placement decision about people rather than merely describe staffing needs or manage administrative records.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-decision workflow over candidate information and role requirements, which an AI agent can execute with standard tools; the main limitation is that final human judgment may still be needed in real-world hiring or casting.",
+    "evaluation_artifact": "selection recommendation or placement decision record",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      22,
+      40
+    ],
+    "n_sub_ops": 2,
+    "n_tasks": 128,
+    "inclusion_examples": [
+      "Identify staff vacancies and recruit, interview, and select applicants.",
+      "Audition and interview performers to match their attributes to specific roles or to increase the pool of available acting talent."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The bucket is coherent as one operation centered on evaluating people for placement into roles; the weakest-fit member is the broader recruit-and-hire theme, but it still shares the same selection core and does not require a split.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "conduct_scientific_research",
+    "label_name": "Conduct Scientific Research",
+    "definition": "Plan, conduct, direct, or analyze a research study intended to produce new scientific, medical, environmental, social, technical, or economic findings. The shared operation is executing the research itself (design, data collection, analysis) rather than merely reporting prior findings, routine assistance, or fundraising.",
+    "minimum_task_contract": "The item must present a task whose core operation is planning, conducting, directing, or analyzing a research study that generates new findings, with enough context to distinguish it from information lookup or from writing up already-completed research.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "Study design, protocol drafting, and results analysis are largely text-and-data operations an agent can perform with standard tools; the binding constraint is that real experimental execution and credentialed field collection often require physical work or regulatory authorization outside the agent's reach.",
+    "evaluation_artifact": "study protocol, analysis plan, or analysis report",
+    "evaluation_method": "expert_review",
+    "sibling_labels": [
+      "prepare_reports_and_presentations",
+      "analyze_and_interpret_data_for_decisions",
+      "inspect_evaluate_and_verify_compliance_and_performance"
+    ],
+    "sub_operation_cluster_ids": [
+      53
+    ],
+    "n_sub_ops": 1,
+    "n_tasks": 114,
+    "inclusion_examples": [
+      "Plan and direct studies to investigate human or animal disease, preventive methods, and treatments for disease."
+    ],
+    "exclusion_examples": [
+      "Prepare and present a report summarizing research already completed by others (that is prepare_reports_and_presentations).",
+      "Analyze existing operational data to support a decision (that is analyze_and_interpret_data_for_decisions)."
+    ],
+    "source_bucket_coherence_note": "The weakest-fit member is 'Conduct scientific research,' which is a different upstream operation than reporting findings, so the bucket is a near-merger of research execution and research communication rather than a single pure operation. | Split out of the emergent bucket 'Produce and Communicate Research Reports' at promotion time: research execution and research communication are different top-level operations that must be separated for benchmark-coverage analysis."
+  },
+  {
+    "label_id": "negotiate_contracts_and_terms",
+    "label_name": "Negotiate Contracts and Terms",
+    "definition": "Bargain over, draft, administer, and resolve the terms of agreements with external parties. The work centers on reaching and maintaining mutually acceptable contract terms rather than simply transacting under fixed terms.",
+    "minimum_task_contract": "The item must require a worker to actively negotiate, draft, administer, or settle the terms of an agreement with another party, with a concrete contract or term set as the output or object of work.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely text- and decision-based work that an AI agent can draft, compare, and revise using documents and communication tools, though final agreement still depends on human counterparties.",
+    "evaluation_artifact": "contract draft or negotiation memo",
+    "evaluation_method": "expert_review",
+    "sub_operation_cluster_ids": [
+      49
+    ],
+    "n_sub_ops": 1,
+    "n_tasks": 99,
+    "inclusion_examples": [
+      "Negotiate, renegotiate, and administer contracts with suppliers, vendors, and other representatives."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "All member themes describe the same core operation of negotiating and managing contract terms; there is no meaningful split needed.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "assess_and_grade_work",
+    "label_name": "Assess and Grade Work",
+    "definition": "Evaluate submitted work or responses against established criteria, then assign scores, grades, or feedback based on that evaluation. The operation includes both formal assessments and student work when the core action is judging quality or correctness and recording the result.",
+    "minimum_task_contract": "The item must expose a concrete submission or response set plus explicit or inferable criteria so the worker can produce a defensible score, grade, or evaluative feedback rather than only general commentary.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-rubric task that an AI agent can perform end-to-end, with the main limitation being the need for clear scoring criteria and sometimes subjective judgment.",
+    "evaluation_artifact": "graded assessment or work-evaluation record",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      3,
+      1
+    ],
+    "n_sub_ops": 2,
+    "n_tasks": 82,
+    "inclusion_examples": [
+      "Evaluate and grade students' class work, assignments, and papers.",
+      "Compile, administer, and grade examinations, or assign this work to others."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The bucket is coherent: both members are instances of the same core operation, namely evaluating submitted responses or work and recording a grade or score; the assessment-vs-student-work distinction is a domain variation rather than a separate operation.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "present_evidence_in_hearings",
+    "label_name": "Present Evidence in Hearings",
+    "definition": "Present, explain, or testify about evidence, findings, or expert opinions in a formal legal, administrative, or quasi-judicial proceeding. The work centers on communicating evidentiary material to a decision-maker or record, not on investigating the underlying matter or managing the proceeding itself.",
+    "minimum_task_contract": "Must require a worker to present or testify about evidence, findings, or expert conclusions in a formal legal or administrative proceeding, not merely investigate, research, or manage the proceeding.",
+    "agent_doability": "medium",
+    "agent_doability_rationale": "An agent can draft and organize testimony or hearing presentations, but real execution depends on live proceedings, procedural rules, and human/legal authority.",
+    "evaluation_artifact": "hearing testimony or presentation record",
+    "evaluation_method": "expert_review",
+    "sub_operation_cluster_ids": [
+      16
+    ],
+    "n_sub_ops": 1,
+    "n_tasks": 75,
+    "inclusion_examples": [
+      "Rule on admissibility of evidence and methods of conducting testimony."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "This bucket is coherent and represents one operation; there is no clear weaker-fit member beyond the same hearing-testimony theme.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "select_materials_by_properties",
+    "label_name": "Select Materials by Properties",
+    "definition": "Choose raw materials, components, or substances for a process or design based on relevant physical, chemical, functional, cost, safety, or environmental properties. The operation centers on comparing candidate materials against explicit criteria and selecting the best fit.",
+    "minimum_task_contract": "The item must expose a concrete choice among at least two candidate materials or substances and the criteria or constraints needed to justify which one should be selected.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-data decision task that an AI agent can perform using retrieval and comparison tools; the main limitation is domain-specific judgment rather than physical execution.",
+    "evaluation_artifact": "material selection rationale",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      65
+    ],
+    "n_sub_ops": 1,
+    "n_tasks": 45,
+    "inclusion_examples": [
+      "Select materials for use based on strength, color, texture, balance, weight, size, malleability and other characteristics."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The bucket is coherent and represents a single operation; no member appears to require a different top-level operation.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "prescribe_treatments_and_medications",
+    "label_name": "Prescribe Treatments and Medications",
+    "definition": "Determine and authorize medications, therapies, or related treatment regimens for a patient case, taking into account efficacy, safety, and any governing legal or collaborative-practice constraints. The operation is to select and specify the treatment, not merely discuss options.",
+    "minimum_task_contract": "Must present a patient case and require selecting, authorizing, or specifying a medication or treatment regimen, with any governing constraint such as legal authority, state regulation, or physician approval made explicit.",
+    "agent_doability": "low",
+    "agent_doability_rationale": "It requires regulated professional licensure and real clinical judgment over patient-specific risk, which an AI agent cannot legitimately perform end-to-end.",
+    "evaluation_artifact": "prescription or treatment-order record",
+    "evaluation_method": "expert_review",
+    "sub_operation_cluster_ids": [
+      35
+    ],
+    "n_sub_ops": 1,
+    "n_tasks": 39,
+    "inclusion_examples": [
+      "Prescribe medications based on efficacy, safety, and cost as legally authorized."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The bucket is coherent and represents a single operation; no clear split is needed.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "recommend_process_improvements",
+    "label_name": "Recommend Process Improvements",
+    "definition": "Analyze an existing process, system, or workflow to identify weaknesses and propose changes that improve performance, efficiency, quality, cost, reliability, or compliance. The work may include recommending or implementing specific improvements, but the shared operation is the evaluation and improvement of an existing operation.",
+    "minimum_task_contract": "The item must provide an existing process, system, or workflow with enough context to evaluate its current performance and justify at least one concrete improvement recommendation or implementation change.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is largely a text-and-analysis task that an AI agent can perform using documents, data, and standard analytical tools; the main bottleneck is domain-specific judgment rather than physical execution.",
+    "evaluation_artifact": "improvement recommendation memo",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      41
+    ],
+    "n_sub_ops": 1,
+    "n_tasks": 39,
+    "inclusion_examples": [
+      "Recommend improvements to existing or planned logistics processes."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The bucket is coherent and represents one operation; the member theme is broad but still centered on evaluating an existing process and recommending improvements, with no clear need to split.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "compile_subject_bibliographies",
+    "label_name": "Compile Subject Bibliographies",
+    "definition": "Assemble a curated list or bibliography of books, articles, and other relevant materials on a specified subject. The work may include selecting, organizing, and lightly annotating sources, but the core output is a subject-focused reference list.",
+    "minimum_task_contract": "The item must specify a subject or topic and require the worker to produce a bibliography or comparable list of relevant materials for that subject, not merely summarize, classify, or verify existing items.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "This is primarily a text-and-retrieval task that an AI agent can perform end-to-end using search and document tools, with evaluation possible against source relevance and completeness.",
+    "evaluation_artifact": "subject bibliography document",
+    "evaluation_method": "rubric_on_artifact",
+    "sub_operation_cluster_ids": [
+      2
+    ],
+    "n_sub_ops": 1,
+    "n_tasks": 32,
+    "inclusion_examples": [
+      "Compile lists of books, periodicals, articles, and audio-visual materials on particular subjects."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The bucket is coherent and represents a single operation; the member theme is a direct match with no meaningful split needed.",
+    "sibling_labels": []
+  },
+  {
+    "label_id": "facilitate_group_discussions",
+    "label_name": "Facilitate Group Discussions",
+    "definition": "Lead and moderate a live group discussion so participants contribute, stay engaged, and the conversation stays focused on a shared topic or objective. The worker prompts participation, manages turn-taking or flow, and keeps the exchange productive.",
+    "minimum_task_contract": "Must describe a worker actively initiating and moderating a live group discussion or equivalent interactive forum, with the goal of guiding participant contributions rather than merely presenting information.",
+    "agent_doability": "high",
+    "agent_doability_rationale": "An AI agent can readily plan, moderate, and document discussion flow in text-based or mediated settings; the main limitation is real-time human interaction rather than task complexity.",
+    "evaluation_artifact": "discussion facilitation transcript or observation log",
+    "evaluation_method": "expert_review",
+    "sub_operation_cluster_ids": [
+      0
+    ],
+    "n_sub_ops": 1,
+    "n_tasks": 31,
+    "inclusion_examples": [
+      "Initiate, facilitate, and moderate classroom discussions."
+    ],
+    "exclusion_examples": [],
+    "source_bucket_coherence_note": "The bucket is coherent and represents a single operation; there is no clear weaker-fit member or sign of a needed split.",
+    "sibling_labels": []
+  }
+]

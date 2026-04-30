@@ -1,0 +1,431 @@
+=== C000  n=35  occs=35
+  OCCS: Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1) | Architecture Teachers, Postsecondary(1) | Engineering Teachers, Postsecondary(1) | Agricultural Sciences Teachers, Postsecondary(1)
+  TASKS: Maintain regularly scheduled office hours to advise and assist students. // Maintain regularly scheduled office hours to advise and assist students. // Maintain regularly scheduled office hours to advise and assist students. // Maintain regularly scheduled office hours to advise and assist students. // Maintain regularly scheduled office hours to advise and assist students.
+
+=== C001  n=35  occs=35
+  OCCS: School Psychologists(1) | Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1) | Architecture Teachers, Postsecondary(1) | Engineering Teachers, Postsecondary(1)
+  TASKS: Initiate, facilitate, and moderate classroom discussions. // Initiate, facilitate, and moderate classroom discussions. // Initiate, facilitate, and moderate classroom discussions. // Initiate, facilitate, and moderate classroom discussions. // Initiate, facilitate, and moderate classroom discussions.
+
+=== C002  n=39  occs=37
+  OCCS: Library Technicians(3) | Clergy(1) | Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1) | Architecture Teachers, Postsecondary(1)
+  TASKS: Read from sacred texts, such as the Bible, Torah, or Koran. // Compile bibliographies of specialized materials for outside reading assignments. // Compile bibliographies of specialized materials for outside reading assignments. // Compile bibliographies of specialized materials for outside reading assignments. // Compile lists of books, periodicals, articles, and audio-visual materials on particular subjects.
+
+=== C003  n=37  occs=37
+  OCCS: Political Scientists(1) | Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1) | Architecture Teachers, Postsecondary(1) | Engineering Teachers, Postsecondary(1)
+  TASKS: Advise political science students. // Conduct or participate in workshops, committees, and conferences designed to promote the intellectual, social, and physical welfare of stude // Act as advisers to student organizations. // Act as advisers to student organizations. // Act as advisers to student organizations.
+
+=== C004  n=46  occs=42
+  OCCS: Legislators(3) | Chief Executives(2) | Chemistry Teachers, Postsecondary(2) | Education Administrators, Postsecondary(1) | Astronomers(1) | Political Scientists(1)
+  TASKS: Nominate citizens to boards or commissions. // Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues. // Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues. // Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues. // Serve on academic or administrative committees that deal with institutional policies, departmental matters, and academic issues.
+
+=== C005  n=36  occs=36
+  OCCS: Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1) | Architecture Teachers, Postsecondary(1) | Engineering Teachers, Postsecondary(1) | Agricultural Sciences Teachers, Postsecondary(1)
+  TASKS: Evaluate and grade students' class work, assignments, and papers. // Evaluate and grade students' class work, assignments, and papers. // Evaluate and grade students' class work, laboratory work, projects, assignments, and papers. // Evaluate and grade students' class work, laboratory and clinic work, assignments, and papers. // Evaluate and grade students' class work, laboratory work, assignments, and papers.
+
+=== C006  n=56  occs=56
+  OCCS: Clinical Research Coordinators(1) | School Psychologists(1) | Educational, Guidance, and Career Counselors and Advisors(1) | Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1)
+  TASKS: Maintain accurate and complete student records as required by laws, district policies, or administrative regulations. // Maintain student attendance records, grades, and other required records. // Maintain accurate and complete student records as required by laws, district policies, and administrative regulations. // Maintain student attendance records, grades, and other required records. // Maintain student attendance records, grades, and other required records.
+
+=== C007  n=36  occs=36
+  OCCS: Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1) | Architecture Teachers, Postsecondary(1) | Engineering Teachers, Postsecondary(1) | Agricultural Sciences Teachers, Postsecondary(1)
+  TASKS: Compile, administer, and grade examinations, or assign this work to others. // Compile, administer, and grade examinations or assign this work to others. // Compile, administer, and grade examinations, or assign this work to others. // Compile, administer, and grade examinations, or assign this work to others. // Compile, administer, and grade examinations, or assign this work to others.
+
+=== C008  n=50  occs=44
+  OCCS: Educational, Guidance, and Career Counselors and Advisors(6) | Career/Technical Education Teachers, Postsecondary(2) | Legislators(1) | Education Administrators, Postsecondary(1) | Industrial-Organizational Psychologists(1) | Clinical and Counseling Psychologists(1)
+  TASKS: Advise students on academic and vocational curricula, career issues, and laboratory and field research. // Advise students on academic and vocational curricula and on career issues. // Advise students on academic and vocational curricula and on career issues. // Advise students on academic and vocational curricula and on career issues. // Refer students to degree programs based on interests, aptitudes, or educational assessments.
+
+=== C009  n=39  occs=39
+  OCCS: Astronomers(1) | Geoscientists, Except Hydrologists and Geographers(1) | Sociologists(1) | Anthropologists and Archeologists(1) | Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1)
+  TASKS: Collaborate with other astronomers to carry out research projects. // Collaborate with colleagues to address teaching and research issues. // Collaborate with colleagues to address teaching and research issues. // Collaborate with colleagues to address teaching and research issues. // Collaborate with colleagues to address teaching and research issues.
+
+=== C010  n=35  occs=35
+  OCCS: Compensation, Benefits, and Job Analysis Specialists(1) | Actuaries(1) | Atmospheric and Space Scientists(1) | Economists(1) | Geographers(1) | Business Teachers, Postsecondary(1)
+  TASKS: Prepare forecasts or briefings to meet the needs of industry, business, government, or other groups. // Provide advice and consultation on economic relationships to businesses, public and private agencies, and other employers. // Consult with, or serve as, technical liaison between business, industry, government, and union officials. // Provide advice to clients on a contract basis, working as a consultant. // Provide professional consulting services to government or industry.
+
+=== C011  n=45  occs=43
+  OCCS: Education Administrators, Postsecondary(2) | Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors(2) | Clinical Research Coordinators(1) | Equal Opportunity Representatives and Officers(1) | Meeting, Convention, and Event Planners(1) | Training and Development Specialists(1)
+  TASKS: Identify and recruit potential athletes by sending recruitment letters, meeting with recruits, and arranging and offering incentives, such a // Participate in student recruitment, registration, and placement activities. // Participate in student recruitment, registration, and placement activities. // Participate in student recruitment, selection, and admission, making admissions recommendations when required to do so. // Participate in student recruitment, registration, and placement activities.
+
+=== C012  n=67  occs=65
+  OCCS: Emergency Management Directors(2) | Climate Change Policy Analysts(2) | Chief Sustainability Officers(1) | Legislators(1) | Fundraising Managers(1) | Education and Childcare Administrators, Preschool and Daycare(1)
+  TASKS: Write grant applications to obtain funding. // Write grant proposals to obtain funding for research. // Write grants and papers or attend fundraising events to seek research funds. // Write grant proposals to procure external research funding. // Identify and apply for project funding.
+
+=== C013  n=39  occs=36
+  OCCS: Education Administrators, Postsecondary(2) | Art, Drama, and Music Teachers, Postsecondary(2) | English Language and Literature Teachers, Postsecondary(2) | Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1)
+  TASKS: Represent institutions at community and campus events, in meetings with other institution personnel, and during accreditation processes. // Promote the university by participating in community, state, and national events or meetings, and by developing partnerships with industry a // Participate in campus and community events. // Participate in campus and community events. // Keep students informed of community events, such as plays and concerts.
+
+=== C014  n=38  occs=38
+  OCCS: Chief Executives(1) | Legislators(1) | Zoologists and Wildlife Biologists(1) | Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1)
+  TASKS: Perform administrative duties, such as serving as department head. // Perform administrative duties, such as serving as department head. // Perform administrative duties, such as serving as department head. // Appoint department heads or managers and assign or delegate responsibilities to them. // Perform administrative duties, such as serving as department head.
+
+=== C015  n=30  occs=22
+  OCCS: Preschool Teachers, Except Special Education(2) | Elementary School Teachers, Except Special Education(2) | Middle School Teachers, Except Special and Career/Technical Education(2) | Career/Technical Education Teachers, Middle School(2) | Secondary School Teachers, Except Special and Career/Technical Education(2) | Career/Technical Education Teachers, Secondary School(2)
+  TASKS: Establish and enforce rules for behavior and procedures for maintaining order among the students. // Establish and enforce rules for behavior and policies and procedures to maintain order among students. // Maintain order, discipline, and security within assigned areas in accordance with relevant rules, regulations, policies, and laws. // Establish and enforce rules for behavior and procedures for maintaining order among students. // Enforce school and class rules to maintain order in the classroom.
+
+=== C016  n=66  occs=66
+  OCCS: Security Managers(1) | Natural Sciences Managers(1) | Emergency Management Directors(1) | Spa Managers(1) | Training and Development Specialists(1) | Business Continuity Planners(1)
+  TASKS: Attend continuing education classes. // Attend continuing education courses to maintain or update skills. // Participate in activities aimed at professional growth and development, including conferences or continuing education activities. // Participate in conferences or training to update or share knowledge of new hearing or balance disorder treatment methods or technologies. // Update knowledge and skills to keep up with rapid advancements in computer technology.
+
+=== C017  n=120  occs=115
+  OCCS: Nurse Practitioners(3) | Legislators(2) | Regulatory Affairs Specialists(2) | Registered Nurses(2) | Advertising and Promotions Managers(1) | Computer and Information Systems Managers(1)
+  TASKS: Keep abreast of developments in the field by reading current literature, talking with colleagues, giving presentations at conferences, and s // Read current literature, talk with colleagues, or participate in professional organizations or conferences to keep abreast of developments i // Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferen // Keep abreast of developments in the field by reading current literature, talking with colleagues, and participating in professional conferen // Maintain current knowledge of state legal regulations for nurse practitioner practice, including reimbursement of services.
+
+=== C018  n=43  occs=41
+  OCCS: Historians(2) | Anthropology and Archeology Teachers, Postsecondary(2) | Natural Sciences Managers(1) | Zoologists and Wildlife Biologists(1) | School Psychologists(1) | Healthcare Social Workers(1)
+  TASKS: Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at profession // Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media. // Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media. // Conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media. // Conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at profession
+
+=== C019  n=35  occs=35
+  OCCS: Clergy(1) | Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1) | Architecture Teachers, Postsecondary(1) | Engineering Teachers, Postsecondary(1)
+  TASKS: Prepare and deliver lectures to undergraduate or graduate students on topics such as organic chemistry, analytical chemistry, and chemical s // Prepare and deliver sermons or other talks. // Prepare and deliver lectures to undergraduate or graduate students on topics such as financial accounting, principles of marketing, and oper // Prepare and deliver lectures to undergraduate or graduate students on topics such as ancient history, postwar civilizations, and the history // Prepare and deliver lectures to undergraduate or graduate students on topics such as collection development, archival methods, and indexing 
+
+=== C020  n=45  occs=38
+  OCCS: Business Teachers, Postsecondary(2) | Computer Science Teachers, Postsecondary(2) | Sociology Teachers, Postsecondary(2) | Nursing Instructors and Teachers, Postsecondary(2) | Social Work Teachers, Postsecondary(2) | English Language and Literature Teachers, Postsecondary(2)
+  TASKS: Teach or advise undergraduate or graduate students or supervise their research. // Teach or mentor undergraduate and graduate students in anthropology or archeology. // Supervise undergraduate or graduate teaching, internship, and research work. // Mentor graduate students and junior colleagues. // Supervise undergraduate or graduate teaching, internship, and research work.
+
+=== C021  n=52  occs=51
+  OCCS: Teaching Assistants, Postsecondary(2) | Training and Development Specialists(1) | Business Teachers, Postsecondary(1) | Computer Science Teachers, Postsecondary(1) | Mathematical Science Teachers, Postsecondary(1) | Architecture Teachers, Postsecondary(1)
+  TASKS: Prepare course materials, such as syllabi, homework assignments, and handouts. // Review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments. // Prepare course materials, such as syllabi, homework assignments, and handouts. // Prepare course materials, such as syllabi, homework assignments, and handouts. // Prepare course materials, such as syllabi, homework assignments, and handouts.
+
+=== C022  n=36  occs=31
+  OCCS: Social and Human Service Assistants(2) | Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education(2) | Teaching Assistants, Special Education(2) | Coaches and Scouts(2) | Athletic Trainers(2) | Fitness and Wellness Coordinators(1)
+  TASKS: Demonstrate correct use of exercise equipment or performance of exercise routines. // Establish, teach, and monitor students' compliance with safety rules for handling chemicals, equipment, and other hazardous materials. // Advise dancers on standing and moving properly, teaching correct dance techniques to help prevent injuries. // Teach and demonstrate use of gymnastic and training equipment, such as trampolines and weights. // Supervise and monitor students' use of tools and equipment.
+
+=== C023  n=64  occs=32
+  OCCS: School Psychologists(4) | Special Education Teachers, Elementary School(4) | Clinical and Counseling Psychologists(3) | Kindergarten Teachers, Except Special Education(3) | Elementary School Teachers, Except Special Education(3) | Middle School Teachers, Except Special and Career/Technical Education(3)
+  TASKS: Examine children regularly to assess their growth and development. // Compile and interpret students' test results, along with information from teachers and parents, to diagnose conditions and to help assess el // Observe and evaluate students' performance, behavior, social development, and physical health. // Observe and evaluate students' performance, behavior, social development, and physical health. // Observe and evaluate students' performance, behavior, social development, and physical health.
+
+=== C024  n=89  occs=59
+  OCCS: Instructional Coordinators(7) | Education Administrators, Kindergarten through Secondary(4) | Career/Technical Education Teachers, Postsecondary(3) | Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors(3) | Self-Enrichment Teachers(3) | Education and Childcare Administrators, Preschool and Daycare(2)
+  TASKS: Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction. // Plan, evaluate, and revise curricula, course content, and course materials and methods of instruction. // Establish and communicate clear objectives for all lessons, units, and projects to students. // Plan, evaluate, and revise curricula, course content, course materials, and methods of instruction. // Establish clear objectives for all lessons, units, and projects, and communicate those objectives to students.
+
+=== C025  n=75  occs=11
+  OCCS: Morticians, Undertakers, and Funeral Arrangers(18) | Funeral Home Managers(16) | Embalmers(16) | Coroners(14) | Veterinarians(3) | Physicians, Pathologists(2)
+  TASKS: Complete death certificates, including the assignment of cause and manner of death. // Interview persons present at death scenes to obtain information useful in determining the manner of death. // Perform medicolegal examinations and autopsies, conducting preliminary examinations of the body to identify victims, locate signs of trauma, // Provide information concerning the circumstances of death to relatives of the deceased. // Consult with families or friends of the deceased to arrange funeral details, such as obituary notice wording, casket selection, or plans for
+
+=== C026  n=80  occs=69
+  OCCS: Education Administrators, Postsecondary(2) | Clinical and Counseling Psychologists(2) | Historians(2) | Mental Health Counselors(2) | Child, Family, and School Social Workers(2) | Probation Officers and Correctional Treatment Specialists(2)
+  TASKS: Write reports and maintain proper documentation of information, such as client Medicaid or billing records or caseload activities, including // Complete reports and forms required to finalize cases. // Write reports or case summaries to document investigations. // Fill out and maintain client-related paperwork, including federal- and state-mandated forms, client diagnostic records, and progress notes. // Keep records and prepare reports detailing findings, investigative methods, and laboratory techniques.
+
+=== C027  n=76  occs=66
+  OCCS: Executive Secretaries and Executive Administrative Assistants(4) | Medical Transcriptionists(3) | Producers and Directors(2) | Radiologic Technologists and Technicians(2) | Athletic Trainers(2) | Medical Assistants(2)
+  TASKS: Perform support duties, such as preparing materials, keeping records, maintaining supplies, and scheduling activities. // Answer telephones, responding to questions or requests. // Perform general office duties, such as answering telephones, taking dictation, or completing insurance forms. // Perform administrative duties that facilitate admission, transfer, or discharge of patients. // Receive patients, schedule appointments, and maintain patient records.
+
+=== C028  n=116  occs=75
+  OCCS: Chief Executives(6) | General and Operations Managers(5) | Meeting, Convention, and Event Planners(4) | Sales Managers(3) | Administrative Services Managers(3) | Lodging Managers(3)
+  TASKS: Schedule guest appointments. // Plan, describe, arrange, and sell itinerary tour packages and promotional travel incentives offered by various travel carriers. // Direct or coordinate an organization's financial or budget activities to fund operations, maximize investments, or increase efficiency. // Schedule subjects for appointments, procedures, or inpatient stays as required by study protocols. // Schedule client appointments.
+
+=== C029  n=70  occs=32
+  OCCS: School Psychologists(4) | Child, Family, and School Social Workers(4) | Kindergarten Teachers, Except Special Education(4) | Special Education Teachers, Middle School(4) | Special Education Teachers, Secondary School(4) | Educational, Guidance, and Career Counselors and Advisors(3)
+  TASKS: Observe participants and inform them of corrective measures necessary for skill improvement. // Guide and counsel students with adjustment or academic problems or with special academic interests. // Confer with parents and staff to discuss educational activities and policies and students' behavioral or learning problems. // Assess students' progress throughout tutoring sessions. // Communicate with other staff to resolve problems with individual students.
+
+=== C030  n=135  occs=48
+  OCCS: Museum Technicians and Conservators(14) | Anthropologists and Archeologists(13) | Historians(13) | Library Technicians(13) | Librarians and Media Collections Specialists(12) | Archivists(10)
+  TASKS: Document physical characteristics of property such as measurements, quality, and design. // Organize archival records and develop classification systems to facilitate access to archival materials. // Provide reference services and assistance for users needing archival materials. // Prepare archival records, such as document descriptions, to allow easy access to information. // Research a story's background information to provide complete and accurate information.
+
+=== C031  n=276  occs=84
+  OCCS: Cytogenetic Technologists(19) | Biochemists and Biophysicists(18) | Microbiologists(11) | Geneticists(11) | Nuclear Engineers(10) | Histotechnologists(10)
+  TASKS: Embed tissue specimens into paraffin wax blocks, or infiltrate tissue specimens with wax. // Count numbers of chromosomes and identify the structural abnormalities by viewing culture slides through microscopes, light microscopes, or  // Arrange and attach chromosomes in numbered pairs on karyotype charts, using standard genetics laboratory practices and nomenclature, to iden // Examine cell samples to detect abnormalities in the color, shape, or size of cellular components and patterns. // Cut sections of body tissues for microscopic examination, using microtomes.
+
+=== C032  n=36  occs=4
+  OCCS: Nanosystems Engineers(20) | Nanotechnology Engineering Technologists and Technicians(13) | Microsystems Engineers(2) | Electro-Mechanical and Mechatronics Technologists and Technicians(1)
+  TASKS: Provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of ch // Repair nanotechnology processing or testing equipment or submit work orders for equipment repair. // Collaborate with scientists or engineers to design or conduct experiments for the development of nanotechnology materials, components, devic // Assist nanoscientists or engineers in processing or characterizing materials according to physical or chemical properties. // Conduct research related to a range of nanotechnology topics, such as packaging, heat transfer, fluorescence detection, nanoparticle dispers
+
+=== C033  n=36  occs=7
+  OCCS: Appraisers and Assessors of Real Estate(17) | Appraisers of Personal and Business Property(9) | Real Estate Brokers(3) | Real Estate Sales Agents(3) | Property, Real Estate, and Community Association Managers(2) | Urban and Regional Planners(1)
+  TASKS: Determine the appropriate type of valuation to make, such as fair market, replacement, or liquidation, based on the needs of the property ow // Write descriptions of the property being appraised. // Calculate the value of property based on comparisons to recent sales, estimated cost to reproduce, and anticipated property income streams. // Compute final estimation of property values, taking into account such factors as depreciation, replacement costs, value comparisons of simil // Locate and record data on sales of comparable property using specialized software, internet searches, or personal records.
+
+=== C034  n=163  occs=47
+  OCCS: Firefighters(23) | First-Line Supervisors of Firefighting and Prevention Workers(21) | Emergency Management Directors(16) | Fire Inspectors and Investigators(16) | Forest Fire Inspectors and Prevention Specialists(12) | Fire-Prevention and Protection Engineers(11)
+  TASKS: Respond to and report in-flight emergencies and malfunctions. // Alert airport emergency services in cases of emergency or when aircraft are experiencing difficulties. // Direct reactor operators in emergency situations, in accordance with emergency operating procedures. // Patrol assigned areas by car, boat, airplane, horse, or on foot to enforce game, fish, or boating laws or to manage wildlife programs, lakes // Respond to emergencies, such as transformer or transmission line failures, and route current around affected areas.
+
+=== C035  n=152  occs=141
+  OCCS: Online Merchants(3) | Pharmacy Technicians(3) | Purchasing Agents, Except Wholesale, Retail, and Farm Products(2) | Telecommunications Engineering Specialists(2) | Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary(2) | Adapted Physical Education Specialists(2)
+  TASKS: Requisition or acquire needed materials for special effects, including wigs, beards, and special cosmetics. // Shop for or order food and kitchen supplies and equipment. // Determine availability of necessary equipment or supplies for operative procedures. // Receive and store incoming supplies, verify quantities against invoices, check for outdated medications in current inventory, and inform sup // Order and monitor dental supplies and equipment inventory.
+
+=== C036  n=94  occs=28
+  OCCS: Logistics Analysts(20) | Logistics Engineers(14) | Supply Chain Managers(13) | Transportation, Storage, and Distribution Managers(8) | Logisticians(5) | Buyers and Purchasing Agents, Farm Products(3)
+  TASKS: Supervise the activities of workers engaged in receiving, storing, testing, and shipping products or materials. // Fill customer orders by packaging sold items and documentation for direct shipping or by transferring orders to manufacturers or third-party // Maintain databases of logistics information. // Maintain and develop positive business relationships with a customer's key personnel involved in, or directly relevant to, a logistics activ // Deliver e-mail confirmation of completed transactions and shipment.
+
+=== C037  n=76  occs=18
+  OCCS: Biofuels/Biodiesel Technology and Product Development Managers(17) | Geothermal Production Managers(13) | Biofuels Production Managers(12) | Biomass Power Plant Managers(7) | Chemical Engineers(7) | Mining and Geological Engineers, Including Mining Safety Engineers(4)
+  TASKS: Review biomass operations performance specifications to ensure compliance with regulatory requirements. // Monitor and log transmitter readings. // Supervise production employees in the manufacturing of biofuels, such as biodiesel or ethanol. // Supervise employees in geothermal power plants or well fields. // Oversee geothermal plant operations, maintenance, and repairs to ensure compliance with applicable standards or regulations.
+
+=== C038  n=84  occs=8
+  OCCS: Ophthalmic Medical Technologists(26) | Ophthalmic Medical Technicians(15) | Opticians, Dispensing(15) | Ophthalmologists, Except Pediatric(10) | Optometrists(8) | Orthoptists(8)
+  TASKS: Examine eyes, using observation, instruments, and pharmaceutical agents, to determine visual acuity and perception, focus, and coordination  // Examine patients with problems related to ocular motility, binocular vision, amblyopia, or strabismus. // Measure clients' bridge and eye size, temple length, vertex distance, pupillary distance, and optical centers of eyes, using measuring devic // Evaluate, diagnose, or treat disorders of the visual system with an emphasis on binocular vision or abnormal eye movements. // Conduct tonometry or tonography tests to measure intraocular pressure.
+
+=== C039  n=217  occs=42
+  OCCS: Speech-Language Pathologists(15) | Special Education Teachers, Secondary School(14) | Special Education Teachers, Preschool(13) | Special Education Teachers, Middle School(13) | Audiologists(13) | Special Education Teachers, Elementary School(11)
+  TASKS: Instruct students with disabilities in academic subjects, using a variety of techniques, such as phonetics, multisensory learning, or repeti // Adapt instructional techniques to the age and skill levels of students. // Evaluate hearing or speech and language test results, barium swallow results, or medical or background information to diagnose and plan trea // Evaluate hearing and balance disorders to determine diagnoses and courses of treatment. // Provide feedback to students, using positive reinforcement techniques to encourage, motivate, or build confidence in students.
+
+=== C040  n=52  occs=29
+  OCCS: Education Administrators, Kindergarten through Secondary(3) | Elementary School Teachers, Except Special Education(3) | Middle School Teachers, Except Special and Career/Technical Education(3) | Career/Technical Education Teachers, Middle School(3) | Secondary School Teachers, Except Special and Career/Technical Education(3) | Career/Technical Education Teachers, Secondary School(3)
+  TASKS: Follow lesson plans designed by absent teachers. // Assign and grade class work and homework. // Collaborate with teachers to develop and maintain curriculum standards, develop mission statements, and set performance goals and objectives // Assign and grade class work and homework. // Discuss assigned duties with classroom teachers to coordinate instructional efforts.
+
+=== C041  n=139  occs=90
+  OCCS: Health and Safety Engineers, Except Mining Safety Engineers and Inspectors(10) | Food Scientists and Technologists(6) | Occupational Health and Safety Specialists(5) | Environmental Science and Protection Technicians, Including Health(4) | Farmers, Ranchers, and Other Agricultural Managers(3) | Construction Managers(3)
+  TASKS: Maintain and follow standard quality, safety, environmental, and infection control policies and procedures. // Monitor sanitation practices to ensure that employees follow standards and regulations. // Design plans to be safe and to be compliant with the American Disabilities Act (ADA). // Research health and safety code requirements to inform design. // Taste or smell foods or beverages to ensure that flavors meet specifications or to select samples with specific characteristics.
+
+=== C042  n=136  occs=120
+  OCCS: Library Technicians(3) | Wind Energy Operations Managers(2) | Electrical and Electronic Engineering Technologists and Technicians(2) | Electro-Mechanical and Mechatronics Technologists and Technicians(2) | Environmental Engineering Technologists and Technicians(2) | Mechanical Engineering Technologists and Technicians(2)
+  TASKS: Document the performance, interpretation, or outcomes of all procedures performed. // Record and process results of procedures. // Complete and maintain necessary records. // Prepare, organize, and maintain inspection records. // Maintain accurate, detailed reports and records.
+
+=== C043  n=99  occs=67
+  OCCS: Nuclear Monitoring Technicians(7) | Nuclear Technicians(5) | Biological Technicians(3) | Surgical Technologists(3) | Emergency Management Directors(2) | Nanotechnology Engineering Technologists and Technicians(2)
+  TASKS: Sterilize equipment and clean work areas. // Clean supplies such as makeup brushes. // Clean and sterilize scissors, combs, clippers, and other instruments. // Use radiation safety measures and protection devices to comply with government regulations and to ensure safety of patients and staff. // Count sponges, needles, and instruments before and after operation.
+
+=== C044  n=160  occs=50
+  OCCS: Statisticians(15) | Data Scientists(13) | Bioinformatics Scientists(13) | Biostatisticians(10) | Mathematicians(9) | Bioinformatics Technicians(9)
+  TASKS: Conduct surveys and collect data, using methods such as interviews, questionnaires, focus groups, market analysis surveys, public opinion po // Analyze research data to determine its significance, using computers. // Evaluate the statistical methods and procedures used to obtain data to ensure validity, applicability, efficiency, and accuracy. // Analyze and interpret statistical data to identify significant differences in relationships among sources of information. // Present the results of mathematical modeling and data analysis to management or other end users.
+
+=== C045  n=231  occs=156
+  OCCS: Sociologists(9) | Statistical Assistants(7) | Social Science Research Assistants(6) | Survey Researchers(5) | Industrial-Organizational Psychologists(5) | Biostatisticians(4)
+  TASKS: Prepare comprehensive interpretive reports of findings. // Summarize test results and report to appropriate authorities. // Write pathology reports summarizing analyses, results, and conclusions. // Collect and compile data to document clients' performance or assess program quality. // Analyze information gathered by investigation and report findings and recommendations.
+
+=== C046  n=216  occs=96
+  OCCS: Compliance Managers(16) | Regulatory Affairs Managers(14) | Regulatory Affairs Specialists(14) | Compliance Officers(10) | Clinical Research Coordinators(9) | Loss Prevention Managers(9)
+  TASKS: Adhere to local, state, and federal laws, regulations, and statutes. // Prepare and maintain reports of investigation results, and records of convicted arsonists and arson suspects. // Monitor and follow applicable laws and regulations. // Develop regulatory strategies and implementation plans for the preparation and submission of new products. // Determine the nature of code violations and actions to be taken, and issue written notices of violation, participating in enforcement hearin
+
+=== C047  n=34  occs=7
+  OCCS: Music Therapists(15) | Art Therapists(14) | Clinical and Counseling Psychologists(1) | Tutors(1) | Fine Artists, Including Painters, Sculptors, and Illustrators(1) | Occupational Therapy Assistants(1)
+  TASKS: Design or provide music therapy experiences to address client needs, such as using music for self-care, adjusting to life changes, improving // Design music therapy experiences, using various musical elements to meet client's goals or objectives. // Communicate with clients to build rapport, acknowledge their progress, or reflect upon their reactions to musical experiences. // Observe and document client reactions, progress, or other outcomes related to art therapy. // Customize treatment programs for specific areas of music therapy, such as intellectual or developmental disabilities, educational settings, 
+
+=== C048  n=45  occs=14
+  OCCS: Dietitians and Nutritionists(12) | Cooks, Private Household(9) | Chefs and Head Cooks(7) | Dietetic Technicians(5) | Social and Human Service Assistants(2) | Nursing Assistants(2)
+  TASKS: Cool, package, label, and freeze foods for later consumption and provide instructions for reheating. // Plan menus according to employers' needs and diet restrictions. // Assess nutritional needs, diet restrictions, and current health plans to develop and implement dietary-care plans and provide nutritional co // Instruct cooks or other workers in the preparation, cooking, garnishing, or presentation of food. // Conduct nutritional assessments of individuals, including obtaining and evaluating individuals' dietary histories, to plan nutritional progr
+
+=== C049  n=88  occs=31
+  OCCS: Transportation Planners(18) | Traffic Technicians(15) | Transportation Engineers(11) | Urban and Regional Planners(6) | Environmental Engineers(3) | Climate Change Policy Analysts(3)
+  TASKS: Design, promote, or administer government plans or policies affecting land use, zoning, public utilities, community facilities, housing, or  // Investigate and assess damage to property and create or review property damage estimates. // Advise planning officials on project feasibility, cost-effectiveness, regulatory conformance, or possible alternatives. // Hold public meetings with government officials, social scientists, lawyers, developers, the public, or special interest groups to formulate, // Design or prepare plans for new transportation systems or parts of systems, such as airports, commuter trains, highways, streets, bridges, d
+
+=== C050  n=218  occs=39
+  OCCS: Surveying and Mapping Technicians(23) | Geographic Information Systems Technologists and Technicians(22) | Atmospheric and Space Scientists(20) | Surveyors(17) | Remote Sensing Scientists and Technologists(16) | Remote Sensing Technicians(13)
+  TASKS: Direct or conduct surveys to establish legal boundaries for properties, based on legal deeds and titles. // Prepare and maintain sketches, maps, reports, and legal descriptions of surveys to describe, certify, and assume liability for work performe // Write descriptions of property boundary surveys for use in deeds, leases, or other legal documents. // Analyze control or survey data to ensure adherence to project specifications or land survey standards. // Produce data layers, maps, tables, or reports, using spatial analysis procedures or Geographic Information Systems (GIS) technology, equipme
+
+=== C051  n=53  occs=7
+  OCCS: Radio Frequency Identification Device Specialists(14) | Solar Energy Systems Engineers(11) | Solar Energy Installation Managers(10) | Solar Sales Representatives and Assessors(9) | Solar Thermal Installers and Technicians(7) | Wind Energy Engineers(1)
+  TASKS: Select solar energy products, systems, or services for customers based on electrical energy requirements, site conditions, price, or other f // Prepare proposals, quotes, contracts, or presentations for potential solar customers. // Gather information from prospective customers to identify their solar energy needs. // Calculate potential solar resources or solar array production for a particular site considering issues such as climate, shading, and roof or // Conduct engineering site audits to collect structural, electrical, and related site information for use in the design of residential or comm
+
+=== C052  n=77  occs=42
+  OCCS: Hazardous Materials Removal Workers(10) | Occupational Health and Safety Specialists(5) | Environmental Engineers(4) | Environmental Science and Protection Technicians, Including Health(4) | Brownfield Redevelopment Specialists and Site Managers(3) | Environmental Compliance Inspectors(3)
+  TASKS: Dispose of contaminated sharps, in accordance with applicable laws, standards, and policies. // Dispose of blood or other biohazard fluids or tissue, in accordance with applicable laws, standards, or policies. // Follow strict safety procedures when handling toxic materials to avoid contamination. // Study celestial phenomena, using a variety of ground-based and space-borne telescopes and scientific instruments. // Communicate to responsible parties unacceptable specimens and suggest remediation for future submissions.
+
+=== C053  n=578  occs=96
+  OCCS: Industrial Ecologists(34) | Water/Wastewater Engineers(26) | Soil and Plant Scientists(22) | Foresters(22) | Water Resource Specialists(20) | Environmental Restoration Planners(18)
+  TASKS: Provide analytical support for policy briefs related to renewable energy, energy efficiency, or climate change. // Manage wildlife on and around airport grounds. // Study nutritional requirements of animals and nutritive values of animal feed materials. // Protect and preserve native wildlife, plants, or ecosystems. // Analyze data on conditions such as site location, drainage, or structure location for environmental reports or landscaping plans.
+
+=== C054  n=45  occs=15
+  OCCS: Wind Energy Engineers(13) | Wind Energy Development Managers(7) | Wind Turbine Service Technicians(7) | Wind Energy Operations Managers(6) | Electrical Engineers(2) | Geothermal Production Managers(1)
+  TASKS: Perform routine maintenance on wind turbine equipment, underground transmission systems, wind fields substations, or fiber optic sensing and // Diagnose problems involving wind turbine generators or control systems. // Start or restart wind turbine generator systems to ensure proper operations. // Climb wind turbine towers to inspect, maintain, or repair equipment. // Track and maintain records for wind operations, such as site performance, downtime events, parts usage, or substation events.
+
+=== C055  n=54  occs=11
+  OCCS: Fuel Cell Engineers(21) | Microsystems Engineers(16) | Automotive Engineers(4) | Automotive Engineering Technicians(3) | Photonics Engineers(2) | Electrical and Electronic Engineering Technologists and Technicians(2)
+  TASKS: Provide technical consultation or direction related to the development or production of fuel cell systems. // Characterize component or fuel cell performances by generating operating maps, defining operating conditions, identifying design refinements // Create schematics and physical layouts of integrated microelectromechanical systems (MEMS) components or packaged assemblies consistent with // Change spark plugs, fuel filters, air filters, and batteries in hybrid electric vehicles. // Analyze fuel cell or related test data, using statistical software.
+
+=== C056  n=55  occs=18
+  OCCS: Energy Auditors(17) | Energy Engineers, Except Wind and Solar(14) | Mechanical Engineers(5) | Electrical Engineers(3) | Microsystems Engineers(2) | Plumbers, Pipefitters, and Steamfitters(2)
+  TASKS: Identify and recommend energy savings strategies to achieve more energy-efficient operation. // Identify and prioritize energy-saving measures. // Prepare audit reports containing energy analysis results or recommendations for energy cost savings. // Identify opportunities to improve the operation, maintenance, or energy efficiency of building or process systems. // Calculate potential for energy savings.
+
+=== C057  n=147  occs=80
+  OCCS: Labor Relations Specialists(16) | Equal Opportunity Representatives and Officers(10) | Chief Executives(6) | Legislators(6) | Compensation and Benefits Managers(4) | Public Relations Managers(3)
+  TASKS: Direct and participate in formal and informal meetings with bank directors, trustees, senior management, counsels, outside accountants, and  // Investigate employment practices or alleged violations of laws to document and correct discriminatory factors. // Respond to customer inquiries or complaints. // Serve as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-re // Negotiate collective bargaining agreements.
+
+=== C058  n=204  occs=89
+  OCCS: Clergy(10) | Directors, Religious Activities and Education(9) | Kindergarten Teachers, Except Special Education(9) | Instructional Coordinators(9) | Preschool Teachers, Except Special Education(7) | Training and Development Specialists(6)
+  TASKS: Instruct students individually and in groups, using teaching methods such as lectures, discussions, and demonstrations. // Teach writing or communication classes. // Pray and promote spirituality. // Prepare classrooms with a variety of materials or resources for children to explore, manipulate, or use in learning activities or imaginativ // Present information with a variety of instructional techniques or formats, such as role playing, simulations, team exercises, group discussi
+
+=== C059  n=96  occs=80
+  OCCS: Training and Development Managers(4) | Training and Development Specialists(4) | First-Line Supervisors of Farming, Fishing, and Forestry Workers(3) | Administrative Services Managers(2) | Human Resources Managers(2) | Computer Programmers(2)
+  TASKS: Train workers in proper operational procedures and functions and explain company policies. // Provide on-the-job training to new air traffic controllers. // Assess training needs through surveys, interviews with employees, focus groups, or consultation with managers, instructors, or customer repr // Offer specific training programs to help workers maintain or improve job skills. // Plan, develop, and provide training and staff development programs, using knowledge of the effectiveness of methods such as classroom traini
+
+=== C060  n=96  occs=83
+  OCCS: Teaching Assistants, Postsecondary(4) | Molecular and Cellular Biologists(3) | Food Science Technicians(3) | Software Developers(2) | Psychology Teachers, Postsecondary(2) | Neurologists(2)
+  TASKS: Instruct dental officers and technical assistants in orthodontic procedures and techniques. // Provide technical direction or supervision to junior engineers, engineering or computer-aided design (CAD) technicians, or other technical p // Supervise students' laboratory and clinical work. // Supervise, train, or direct lab assistants, medical and clinical laboratory technicians or technologists, or other medical laboratory worker // Supervise students' laboratory work.
+
+=== C061  n=163  occs=74
+  OCCS: Human Resources Managers(14) | Human Resources Specialists(12) | Compensation and Benefits Managers(11) | Compensation, Benefits, and Job Analysis Specialists(9) | Industrial-Organizational Psychologists(7) | First-Line Supervisors of Office and Administrative Support Workers(7)
+  TASKS: Direct preparation and distribution of written and verbal information to inform employees of benefits, compensation, and personnel policies. // Design, evaluate, and modify benefits policies to ensure that programs are current, competitive, and in compliance with legal requirements. // Develop and implement employee selection or placement programs. // Plan, direct, supervise, and coordinate work activities of subordinates and staff relating to employment, compensation, labor relations, and // Hire employees and process hiring-related paperwork.
+
+=== C062  n=140  occs=99
+  OCCS: Park Naturalists(9) | Tour Guides and Escorts(9) | Education Administrators, Kindergarten through Secondary(4) | Recreation Workers(4) | Lodging Managers(3) | Fitness and Wellness Coordinators(3)
+  TASKS: Describe tour points of interest to group members, and respond to questions. // Translate messages simultaneously or consecutively into specified languages, orally or by using hand signs, maintaining message content, con // Direct and coordinate activities of nurses, assistants, specialists, residents, and other medical staff. // Direct and coordinate activities of nurses, students, assistants, specialists, therapists, and other medical staff. // Oversee regional and local sales managers and their staffs.
+
+=== C063  n=40  occs=9
+  OCCS: Forensic Science Technicians(16) | Police Identification and Records Officers(8) | Detectives and Criminal Investigators(6) | Digital Forensics Analysts(3) | Fire Inspectors and Investigators(3) | Government Property Inspectors and Investigators(1)
+  TASKS: Collect evidence from crime scenes, storing it in conditions that preserve its integrity. // Observe and record the positions and conditions of bodies and related evidence. // Package collected pieces of evidence in securely closed containers, such as bags, crates, or boxes, to protect them. // Use photographic or video equipment to document evidence or crime scenes. // Photograph damage and evidence related to causes of fires or explosions to document investigation findings.
+
+=== C064  n=152  occs=43
+  OCCS: Judicial Law Clerks(17) | Judges, Magistrate Judges, and Magistrates(15) | Lawyers(13) | Administrative Law Judges, Adjudicators, and Hearing Officers(10) | Bailiffs(10) | Arbitrators, Mediators, and Conciliators(9)
+  TASKS: Prepare briefs, legal memoranda, or statements of issues involved in cases, including appropriate suggestions or recommendations. // Research laws, court decisions, documents, opinions, briefs, or other information related to cases before the court. // Prepare written opinions or decisions regarding cases. // Testify in court cases involving fires, suspected arson, and false alarms. // Draft or proofread judicial opinions, decisions, or citations.
+
+=== C065  n=135  occs=32
+  OCCS: Fraud Examiners, Investigators and Analysts(16) | Police and Sheriff's Patrol Officers(14) | Probation Officers and Correctional Treatment Specialists(13) | First-Line Supervisors of Correctional Officers(12) | Intelligence Analysts(12) | Detectives and Criminal Investigators(11)
+  TASKS: Gather financial documents related to investigations. // Take, receive, or check periodic inmate counts. // Interview witnesses or suspects and take statements. // Screen persons entering courthouse using magnetometers, x-ray machines, and other devices to collect and retain unauthorized firearms and ot // Identify, pursue, and arrest suspects and perpetrators of criminal acts.
+
+=== C066  n=49  occs=34
+  OCCS: Paramedics(7) | Anesthesiologist Assistants(3) | Emergency Medicine Physicians(3) | Respiratory Therapists(2) | Registered Nurses(2) | Nurse Anesthetists(2)
+  TASKS: Perform emergency resuscitations on patients. // Stabilize patients in critical condition. // Perform such medical procedures as emergent cricothyrotomy, endotracheal intubation, and emergency thoracotomy. // Manage patients' airway or pulmonary status, using techniques such as endotracheal intubation, mechanical ventilation, pharmacological suppo // Respond to emergency situations by providing airway management, administering emergency fluids or drugs, or using basic or advanced cardiac 
+
+=== C067  n=212  occs=86
+  OCCS: Midwives(14) | Community Health Workers(13) | Nurse Midwives(9) | Clinical Neuropsychologists(7) | Nurse Practitioners(7) | Preventive Medicine Physicians(7)
+  TASKS: Provide prenatal, intrapartum, postpartum, or newborn care to patients. // Diagnose and treat conditions involving injury to the central nervous system, such as cerebrovascular accidents, neoplasms, infectious or in // Explain procedures and discuss test results or prescribed treatments with patients. // Provide instructions to patients or family members concerning diagnoses or treatment plans. // Provide patients with direct family planning services, such as inserting intrauterine devices, dispensing oral contraceptives, and fitting c
+
+=== C068  n=87  occs=30
+  OCCS: Sports Medicine Physicians(15) | Athletic Trainers(11) | Fitness and Wellness Coordinators(10) | Coaches and Scouts(8) | Exercise Physiologists(7) | Exercise Trainers and Group Fitness Instructors(6)
+  TASKS: Instruct, motivate, safeguard, and assist patients as they practice exercises or functional activities. // Develop exercise programs to improve participant strength, flexibility, endurance, or circulatory functioning, in accordance with exercise s // Instruct, or assist in instructing, patients and families in home programs, basic living skills, or the care and use of adaptive equipment. // Offer alternatives during classes to accommodate different levels of fitness. // Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and
+
+=== C069  n=122  occs=81
+  OCCS: Medical Records Specialists(10) | Medical Transcriptionists(8) | Health Information Technologists and Medical Registrars(6) | Naturopathic Physicians(3) | Pharmacy Technicians(3) | Clinical and Counseling Psychologists(2)
+  TASKS: Interview patients to obtain comprehensive medical histories. // Document specimens by verifying patients' and specimens' information. // Collect, record, and maintain patient information, such as medical history, reports, or examination results. // Verify the identity of patient or operative site. // Document patients' health histories, symptoms, physical conditions, or other diagnostic information.
+
+=== C070  n=127  occs=34
+  OCCS: Penetration Testers(18) | Information Security Engineers(18) | Security Managers(14) | Security Management Specialists(12) | Digital Forensics Analysts(8) | Financial Risk Specialists(7)
+  TASKS: Monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel. // Identify, investigate, or resolve security breaches. // Conduct or oversee collection of corporate intelligence to avoid fraud, financial crime, cyber attack, terrorism, and infrastructure failure // Identify security system weaknesses, using penetration tests. // Plan, direct, or coordinate security activities to safeguard company employees, guests, or others on company property.
+
+=== C071  n=55  occs=9
+  OCCS: Robotics Engineers(18) | Robotics Technicians(13) | Photonics Engineers(11) | Photonics Technicians(5) | Electro-Mechanical and Mechatronics Technologists and Technicians(4) | Computer and Information Research Scientists(1)
+  TASKS: Develop, test, or program new robots. // Compute or record photonic test data. // Troubleshoot robotic systems, using knowledge of microprocessors, programmable controllers, electronics, circuit analysis, mechanics, sensor // Install, program, or repair programmable controllers, robot controllers, end-of-arm tools, or conveyors. // Modify computer-controlled robot movements.
+
+=== C072  n=152  occs=74
+  OCCS: Mechatronics Engineers(12) | Electronics Engineers, Except Computer(6) | Automotive Engineers(6) | Photonics Engineers(6) | Telecommunications Equipment Installers and Repairers, Except Line Installers(6) | Electrical Engineers(5)
+  TASKS: Select materials for use based on strength, color, texture, balance, weight, size, malleability and other characteristics. // Enter data into computer and set controls to operate or adjust equipment or regulate dosage. // Sell products requiring extensive technical expertise and support for installation and use, such as material handling equipment, numerical-c // Select materials and components to be used, based on device design. // Program computerized numerical control machine tools.
+
+=== C073  n=98  occs=49
+  OCCS: Editors(11) | Interpreters and Translators(8) | Poets, Lyricists and Creative Writers(7) | Technical Writers(6) | Proofreaders and Copy Markers(6) | Fine Artists, Including Painters, Sculptors, and Illustrators(5)
+  TASKS: Proofread transcripts for correct spelling of words. // Organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology. // Mark copy to indicate and correct errors in type, arrangement, grammar, punctuation, or spelling, using standard printers' marks. // Proofread and perform quality control of text and images. // Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.
+
+=== C074  n=166  occs=83
+  OCCS: Real Estate Sales Agents(12) | Property, Real Estate, and Community Association Managers(10) | Real Estate Brokers(8) | Customs Brokers(7) | Supply Chain Managers(6) | Purchasing Managers(5)
+  TASKS: Clear goods through customs and to their destinations for clients. // Act as an intermediary in negotiations between buyers and sellers, generally representing one or the other. // Sell, for a fee, real estate owned by others. // Promote sales of properties through advertisements, open houses, and participation in multiple listing services. // Provide customers with information, such as quotes, orders, sales, shipping, warranties, credit, funding options, incentives, or tax rebates
+
+=== C075  n=83  occs=25
+  OCCS: Dentists, General(12) | Prosthodontists(10) | Orthotists and Prosthetists(9) | Dental Hygienists(8) | Oral and Maxillofacial Surgeons(7) | Dental Assistants(7)
+  TASKS: Examine patients to assess abnormalities of jaw development, tooth position, and other dental-facial structures. // Diagnose teeth and jaw or other dental-facial abnormalities. // Fit dental appliances in patients' mouths to alter the position and relationship of teeth and jaws or to realign teeth. // Study diagnostic records, such as medical or dental histories, plaster models of the teeth, photos of a patient's face and teeth, and X-rays // Adjust dental appliances to produce and maintain normal function.
+
+=== C076  n=97  occs=68
+  OCCS: Budget Analysts(11) | Treasurers and Controllers(6) | Information Technology Project Managers(6) | Transportation, Storage, and Distribution Managers(4) | Project Management Specialists(3) | Chief Executives(2)
+  TASKS: Develop budgets for security operations. // Prepare detailed budgets and financial reports for properties. // Establish budgets, and work within budgetary limits. // Evaluate needs for procurement of funds and investment of surpluses and make appropriate recommendations. // Participate in financial activities, such as the setting of room rates, the establishment of budgets, and the allocation of funds to departm
+
+=== C077  n=95  occs=69
+  OCCS: Insurance Appraisers, Auto Damage(6) | Cost Estimators(6) | Electrical Engineers(3) | Electrical and Electronic Engineering Technologists and Technicians(3) | Mechanical Engineering Technologists and Technicians(3) | Construction Managers(2)
+  TASKS: Evaluate practicality of repair as opposed to payment of market value of vehicle before accident. // Review repair cost estimates with automobile repair shop to secure agreement on cost of repairs. // Prepare insurance forms to indicate repair cost estimates and recommendations. // Estimate parts and labor to repair damage, using standard automotive labor and parts cost manuals and knowledge of automotive repair. // Compute cost of travel and accommodations, using calculator, computer, carrier tariff books, and hotel rate books, or quote package tour's c
+
+=== C078  n=59  occs=17
+  OCCS: Hairdressers, Hairstylists, and Cosmetologists(12) | Makeup Artists, Theatrical and Performance(12) | Skincare Specialists(12) | Barbers(9) | Oral and Maxillofacial Surgeons(2) | Educational, Guidance, and Career Counselors and Advisors(1)
+  TASKS: Cleanse clients' skin with water, creams, or lotions. // Demonstrate how to clean and care for skin properly and recommend skin-care regimens. // Apply makeup to enhance or alter the appearance of people appearing in productions such as movies. // Question patrons regarding desired services and haircut styles. // Determine which products or colors will improve clients' skin quality and appearance.
+
+=== C079  n=93  occs=41
+  OCCS: Surgical Assistants(14) | Surgical Technologists(6) | Veterinary Technologists and Technicians(6) | Nursing Assistants(6) | Medical Assistants(4) | Dermatologists(3)
+  TASKS: Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician. // Drape and pin protective cloths around customers' shoulders. // Maintain a proper sterile field during surgical procedures. // Monitor and maintain aseptic technique throughout procedures. // Insert needles to provide acupuncture treatment.
+
+=== C080  n=220  occs=74
+  OCCS: Radiologists(15) | Magnetic Resonance Imaging Technologists(15) | Cardiologists(11) | Cardiovascular Technologists and Technicians(11) | Radiologic Technologists and Technicians(11) | Medical Dosimetrists(11)
+  TASKS: Monitor fetal development by listening to fetal heartbeat, taking external uterine measurements, identifying fetal position, or estimating f // Select, request, perform, or interpret diagnostic procedures, such as laboratory tests, electrocardiograms, emergency ultrasounds, and radio // Review physicians' orders to confirm prescribed exams. // Order, perform, and interpret tests and analyze records, reports, and examination information to diagnose patients' condition. // Indicate artifacts or interferences derived from sources outside of the brain, such as poor electrode contact or patient movement, on electr
+
+=== C081  n=123  occs=64
+  OCCS: Mental Health Counselors(7) | Clinical and Counseling Psychologists(6) | Child, Family, and School Social Workers(5) | Midwives(5) | Substance Abuse and Behavioral Disorder Counselors(4) | Marriage and Family Therapists(4)
+  TASKS: Encourage clients to express their feelings and discuss what is happening in their lives, helping them to develop insight into themselves or // Diagnose, treat, or provide continuous care to hospital inpatients. // Treat children who have minor illnesses, acute and chronic health problems, and growth and development concerns. // Admit patients for hospital stays. // Counsel clients or patients, individually or in group sessions, to assist in overcoming dependencies, adjusting to life, or making changes.
+
+=== C082  n=96  occs=42
+  OCCS: Nursing Assistants(8) | Physical Therapist Assistants(7) | Dermatologists(6) | Urologists(5) | Physical Medicine and Rehabilitation Physicians(5) | Acupuncturists(5)
+  TASKS: Treat patients using tools, such as needles, cups, ear balls, seeds, pellets, or nutritional supplements. // Evaluate the functioning of the neuromuscularskeletal system and the spine using systems of chiropractic diagnosis. // Perform a series of manual adjustments to the spine or other articulations of the body to correct the musculoskeletal system. // Identify correct anatomical and proportional point locations based on patients' anatomy and positions, contraindications, and precautions re // Conduct complete skin examinations.
+
+=== C083  n=104  occs=47
+  OCCS: Nurse Anesthetists(13) | Anesthesiologists(7) | Veterinary Technologists and Technicians(7) | Anesthesiologist Assistants(6) | Pharmacy Technicians(5) | Acute Care Nurses(4)
+  TASKS: Evaluate patients' vital signs or laboratory data to determine emergency intervention needs. // Prescribe or administer treatment, therapy, medication, vaccination, and other specialized medical care to treat or prevent illness, disease // Evaluate patients' vital signs or laboratory data to determine emergency intervention needs and priority of treatment. // Prescribe or administer treatment, therapy, medication, vaccination, and other specialized medical care to treat or prevent illness, disease // Prescribe medications or treatment regimens to hospital inpatients.
+
+=== C084  n=71  occs=12
+  OCCS: Search Marketing Strategists(17) | Web and Digital Interface Designers(17) | Web Administrators(12) | Web Developers(11) | Online Merchants(7) | Fitness and Wellness Coordinators(1)
+  TASKS: Write supporting code for Web applications or Web sites. // Collect and analyze Web metrics, such as visits, time on site, page views per visit, transaction volume and revenue, traffic mix, click-thro // Optimize digital assets, such as text, graphics, or multimedia assets, for search engine optimization (SEO) or for display and usability on  // Manage tracking and reporting of search-related activities and provide analyses to marketing executives. // Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.
+
+=== C085  n=155  occs=63
+  OCCS: Rehabilitation Counselors(7) | Recreational Therapists(7) | Occupational Therapists(6) | Occupational Therapy Assistants(6) | Substance Abuse and Behavioral Disorder Counselors(5) | Marriage and Family Therapists(5)
+  TASKS: Analyze test results and develop a treatment plan. // Develop and implement individualized plans for health care management. // Develop individual treatment plans and strategies. // Develop treatment plans, based on scientific rationale, standards of care, and professional practice guidelines. // Consult with hospitalists and other professionals, such as social workers, regarding patients' hospital admission, continued observation, tr
+
+=== C086  n=156  occs=73
+  OCCS: Advanced Practice Psychiatric Nurses(6) | Occupational Therapy Assistants(6) | Physical Therapists(5) | Nursing Assistants(5) | Neuropsychologists(4) | Clinical Neuropsychologists(4)
+  TASKS: Write or prepare detailed clinical neuropsychological reports, using data from psychological or neuropsychological tests, self-report measur // Conduct neuropsychological evaluations such as assessments of intelligence, academic ability, attention, concentration, sensorimotor functio // Conduct screening interviews of patients to identify contraindications, such as ferrous objects, pregnancy, prosthetic heart valves, cardiac // Monitor patients' conditions and progress and reevaluate treatments as necessary. // Conduct assessments of patients' risk for harm to self or others.
+
+=== C087  n=125  occs=45
+  OCCS: Claims Adjusters, Examiners, and Investigators(18) | Eligibility Interviewers, Government Programs(14) | Insurance Sales Agents(11) | Arbitrators, Mediators, and Conciliators(8) | Actuaries(6) | Human Resources Assistants, Except Payroll and Timekeeping(6)
+  TASKS: Examine claims forms and other records to determine insurance coverage. // Pay and process claims within designated authority level. // Examine immigration applications, visas, and passports and interview persons to determine eligibility for admission, residence, and travel i // Investigate, evaluate, and settle claims, applying technical knowledge and human relations skills to effect fair and prompt disposal of case // Compute and authorize amounts of assistance for programs, such as grants, monetary payments, and food stamps.
+
+=== C088  n=487  occs=175
+  OCCS: Computer Network Architects(20) | Computer Systems Engineers/Architects(17) | Computer Network Support Specialists(16) | Telecommunications Engineering Specialists(14) | Network and Computer Systems Administrators(12) | Computer User Support Specialists(11)
+  TASKS: Confer with clients, engineering personnel, or architects on landscape projects. // Coordinate with engineers, planners, field personnel, or other utility workers to provide information such as clearances, switching orders,  // Provide advice on best practices and implementation for selection. // Identify, analyze, and document problems with program function, output, online screen, or content. // Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.
+
+=== C089  n=82  occs=11
+  OCCS: Airfield Operations Specialists(21) | Air Traffic Controllers(18) | Airline Pilots, Copilots, and Flight Engineers(17) | Commercial Pilots(17) | Aviation Inspectors(3) | Biomass Power Plant Managers(1)
+  TASKS: Co-pilot aircraft or perform captain's duties, as required. // Consider airport altitudes, outside temperatures, plane weights, and wind speeds and directions to calculate the speed needed to become airb // Use instrumentation to guide flights when visibility is poor. // Use instrumentation to pilot aircraft when visibility is poor. // Start engines, operate controls, and pilot airplanes to transport passengers, mail, or freight, adhering to flight plans, regulations, and p
+
+=== C090  n=99  occs=44
+  OCCS: Fundraisers(22) | Fundraising Managers(12) | Legislators(8) | Chief Executives(3) | Executive Secretaries and Executive Administrative Assistants(3) | Advertising and Promotions Managers(2)
+  TASKS: Identify and build relationships with potential donors. // Secure commitments of participation or donation from individuals or corporate donors. // Write and send letters of thanks to donors. // Solicit cash or in-kind donations or sponsorships from individual, business, or government donors. // Establish and maintain relationships with individuals who are credible sources of information.
+
+=== C091  n=61  occs=15
+  OCCS: Hydroelectric Production Managers(14) | Hydroelectric Plant Technicians(13) | Stationary Engineers and Boiler Operators(8) | Power Distributors and Dispatchers(7) | Biomass Power Plant Managers(5) | Solar Thermal Installers and Technicians(3)
+  TASKS: Adjust controls to position rod and to regulate flux level, reactor period, coolant temperature, or rate of power flow, following standard p // Control, monitor, or operate equipment that regulates or distributes electricity or steam, using data obtained from instruments or computers // Monitor all systems for normal running conditions, performing activities such as checking gauges to assess output or the effects of generato // Direct personnel engaged in controlling or operating distribution equipment or machinery, such as instructing control room operators to star // Distribute or regulate the flow of power between entities, such as generating stations, substations, distribution lines, or users, keeping t
+
+=== C092  n=255  occs=104
+  OCCS: Quality Control Systems Managers(18) | Software Quality Assurance Analysts and Testers(18) | Validation Engineers(14) | Quality Control Analysts(12) | Industrial Engineering Technologists and Technicians(11) | Bioengineers and Biomedical Engineers(10)
+  TASKS: Make exposures necessary for the requested procedures, rejecting and repeating work that does not meet established standards. // Establish or monitor quality assurance programs or activities to ensure the accuracy of laboratory results. // Compile and analyze data obtained from monitoring or diagnostic tests. // Document software defects, using a bug tracking system, and report defects to software developers. // Develop, implement, and monitor quality control and quality assurance programs to ensure accurate and precise test performance and reports.
+
+=== C093  n=171  occs=65
+  OCCS: Database Architects(15) | Data Warehousing Specialists(15) | Document Management Specialists(12) | Health Informatics Specialists(10) | Clinical Data Managers(9) | Blockchain Engineers(8)
+  TASKS: Translate nursing practice information between nurses and systems engineers, analysts, or designers, using object-oriented models or other t // Use informatics science to design or implement health information technology applications for resolution of clinical or health care administ // Assist in determining document management policies to facilitate efficient, legal, and secure access to electronic content. // Maintain client databases. // Create or update donor databases.
+
+=== C094  n=157  occs=82
+  OCCS: Architectural and Civil Drafters(15) | Electrical and Electronics Drafters(15) | Mechanical Drafters(10) | Mechanical Engineering Technologists and Technicians(7) | Architects, Except Landscape and Naval(6) | Industrial Engineers(3)
+  TASKS: Produce drawings, using computer-assisted drafting systems (CAD) or drafting machines, or by hand, using compasses, dividers, protractors, t // Use computer-aided drafting (CAD) and related software to produce construction documents. // Key information into computer equipment to create layouts for client or supervisor. // Read blueprints, drawings, or written specifications to determine sizes and shapes of patterns and required machine setups. // Develop detailed design drawings and specifications for mechanical equipment, dies, tools, and controls, using computer-assisted drafting (C
+
+=== C095  n=115  occs=28
+  OCCS: Music Directors and Composers(25) | Musicians and Singers(23) | Choreographers(15) | Dancers(14) | Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education(3) | Teaching Assistants, Special Education(3)
+  TASKS: Sing or play musical instruments, such as keyboard, guitar, or percussion instruments. // Use gestures to shape the music being played, communicating desired tempo, phrasing, tone, color, pitch, volume, and other performance aspec // Direct rehearsals to instruct dancers in dance steps and in techniques to achieve desired effects. // Prepare pointe shoes, by sewing or other means, for use in rehearsals and performance. // Perform before live audiences in concerts, recitals, educational presentations, and other social gatherings.
+
+=== C096  n=124  occs=41
+  OCCS: Captains, Mates, and Pilots of Water Vessels(19) | Commercial Divers(17) | Marine Engineers and Naval Architects(14) | Transportation Inspectors(11) | Ship Engineers(8) | Aviation Inspectors(5)
+  TASKS: Direct courses and speeds of ships, based on specialized knowledge of local winds, weather, water depths, tides, currents, and hazards. // Check aircraft prior to flights to ensure that the engines, controls, instruments, and other systems are functioning properly. // Prevent ships under navigational control from engaging in unsafe operations. // Serve as a vessel's docking master upon arrival at a port or at a berth. // Consult maps, charts, weather reports, or navigation equipment to determine and direct ship movements.
+
+=== C097  n=107  occs=39
+  OCCS: Video Game Designers(14) | Fine Artists, Including Painters, Sculptors, and Illustrators(11) | Graphic Designers(9) | Merchandise Displayers and Window Trimmers(9) | Art Directors(6) | Set and Exhibit Designers(6)
+  TASKS: Duplicate work precisely to replicate characters' appearances on a daily basis. // Dress mannequins for displays. // Prepare rough drafts and scale working drawings of sets, including floor plans, scenery, and properties to be constructed. // Prepare preliminary renderings of proposed exhibits, including detailed construction, layout, and material specifications, and diagrams rela // Operate desktop publishing software and equipment to design, lay out, and produce camera-ready copy.
+
+=== C098  n=63  occs=28
+  OCCS: Photographers(15) | Desktop Publishers(7) | Prepress Technicians and Workers(4) | Remote Sensing Technicians(3) | Camera Operators, Television, Video, and Film(3) | Radiologic Technologists and Technicians(3)
+  TASKS: Review or transmit images and information using picture archiving or communications systems. // Transfer photographs to computers for editing, archiving, and electronic transmission. // Use traditional or digital cameras, along with a variety of equipment, such as tripods, filters, and flash attachments. // Process exposed radiographs using film processors or computer generated methods. // Manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software.
+
+=== C099  n=258  occs=56
+  OCCS: Producers and Directors(22) | Audio and Video Technicians(22) | News Analysts, Reporters, and Journalists(18) | Broadcast Technicians(17) | Film and Video Editors(17) | Broadcast Announcers and Radio Disc Jockeys(15)
+  TASKS: Adjust apertures, shutter speeds, and camera focus according to a combination of factors, such as lighting, field depth, subject motion, fil // Develop set designs, based on evaluation of scripts, budgets, research information, and available locations. // Create artificial light, using flashes and reflectors. // Record verbatim proceedings of courts, legislative assemblies, committee meetings, and other proceedings, using computerized recording equip // Analyze a script, noting events that affect each character's appearance, so that plans can be made for each scene.
+
+=== C100  n=198  occs=78
+  OCCS: Advertising and Promotions Managers(15) | Advertising Sales Agents(13) | Search Marketing Strategists(10) | Public Relations Managers(9) | Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products(9) | Public Relations Specialists(8)
+  TASKS: Develop, present, or respond to proposals for specific customer requirements, including request for proposal responses and industry-specific // Prepare and deliver sales presentations to new and existing customers to sell new advertising programs and to protect and increase existing  // Participate in the development or implementation of online marketing strategy. // Confer with clients and staff to gather information about exhibit space, proposed themes and content, timelines, budgets, materials, or prom // Maintain assigned account bases while developing new accounts.
+
+=== C101  n=469  occs=108
+  OCCS: Loan Officers(24) | Securities, Commodities, and Financial Services Sales Agents(23) | Credit Counselors(20) | Billing and Posting Clerks(20) | Bookkeeping, Accounting, and Auditing Clerks(20) | Accountants and Auditors(19)
+  TASKS: Analyze credit data and financial statements to determine the degree of risk involved in extending credit or lending money. // Prepare documents such as representation contracts, purchase agreements, closing statements, deeds, and leases. // Verify accuracy of billing data and revise any errors. // Present purchase offers to sellers for consideration. // Prepare and process import and export documentation according to customs regulations, laws, or procedures.
+
+=== C102  n=185  occs=104
+  OCCS: Aircraft Mechanics and Service Technicians(8) | Radio, Cellular, and Tower Equipment Installers and Repairers(7) | Maintenance Workers, Machinery(6) | First-Line Supervisors of Farming, Fishing, and Forestry Workers(5) | Telecommunications Equipment Installers and Repairers, Except Line Installers(5) | Industrial Machinery Mechanics(5)
+  TASKS: Measure and record lens power, using lensometers. // Develop or implement actions such as lockouts, tagouts, or clearances to allow equipment to be safely repaired. // Mount, balance, change, or check condition or pressure of tires. // Compare instrument pitches with tuning tool pitches to tune instruments. // Play instruments to evaluate their sound quality and to locate any defects.
+
+=== C103  n=276  occs=118
+  OCCS: Control and Valve Installers and Repairers, Except Mechanical Door(14) | Calibration Technologists and Technicians(8) | Telecommunications Equipment Installers and Repairers, Except Line Installers(8) | Radio, Cellular, and Tower Equipment Installers and Repairers(7) | Electrical and Electronics Repairers, Powerhouse, Substation, and Relay(7) | Automotive Engineering Technicians(6)
+  TASKS: Verify that finished lenses are ground to specifications. // Inspect wiring connections, control panel hookups, door installations, and alignments and clearances of cars and hoistways to ensure that eq // Analyze the results of tests or experiments to ensure conformity to specifications, using special mechanical or electrical devices. // Check radiation therapy equipment to ensure proper operation. // Troubleshoot or repair mechanical, hydraulic, or electrical malfunctions related to variable pitch systems, variable speed control systems, 
+
+=== C104  n=167  occs=54
+  OCCS: Jewelers and Precious Stone and Metal Workers(22) | Musical Instrument Repairers and Tuners(14) | Gem and Diamond Workers(13) | Potters, Manufacturing(13) | Tool and Die Makers(8) | Machinists(7)
+  TASKS: Align pads and keys on reed or wind instruments. // Adjust string tensions to tune instruments, using hand tools and electronic tuning devices. // Operate gas or electric kilns to fire pottery pieces. // Machine parts to specifications, using machine tools, such as lathes, milling machines, shapers, or grinders. // Join lips, using needles and thread or wire.
+
+=== C105  n=72  occs=22
+  OCCS: Fabric and Apparel Patternmakers(16) | Patternmakers, Metal and Plastic(10) | Patternmakers, Wood(9) | Fashion Designers(6) | Model Makers, Wood(6) | Craft Artists(4)
+  TASKS: Sketch rough and detailed drawings of apparel or accessories, and write specifications such as color schemes, construction, material types,  // Calculate dimensions or tolerances, using instruments, such as micrometers or vernier calipers. // Create a master pattern for each size within a range of garment sizes, using charts, drafting instruments, computers, or grading devices. // Develop concepts or creative ideas for craft objects. // Input specifications into computers to assist with pattern design and pattern cutting.
+
+=== C106  n=81  occs=35
+  OCCS: Plumbers, Pipefitters, and Steamfitters(8) | Electric Motor, Power Tool, and Related Repairers(6) | Heating, Air Conditioning, and Refrigeration Mechanics and Installers(6) | Electricians(5) | Telecommunications Equipment Installers and Repairers, Except Line Installers(5) | Solar Thermal Installers and Technicians(4)
+  TASKS: Solder posts and parts to hold them in their proper places. // Place conduit, pipes, or tubing, inside designated partitions, walls, or other concealed areas, and pull insulated wires or cables through t // Create openings in buildings for ventilation or entrance, using axes, chisels, crowbars, electric saws, or core cutters. // Assemble, install, test, or maintain electrical or electronic wiring, equipment, appliances, apparatus, or fixtures, using hand tools or pow // Apply weather seal, such as pipe flashings and sealants, to roof penetrations and structural devices.
+
+=== C107  n=140  occs=50
+  OCCS: Automotive Service Technicians and Mechanics(12) | Bus and Truck Mechanics and Diesel Engine Specialists(12) | Motorcycle Mechanics(8) | Control and Valve Installers and Repairers, Except Mechanical Door(7) | Electric Motor, Power Tool, and Related Repairers(6) | Elevator and Escalator Installers and Repairers(5)
+  TASKS: Adjust timing regulators, using truing calipers, watch-rate recorders, and tweezers. // Reassemble machines and equipment following repair, testing operation and making adjustments, as necessary. // Replace defective parts, using hand tools, arbor presses, flexible power presses, or power tools. // Measure, examine, or test completed units to check for defects and ensure conformance to specifications, using precision instruments, such a // Disassemble timepieces and inspect them for defective, worn, misaligned, or rusty parts, using loupes.

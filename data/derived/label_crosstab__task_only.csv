@@ -1,0 +1,1495 @@
+primary_label_id,auto_label_v2,n_tasks,n_occupations,salience_weighted_n,mean_importance,n_soft_assigned_noise,share_of_frozen_label
+analyze_data_for_decisions,Advance sustainability programs,118,46,59.0,3.551891891891892,29,0.14285714285714285
+analyze_data_for_decisions,Analyze market trends,88,45,44.0,3.8947222222222226,27,0.10653753026634383
+analyze_data_for_decisions,Analyze data and risk,59,34,29.5,3.9040384615384616,18,0.07142857142857142
+analyze_data_for_decisions,Collect and test samples,49,28,24.5,3.9112244897959183,3,0.059322033898305086
+analyze_data_for_decisions,Map spatial data,44,17,22.0,3.795121951219512,1,0.053268765133171914
+analyze_data_for_decisions,Estimate project costs,40,33,20.0,3.786388888888889,7,0.048426150121065374
+analyze_data_for_decisions,Develop products and services,32,25,16.0,3.5933333333333333,24,0.0387409200968523
+analyze_data_for_decisions,Improve quality systems,26,23,13.0,3.876153846153846,20,0.031476997578692496
+analyze_data_for_decisions,Prepare performance reports,23,21,11.5,4.083636363636364,21,0.02784503631961259
+analyze_data_for_decisions,Optimize material flow,22,7,11.0,3.93,4,0.026634382566585957
+analyze_data_for_decisions,Improve energy efficiency,15,8,7.5,3.5453333333333332,1,0.018159806295399514
+analyze_data_for_decisions,Plan transportation systems,15,5,7.5,3.7053333333333334,1,0.018159806295399514
+analyze_data_for_decisions,Manage security operations,14,11,7.0,3.9436363636363634,4,0.01694915254237288
+analyze_data_for_decisions,Design control systems,13,13,6.5,3.69,11,0.015738498789346248
+analyze_data_for_decisions,Manage budgets,13,11,6.5,3.8592307692307695,9,0.015738498789346248
+analyze_data_for_decisions,Ensure regulatory compliance,12,11,6.0,3.8533333333333335,9,0.014527845036319613
+analyze_data_for_decisions,Create technical drawings,11,9,5.5,3.7063636363636365,11,0.013317191283292978
+analyze_data_for_decisions,Investigate theft and fraud,11,5,5.5,4.031818181818182,0,0.013317191283292978
+analyze_data_for_decisions,Plan promotional campaigns,11,9,5.5,3.5877777777777777,9,0.013317191283292978
+analyze_data_for_decisions,Stay informed,11,11,5.5,3.9372727272727275,0,0.013317191283292978
+analyze_data_for_decisions,Appraise property value,10,4,5.0,3.886,1,0.012106537530266344
+analyze_data_for_decisions,Manage databases,10,8,5.0,4.002222222222222,10,0.012106537530266344
+analyze_data_for_decisions,Resolve customer complaints,10,9,5.0,3.7588888888888885,10,0.012106537530266344
+analyze_data_for_decisions,Optimize digital presence,9,4,4.5,4.0337499999999995,4,0.010895883777239709
+analyze_data_for_decisions,Produce media content,9,4,4.5,4.234444444444445,1,0.010895883777239709
+analyze_data_for_decisions,Curate collections,8,4,4.0,3.6075,6,0.009685230024213076
+analyze_data_for_decisions,Develop clean energy tech,8,4,4.0,3.6775,2,0.009685230024213076
+analyze_data_for_decisions,Diagnose patient conditions,8,8,4.0,4.293333333333334,5,0.009685230024213076
+analyze_data_for_decisions,Evaluate treatment progress,8,7,4.0,3.9799999999999995,8,0.009685230024213076
+analyze_data_for_decisions,Conduct hearings and investigations,7,4,3.5,4.167142857142857,0,0.00847457627118644
+analyze_data_for_decisions,Design renewable systems,7,4,3.5,3.8314285714285714,3,0.00847457627118644
+analyze_data_for_decisions,Plan emergency response,7,5,3.5,3.8685714285714283,1,0.00847457627118644
+analyze_data_for_decisions,Test equipment performance,7,7,3.5,3.8983333333333334,7,0.00847457627118644
+analyze_data_for_decisions,Direct personnel functions,5,4,2.5,4.072,1,0.006053268765133172
+analyze_data_for_decisions,Monitor operational compliance,5,5,2.5,3.9933333333333336,4,0.006053268765133172
+analyze_data_for_decisions,Process insurance claims,5,4,2.5,3.8899999999999997,2,0.006053268765133172
+analyze_data_for_decisions,Teach courses,5,3,2.5,4.08,5,0.006053268765133172
+analyze_data_for_decisions,Conduct research,4,4,2.0,3.4800000000000004,0,0.004842615012106538
+analyze_data_for_decisions,Develop nanoscale systems,4,2,2.0,3.4225,1,0.004842615012106538
+analyze_data_for_decisions,Direct performance routines,4,4,2.0,3.485,0,0.004842615012106538
+analyze_data_for_decisions,Negotiate contracts,4,4,2.0,4.0275,2,0.004842615012106538
+analyze_data_for_decisions,Preserve forensic evidence,4,3,2.0,4.1025,0,0.004842615012106538
+analyze_data_for_decisions,Run biofuel operations,4,3,2.0,3.7325,1,0.004842615012106538
+analyze_data_for_decisions,Coach performance,3,3,1.5,3.9066666666666663,1,0.0036319612590799033
+analyze_data_for_decisions,Coordinate technical operations,3,2,1.5,4.456666666666667,0,0.0036319612590799033
+analyze_data_for_decisions,Deliver health programs,3,3,1.5,3.9299999999999997,1,0.0036319612590799033
+analyze_data_for_decisions,Maintain wind operations,3,2,1.5,3.14,0,0.0036319612590799033
+analyze_data_for_decisions,Plan curricula,3,3,1.5,3.605,0,0.0036319612590799033
+analyze_data_for_decisions,Support special needs,3,3,1.5,3.34,0,0.0036319612590799033
+analyze_data_for_decisions,Test marine equipment,3,2,1.5,3.84,3,0.0036319612590799033
+analyze_data_for_decisions,Build robotic systems,2,1,1.0,3.675,0,0.002421307506053269
+analyze_data_for_decisions,Direct organizational strategy,2,2,1.0,3.5,0,0.002421307506053269
+analyze_data_for_decisions,Fabricate components,2,2,1.0,4.32,2,0.002421307506053269
+analyze_data_for_decisions,Maintain clean environments,2,2,1.0,4.154999999999999,2,0.002421307506053269
+analyze_data_for_decisions,Maintain operational records,2,2,1.0,4.220000000000001,0,0.002421307506053269
+analyze_data_for_decisions,Manage hazardous disposal,2,2,1.0,3.165,2,0.002421307506053269
+analyze_data_for_decisions,Advise on pathways,1,1,0.5,3.38,0,0.0012106537530266344
+analyze_data_for_decisions,Coordinate end-of-life services,1,1,0.5,4.02,0,0.0012106537530266344
+analyze_data_for_decisions,Create production patterns,1,1,0.5,4.13,0,0.0012106537530266344
+analyze_data_for_decisions,Create visual designs,1,1,0.5,3.6,1,0.0012106537530266344
+analyze_data_for_decisions,Deliver clinical treatment,1,1,0.5,4.19,0,0.0012106537530266344
+analyze_data_for_decisions,Deliver therapeutic treatment,1,1,0.5,4.1,0,0.0012106537530266344
+analyze_data_for_decisions,Develop treatment plans,1,1,0.5,3.84,0,0.0012106537530266344
+analyze_data_for_decisions,Digitize visual records,1,1,0.5,3.72,1,0.0012106537530266344
+analyze_data_for_decisions,Edit and publish content,1,1,0.5,3.7,0,0.0012106537530266344
+analyze_data_for_decisions,Maintain case records,1,1,0.5,3.42,1,0.0012106537530266344
+analyze_data_for_decisions,Maintain equipment,1,1,0.5,3.65,1,0.0012106537530266344
+analyze_data_for_decisions,Procure supplies and assets,1,1,0.5,3.83,0,0.0012106537530266344
+analyze_data_for_decisions,Provide nutrition services,1,1,0.5,4.03,0,0.0012106537530266344
+analyze_data_for_decisions,Provide vision care,1,1,0.5,4.6,0,0.0012106537530266344
+collect_and_maintain_records,Maintain operational records,125,113,62.5,3.9848760330578514,32,0.13676148796498905
+collect_and_maintain_records,Document clinical data,85,61,42.5,4.6425,10,0.09299781181619256
+collect_and_maintain_records,Analyze market trends,77,45,38.5,4.188133333333334,21,0.08424507658643327
+collect_and_maintain_records,Maintain student records,56,56,28.0,4.218,0,0.061269146608315096
+collect_and_maintain_records,Maintain case records,38,36,19.0,4.244166666666667,19,0.04157549234135667
+collect_and_maintain_records,Manage databases,38,31,19.0,3.896764705882353,26,0.04157549234135667
+collect_and_maintain_records,Map spatial data,35,20,17.5,4.057333333333333,4,0.038293216630196934
+collect_and_maintain_records,Compile reference materials,27,27,13.5,3.144444444444445,0,0.02954048140043764
+collect_and_maintain_records,Support operations,27,25,13.5,3.9581481481481484,1,0.02954048140043764
+collect_and_maintain_records,Curate collections,23,16,11.5,3.9239130434782608,20,0.02516411378555799
+collect_and_maintain_records,Procure supplies and assets,22,21,11.0,3.813636363636364,0,0.024070021881838075
+collect_and_maintain_records,Produce media content,21,14,10.5,3.932380952380952,14,0.022975929978118162
+collect_and_maintain_records,Evaluate treatment progress,18,14,9.0,4.4475,9,0.019693654266958426
+collect_and_maintain_records,Advance sustainability programs,16,15,8.0,3.7546666666666666,10,0.0175054704595186
+collect_and_maintain_records,Collect and test samples,15,13,7.5,4.286666666666666,0,0.016411378555798686
+collect_and_maintain_records,Digitize visual records,15,11,7.5,3.978,3,0.016411378555798686
+collect_and_maintain_records,Prepare performance reports,15,15,7.5,3.8893333333333335,10,0.016411378555798686
+collect_and_maintain_records,Develop products and services,14,10,7.0,3.9971428571428573,9,0.015317286652078774
+collect_and_maintain_records,Ensure regulatory compliance,14,13,7.0,4.176666666666667,13,0.015317286652078774
+collect_and_maintain_records,Optimize digital presence,14,7,7.0,3.9850000000000003,5,0.015317286652078774
+collect_and_maintain_records,Analyze data and risk,12,10,6.0,3.8172727272727274,2,0.01312910284463895
+collect_and_maintain_records,Conduct hearings and investigations,10,5,5.0,3.9799999999999995,0,0.010940919037199124
+collect_and_maintain_records,Improve quality systems,10,7,5.0,3.981111111111111,4,0.010940919037199124
+collect_and_maintain_records,Diagnose patient conditions,8,7,4.0,4.46,4,0.0087527352297593
+collect_and_maintain_records,Create production patterns,7,5,3.5,4.011428571428572,2,0.007658643326039387
+collect_and_maintain_records,Maintain clean environments,7,7,3.5,4.078571428571428,2,0.007658643326039387
+collect_and_maintain_records,Optimize material flow,7,5,3.5,3.6442857142857146,4,0.007658643326039387
+collect_and_maintain_records,Appraise property value,6,3,3.0,4.253333333333333,0,0.006564551422319475
+collect_and_maintain_records,Build robotic systems,6,4,3.0,3.6816666666666666,3,0.006564551422319475
+collect_and_maintain_records,Create technical drawings,6,6,3.0,4.0249999999999995,3,0.006564551422319475
+collect_and_maintain_records,Investigate theft and fraud,6,5,3.0,4.351666666666667,2,0.006564551422319475
+collect_and_maintain_records,Maintain equipment,6,5,3.0,3.595,6,0.006564551422319475
+collect_and_maintain_records,Manage security operations,6,5,3.0,4.005,2,0.006564551422319475
+collect_and_maintain_records,Negotiate contracts,6,6,3.0,3.765,5,0.006564551422319475
+collect_and_maintain_records,Create visual designs,5,4,2.5,3.8659999999999997,3,0.005470459518599562
+collect_and_maintain_records,Direct performance routines,5,3,2.5,4.0200000000000005,1,0.005470459518599562
+collect_and_maintain_records,Edit and publish content,5,4,2.5,4.093999999999999,3,0.005470459518599562
+collect_and_maintain_records,Maintain wind operations,5,5,2.5,3.88,2,0.005470459518599562
+collect_and_maintain_records,Manage budgets,5,5,2.5,4.0625,1,0.005470459518599562
+collect_and_maintain_records,Manage hazardous disposal,5,3,2.5,3.896,1,0.005470459518599562
+collect_and_maintain_records,Process insurance claims,5,3,2.5,4.3675,0,0.005470459518599562
+collect_and_maintain_records,Coordinate academic programs,4,4,2.0,3.8950000000000005,4,0.00437636761487965
+collect_and_maintain_records,Coordinate end-of-life services,4,2,2.0,4.315,0,0.00437636761487965
+collect_and_maintain_records,Coordinate technical operations,4,2,2.0,3.9325,0,0.00437636761487965
+collect_and_maintain_records,Design control systems,4,4,2.0,3.8925,1,0.00437636761487965
+collect_and_maintain_records,Direct organizational strategy,4,4,2.0,4.0,0,0.00437636761487965
+collect_and_maintain_records,Operate power facilities,4,4,2.0,4.1775,2,0.00437636761487965
+collect_and_maintain_records,Organize fundraising campaigns,4,3,2.0,3.245,3,0.00437636761487965
+collect_and_maintain_records,Plan emergency response,4,4,2.0,4.285,0,0.00437636761487965
+collect_and_maintain_records,Plan promotional campaigns,4,4,2.0,3.716666666666667,2,0.00437636761487965
+collect_and_maintain_records,Coach performance,3,3,1.5,3.6833333333333336,3,0.0032822757111597373
+collect_and_maintain_records,Estimate project costs,3,3,1.5,3.8549999999999995,1,0.0032822757111597373
+collect_and_maintain_records,Plan curricula,3,2,1.5,4.056666666666667,3,0.0032822757111597373
+collect_and_maintain_records,Prescribe medications,3,3,1.5,4.553333333333334,2,0.0032822757111597373
+collect_and_maintain_records,Preserve forensic evidence,3,1,1.5,4.1866666666666665,0,0.0032822757111597373
+collect_and_maintain_records,Test equipment performance,3,3,1.5,4.23,2,0.0032822757111597373
+collect_and_maintain_records,Administer selection tests,2,2,1.0,3.8449999999999998,0,0.002188183807439825
+collect_and_maintain_records,Deliver therapeutic treatment,2,2,1.0,4.645,0,0.002188183807439825
+collect_and_maintain_records,Design renewable systems,2,1,1.0,3.71,2,0.002188183807439825
+collect_and_maintain_records,Provide personal grooming,2,1,1.0,3.735,0,0.002188183807439825
+collect_and_maintain_records,Run biofuel operations,2,2,1.0,4.1450000000000005,2,0.002188183807439825
+collect_and_maintain_records,Test marine equipment,2,2,1.0,3.605,2,0.002188183807439825
+collect_and_maintain_records,Administer assessments,1,1,0.5,4.23,0,0.0010940919037199124
+collect_and_maintain_records,Consult with stakeholders,1,1,0.5,4.07,1,0.0010940919037199124
+collect_and_maintain_records,Coordinate recruitment,1,1,0.5,3.8,0,0.0010940919037199124
+collect_and_maintain_records,Deliver clinical treatment,1,1,0.5,4.55,0,0.0010940919037199124
+collect_and_maintain_records,Develop nanoscale systems,1,1,0.5,3.69,0,0.0010940919037199124
+collect_and_maintain_records,Direct personnel functions,1,1,0.5,3.91,1,0.0010940919037199124
+collect_and_maintain_records,Fabricate components,1,1,0.5,4.25,1,0.0010940919037199124
+collect_and_maintain_records,Perform medical procedures,1,1,0.5,4.68,1,0.0010940919037199124
+collect_and_maintain_records,Plan transportation systems,1,1,0.5,3.89,0,0.0010940919037199124
+collect_and_maintain_records,Prepare course materials,1,1,0.5,3.35,0,0.0010940919037199124
+collect_and_maintain_records,Provide counseling support,1,1,0.5,4.24,0,0.0010940919037199124
+collect_and_maintain_records,Stay informed,1,1,0.5,4.0,0,0.0010940919037199124
+collect_and_maintain_records,Supervise subordinate staff,1,1,0.5,4.57,1,0.0010940919037199124
+collect_and_maintain_records,Support special needs,1,1,0.5,3.73,1,0.0010940919037199124
+collect_and_maintain_records,Teach courses,1,1,0.5,4.45,1,0.0010940919037199124
+compare_records_against_standards,Analyze market trends,23,16,11.5,4.331,5,0.1031390134529148
+compare_records_against_standards,Improve quality systems,19,17,9.5,3.9289473684210527,8,0.08520179372197309
+compare_records_against_standards,Edit and publish content,16,10,8.0,4.319375,3,0.07174887892376682
+compare_records_against_standards,Test equipment performance,14,14,7.0,4.062307692307693,13,0.06278026905829596
+compare_records_against_standards,Fabricate components,13,11,6.5,4.135833333333333,13,0.05829596412556054
+compare_records_against_standards,Collect and test samples,10,6,5.0,4.804,0,0.04484304932735426
+compare_records_against_standards,Develop products and services,10,10,5.0,4.057777777777778,8,0.04484304932735426
+compare_records_against_standards,Diagnose patient conditions,9,9,4.5,4.742857142857142,2,0.04035874439461883
+compare_records_against_standards,Map spatial data,9,6,4.5,4.116666666666667,3,0.04035874439461883
+compare_records_against_standards,Create technical drawings,7,7,3.5,3.89,5,0.03139013452914798
+compare_records_against_standards,Test marine equipment,7,7,3.5,4.195714285714286,7,0.03139013452914798
+compare_records_against_standards,Design control systems,6,6,3.0,3.8666666666666667,5,0.026905829596412557
+compare_records_against_standards,Curate collections,5,5,2.5,3.8579999999999997,2,0.02242152466367713
+compare_records_against_standards,Maintain equipment,5,5,2.5,3.846,5,0.02242152466367713
+compare_records_against_standards,Manage databases,5,4,2.5,3.8980000000000006,3,0.02242152466367713
+compare_records_against_standards,Advance sustainability programs,4,4,2.0,3.4933333333333336,1,0.017937219730941704
+compare_records_against_standards,Create production patterns,4,4,2.0,4.33,4,0.017937219730941704
+compare_records_against_standards,Maintain clean environments,4,4,2.0,4.53,0,0.017937219730941704
+compare_records_against_standards,Prepare performance reports,4,4,2.0,4.1899999999999995,4,0.017937219730941704
+compare_records_against_standards,Appraise property value,3,2,1.5,3.9599999999999995,0,0.013452914798206279
+compare_records_against_standards,Create visual designs,3,3,1.5,4.556666666666666,0,0.013452914798206279
+compare_records_against_standards,Improve energy efficiency,3,3,1.5,3.0700000000000003,0,0.013452914798206279
+compare_records_against_standards,Monitor operational compliance,3,3,1.5,4.296666666666667,3,0.013452914798206279
+compare_records_against_standards,Repair system components,3,3,1.5,4.3,3,0.013452914798206279
+compare_records_against_standards,Analyze data and risk,2,2,1.0,3.55,1,0.008968609865470852
+compare_records_against_standards,Conduct hearings and investigations,2,2,1.0,4.025,0,0.008968609865470852
+compare_records_against_standards,Ensure regulatory compliance,2,2,1.0,4.17,2,0.008968609865470852
+compare_records_against_standards,Evaluate student work,2,2,1.0,4.5649999999999995,0,0.008968609865470852
+compare_records_against_standards,Evaluate treatment progress,2,2,1.0,3.96,1,0.008968609865470852
+compare_records_against_standards,Manage budgets,2,1,1.0,3.785,0,0.008968609865470852
+compare_records_against_standards,Preserve forensic evidence,2,1,1.0,4.11,0,0.008968609865470852
+compare_records_against_standards,Process insurance claims,2,2,1.0,3.99,1,0.008968609865470852
+compare_records_against_standards,Provide nutrition services,2,2,1.0,3.73,0,0.008968609865470852
+compare_records_against_standards,Coordinate academic programs,1,1,0.5,4.09,1,0.004484304932735426
+compare_records_against_standards,Coordinate technical operations,1,1,0.5,2.76,0,0.004484304932735426
+compare_records_against_standards,Digitize visual records,1,1,0.5,4.45,0,0.004484304932735426
+compare_records_against_standards,Direct organizational strategy,1,1,0.5,3.83,1,0.004484304932735426
+compare_records_against_standards,Direct personnel functions,1,1,0.5,3.9,0,0.004484304932735426
+compare_records_against_standards,Document clinical data,1,1,0.5,4.73,1,0.004484304932735426
+compare_records_against_standards,Install wiring and fibers,1,1,0.5,4.07,1,0.004484304932735426
+compare_records_against_standards,Maintain operational records,1,1,0.5,4.18,0,0.004484304932735426
+compare_records_against_standards,Manage hazardous disposal,1,1,0.5,3.72,0,0.004484304932735426
+compare_records_against_standards,Manage security operations,1,1,0.5,,0,0.004484304932735426
+compare_records_against_standards,Operate power facilities,1,1,0.5,4.07,0,0.004484304932735426
+compare_records_against_standards,Optimize digital presence,1,1,0.5,,0,0.004484304932735426
+compare_records_against_standards,Procure supplies and assets,1,1,0.5,4.55,0,0.004484304932735426
+compare_records_against_standards,Produce media content,1,1,0.5,,0,0.004484304932735426
+compare_records_against_standards,Resolve customer complaints,1,1,0.5,4.12,0,0.004484304932735426
+compare_records_against_standards,Run biofuel operations,1,1,0.5,,0,0.004484304932735426
+conduct_experiments_or_tests,Collect and test samples,64,43,32.0,3.960952380952381,6,0.2601626016260163
+conduct_experiments_or_tests,Improve quality systems,37,30,18.5,3.744594594594595,13,0.15040650406504066
+conduct_experiments_or_tests,Diagnose patient conditions,19,17,9.5,4.444117647058824,10,0.07723577235772358
+conduct_experiments_or_tests,Advance sustainability programs,18,13,9.0,3.397777777777778,4,0.07317073170731707
+conduct_experiments_or_tests,Test equipment performance,14,13,7.0,4.046923076923077,11,0.056910569105691054
+conduct_experiments_or_tests,Design control systems,11,10,5.5,3.5254545454545454,11,0.044715447154471545
+conduct_experiments_or_tests,Run biofuel operations,8,5,4.0,3.41625,4,0.032520325203252036
+conduct_experiments_or_tests,Develop clean energy tech,7,4,3.5,3.6,3,0.028455284552845527
+conduct_experiments_or_tests,Analyze data and risk,5,4,2.5,3.9074999999999998,2,0.02032520325203252
+conduct_experiments_or_tests,Develop products and services,5,4,2.5,3.6966666666666668,5,0.02032520325203252
+conduct_experiments_or_tests,Manage security operations,5,2,2.5,4.56,0,0.02032520325203252
+conduct_experiments_or_tests,Build robotic systems,4,4,2.0,3.9600000000000004,2,0.016260162601626018
+conduct_experiments_or_tests,Develop nanoscale systems,4,2,2.0,3.9699999999999998,0,0.016260162601626018
+conduct_experiments_or_tests,Plan emergency response,4,4,2.0,3.9375,0,0.016260162601626018
+conduct_experiments_or_tests,Coordinate technical operations,3,3,1.5,4.166666666666667,1,0.012195121951219513
+conduct_experiments_or_tests,Map spatial data,3,2,1.5,3.81,0,0.012195121951219513
+conduct_experiments_or_tests,Optimize digital presence,3,3,1.5,3.935,0,0.012195121951219513
+conduct_experiments_or_tests,Provide vision care,3,1,1.5,3.81,0,0.012195121951219513
+conduct_experiments_or_tests,Test marine equipment,3,3,1.5,3.973333333333333,1,0.012195121951219513
+conduct_experiments_or_tests,Administer selection tests,2,2,1.0,2.96,0,0.008130081300813009
+conduct_experiments_or_tests,Create production patterns,2,2,1.0,3.87,0,0.008130081300813009
+conduct_experiments_or_tests,Evaluate treatment progress,2,2,1.0,4.07,2,0.008130081300813009
+conduct_experiments_or_tests,Manage databases,2,2,1.0,3.6550000000000002,1,0.008130081300813009
+conduct_experiments_or_tests,Manage hazardous disposal,2,2,1.0,3.9699999999999998,2,0.008130081300813009
+conduct_experiments_or_tests,Monitor operational compliance,2,2,1.0,3.42,1,0.008130081300813009
+conduct_experiments_or_tests,Prepare performance reports,2,2,1.0,3.965,2,0.008130081300813009
+conduct_experiments_or_tests,Conduct research,1,1,0.5,2.98,1,0.0040650406504065045
+conduct_experiments_or_tests,Create visual designs,1,1,0.5,2.66,0,0.0040650406504065045
+conduct_experiments_or_tests,Curate collections,1,1,0.5,3.88,0,0.0040650406504065045
+conduct_experiments_or_tests,Deliver therapeutic treatment,1,1,0.5,3.27,0,0.0040650406504065045
+conduct_experiments_or_tests,Design renewable systems,1,1,0.5,2.87,0,0.0040650406504065045
+conduct_experiments_or_tests,Direct performance routines,1,1,0.5,4.29,0,0.0040650406504065045
+conduct_experiments_or_tests,Fabricate components,1,1,0.5,3.78,0,0.0040650406504065045
+conduct_experiments_or_tests,Install wiring and fibers,1,1,0.5,3.67,0,0.0040650406504065045
+conduct_experiments_or_tests,Maintain wind operations,1,1,0.5,3.63,0,0.0040650406504065045
+conduct_experiments_or_tests,Provide nutrition services,1,1,0.5,3.19,0,0.0040650406504065045
+conduct_experiments_or_tests,Repair system components,1,1,0.5,3.93,1,0.0040650406504065045
+conduct_experiments_or_tests,Supervise technical staff,1,1,0.5,3.78,0,0.0040650406504065045
+consult_and_advise,Develop products and services,157,111,78.5,3.7781333333333333,54,0.12620578778135047
+consult_and_advise,Advance sustainability programs,74,41,37.0,3.585555555555556,8,0.0594855305466238
+consult_and_advise,Provide counseling support,73,49,36.5,4.182205882352941,12,0.058681672025723476
+consult_and_advise,Deliver health programs,59,35,29.5,4.1737931034482765,11,0.04742765273311897
+consult_and_advise,Analyze market trends,57,26,28.5,4.021,15,0.04581993569131833
+consult_and_advise,Consult with stakeholders,50,24,25.0,4.10625,18,0.04019292604501608
+consult_and_advise,Develop treatment plans,45,35,22.5,4.219545454545455,19,0.03617363344051447
+consult_and_advise,Advise on pathways,42,41,21.0,3.848333333333333,0,0.03376205787781351
+consult_and_advise,Stay informed,36,36,18.0,4.175833333333333,0,0.028938906752411574
+consult_and_advise,Advise student groups,35,35,17.5,3.0405714285714285,0,0.028135048231511254
+consult_and_advise,Collaborate on research,35,35,17.5,3.7699999999999996,0,0.028135048231511254
+consult_and_advise,Plan promotional campaigns,35,19,17.5,3.9374193548387098,20,0.028135048231511254
+consult_and_advise,Provide consultation,34,34,17.0,2.75,0,0.027331189710610933
+consult_and_advise,Resolve customer complaints,33,27,16.5,3.7961290322580648,31,0.02652733118971061
+consult_and_advise,Support special needs,29,22,14.5,3.9603571428571427,10,0.023311897106109324
+consult_and_advise,Produce media content,19,13,9.5,4.0493749999999995,3,0.01527331189710611
+consult_and_advise,Negotiate contracts,18,17,9.0,3.901764705882353,10,0.014469453376205787
+consult_and_advise,Direct personnel functions,17,12,8.5,3.6152941176470588,3,0.013665594855305467
+consult_and_advise,Ensure regulatory compliance,16,10,8.0,3.96625,7,0.012861736334405145
+consult_and_advise,Organize fundraising campaigns,14,12,7.0,3.84,12,0.011254019292604502
+consult_and_advise,Serve on governing bodies,14,14,7.0,3.5121428571428575,0,0.011254019292604502
+consult_and_advise,Conduct hearings and investigations,13,10,6.5,3.7707692307692304,0,0.01045016077170418
+consult_and_advise,Process insurance claims,13,10,6.5,3.9491666666666667,7,0.01045016077170418
+consult_and_advise,Coach performance,12,8,6.0,3.8008333333333333,6,0.00964630225080386
+consult_and_advise,Manage security operations,12,11,6.0,3.941111111111111,3,0.00964630225080386
+consult_and_advise,Map spatial data,12,6,6.0,3.6770000000000005,0,0.00964630225080386
+consult_and_advise,Analyze data and risk,11,10,5.5,3.90875,2,0.008842443729903537
+consult_and_advise,Improve quality systems,11,9,5.5,3.566,8,0.008842443729903537
+consult_and_advise,Manage databases,11,9,5.5,3.9528571428571433,10,0.008842443729903537
+consult_and_advise,Monitor operational compliance,11,10,5.5,3.958181818181818,3,0.008842443729903537
+consult_and_advise,Diagnose patient conditions,10,7,5.0,4.447142857142857,6,0.008038585209003215
+consult_and_advise,Edit and publish content,9,9,4.5,3.42875,8,0.007234726688102894
+consult_and_advise,Optimize digital presence,9,5,4.5,3.4966666666666666,4,0.007234726688102894
+consult_and_advise,Curate collections,8,5,4.0,3.7875,3,0.006430868167202572
+consult_and_advise,Design control systems,8,8,4.0,3.5714285714285716,8,0.006430868167202572
+consult_and_advise,Hold office hours,8,8,4.0,3.9962500000000003,0,0.006430868167202572
+consult_and_advise,Improve energy efficiency,8,4,4.0,3.895,4,0.006430868167202572
+consult_and_advise,Provide nutrition services,8,6,4.0,3.64,3,0.006430868167202572
+consult_and_advise,Teach courses,8,6,4.0,3.787142857142857,8,0.006430868167202572
+consult_and_advise,Coordinate technical operations,7,3,3.5,4.344285714285714,0,0.005627009646302251
+consult_and_advise,Design renewable systems,7,4,3.5,4.001428571428571,2,0.005627009646302251
+consult_and_advise,Direct performance routines,7,5,3.5,3.9442857142857144,0,0.005627009646302251
+consult_and_advise,Investigate theft and fraud,7,4,3.5,4.11,2,0.005627009646302251
+consult_and_advise,Optimize material flow,7,4,3.5,3.6485714285714286,0,0.005627009646302251
+consult_and_advise,Create visual designs,6,3,3.0,4.066666666666667,6,0.00482315112540193
+consult_and_advise,Manage budgets,6,3,3.0,3.9433333333333334,2,0.00482315112540193
+consult_and_advise,Prepare performance reports,6,6,3.0,3.8066666666666666,6,0.00482315112540193
+consult_and_advise,Provide personal grooming,6,4,3.0,4.113333333333333,0,0.00482315112540193
+consult_and_advise,Appraise property value,5,3,2.5,3.508,2,0.0040192926045016075
+consult_and_advise,Build robotic systems,5,5,2.5,3.6475,3,0.0040192926045016075
+consult_and_advise,Collect and test samples,5,5,2.5,4.15,0,0.0040192926045016075
+consult_and_advise,Coordinate academic programs,5,5,2.5,3.7079999999999997,1,0.0040192926045016075
+consult_and_advise,Evaluate treatment progress,5,5,2.5,4.182,5,0.0040192926045016075
+consult_and_advise,Maintain equipment,5,5,2.5,3.6120000000000005,5,0.0040192926045016075
+consult_and_advise,Plan transportation systems,5,2,2.5,4.002,3,0.0040192926045016075
+consult_and_advise,Prescribe medications,5,4,2.5,4.43,1,0.0040192926045016075
+consult_and_advise,Provide vision care,5,3,2.5,4.508,0,0.0040192926045016075
+consult_and_advise,Treat musculoskeletal disorders,5,4,2.5,3.5425,4,0.0040192926045016075
+consult_and_advise,Coordinate end-of-life services,4,3,2.0,4.6625,0,0.003215434083601286
+consult_and_advise,Estimate project costs,4,4,2.0,4.2175,0,0.003215434083601286
+consult_and_advise,Maintain wind operations,4,3,2.0,3.69,0,0.003215434083601286
+consult_and_advise,Plan emergency response,4,4,2.0,4.265,1,0.003215434083601286
+consult_and_advise,Pursue funding,4,4,2.0,3.5766666666666667,0,0.003215434083601286
+consult_and_advise,Run biofuel operations,4,4,2.0,3.59,2,0.003215434083601286
+consult_and_advise,Deliver clinical treatment,3,3,1.5,3.8333333333333335,0,0.002411575562700965
+consult_and_advise,Demonstrate equipment use,3,2,1.5,3.49,0,0.002411575562700965
+consult_and_advise,Develop clean energy tech,3,3,1.5,3.53,0,0.002411575562700965
+consult_and_advise,Maintain clean environments,3,3,1.5,3.545,3,0.002411575562700965
+consult_and_advise,Create production patterns,2,2,1.0,3.9450000000000003,1,0.001607717041800643
+consult_and_advise,Create technical drawings,2,2,1.0,3.6100000000000003,0,0.001607717041800643
+consult_and_advise,Plan curricula,2,1,1.0,3.67,0,0.001607717041800643
+consult_and_advise,Preserve forensic evidence,2,2,1.0,3.585,0,0.001607717041800643
+consult_and_advise,Supervise technical staff,2,2,1.0,3.91,1,0.001607717041800643
+consult_and_advise,Administer selection tests,1,1,0.5,3.72,0,0.0008038585209003215
+consult_and_advise,Coordinate recruitment,1,1,0.5,4.17,0,0.0008038585209003215
+consult_and_advise,Develop nanoscale systems,1,1,0.5,4.28,0,0.0008038585209003215
+consult_and_advise,Fabricate components,1,1,0.5,3.87,1,0.0008038585209003215
+consult_and_advise,Facilitate discussions,1,1,0.5,3.36,0,0.0008038585209003215
+consult_and_advise,Maintain case records,1,1,0.5,3.54,0,0.0008038585209003215
+consult_and_advise,Manage hazardous disposal,1,1,0.5,4.47,1,0.0008038585209003215
+consult_and_advise,Operate power facilities,1,1,0.5,3.81,0,0.0008038585209003215
+consult_and_advise,Perform medical procedures,1,1,0.5,4.39,0,0.0008038585209003215
+consult_and_advise,Provide emergency care,1,1,0.5,,0,0.0008038585209003215
+consult_and_advise,Pursue professional learning,1,1,0.5,3.39,1,0.0008038585209003215
+consult_and_advise,Represent institution,1,1,0.5,3.71,0,0.0008038585209003215
+consult_and_advise,Supervise subordinate staff,1,1,0.5,2.71,1,0.0008038585209003215
+consult_and_advise,Test equipment performance,1,1,0.5,4.39,1,0.0008038585209003215
+consult_and_advise,Test marine equipment,1,1,0.5,4.25,0,0.0008038585209003215
+create_visual_or_graphic_design,Create visual designs,38,24,19.0,3.8175675675675675,15,0.20540540540540542
+create_visual_or_graphic_design,Plan promotional campaigns,22,19,11.0,3.376666666666667,5,0.11891891891891893
+create_visual_or_graphic_design,Digitize visual records,21,14,10.5,3.7376190476190474,4,0.11351351351351352
+create_visual_or_graphic_design,Map spatial data,19,12,9.5,3.862222222222222,0,0.10270270270270271
+create_visual_or_graphic_design,Create technical drawings,11,7,5.5,3.8545454545454545,1,0.05945945945945946
+create_visual_or_graphic_design,Prepare performance reports,10,10,5.0,3.726,2,0.05405405405405406
+create_visual_or_graphic_design,Produce media content,10,9,5.0,3.913333333333333,5,0.05405405405405406
+create_visual_or_graphic_design,Direct performance routines,7,7,3.5,3.937142857142857,6,0.03783783783783784
+create_visual_or_graphic_design,Edit and publish content,5,5,2.5,3.758,5,0.02702702702702703
+create_visual_or_graphic_design,Create production patterns,4,4,2.0,3.46,3,0.021621621621621623
+create_visual_or_graphic_design,Fabricate components,4,2,2.0,3.71,0,0.021621621621621623
+create_visual_or_graphic_design,Curate collections,3,3,1.5,3.546666666666667,2,0.016216216216216217
+create_visual_or_graphic_design,Teach courses,3,3,1.5,3.95,3,0.016216216216216217
+create_visual_or_graphic_design,Advance sustainability programs,2,2,1.0,3.68,0,0.010810810810810811
+create_visual_or_graphic_design,Deliver health programs,2,2,1.0,3.76,0,0.010810810810810811
+create_visual_or_graphic_design,Develop products and services,2,2,1.0,4.53,2,0.010810810810810811
+create_visual_or_graphic_design,Plan curricula,2,2,1.0,3.855,2,0.010810810810810811
+create_visual_or_graphic_design,Provide vision care,2,1,1.0,4.1,0,0.010810810810810811
+create_visual_or_graphic_design,Analyze data and risk,1,1,0.5,3.39,0,0.005405405405405406
+create_visual_or_graphic_design,Coach performance,1,1,0.5,3.69,1,0.005405405405405406
+create_visual_or_graphic_design,Collect and test samples,1,1,0.5,4.17,0,0.005405405405405406
+create_visual_or_graphic_design,Coordinate recruitment,1,1,0.5,3.27,0,0.005405405405405406
+create_visual_or_graphic_design,Deliver therapeutic treatment,1,1,0.5,4.04,0,0.005405405405405406
+create_visual_or_graphic_design,Diagnose patient conditions,1,1,0.5,4.76,0,0.005405405405405406
+create_visual_or_graphic_design,Install wiring and fibers,1,1,0.5,2.96,1,0.005405405405405406
+create_visual_or_graphic_design,Maintain equipment,1,1,0.5,2.95,1,0.005405405405405406
+create_visual_or_graphic_design,Maintain wind operations,1,1,0.5,3.88,0,0.005405405405405406
+create_visual_or_graphic_design,Manage databases,1,1,0.5,,1,0.005405405405405406
+create_visual_or_graphic_design,Optimize digital presence,1,1,0.5,3.39,0,0.005405405405405406
+create_visual_or_graphic_design,Optimize material flow,1,1,0.5,3.35,0,0.005405405405405406
+create_visual_or_graphic_design,Organize fundraising campaigns,1,1,0.5,3.37,0,0.005405405405405406
+create_visual_or_graphic_design,Preserve forensic evidence,1,1,0.5,4.67,0,0.005405405405405406
+create_visual_or_graphic_design,Provide nutrition services,1,1,0.5,3.83,0,0.005405405405405406
+create_visual_or_graphic_design,Provide personal grooming,1,1,0.5,2.81,0,0.005405405405405406
+create_visual_or_graphic_design,Supervise subordinate staff,1,1,0.5,3.52,1,0.005405405405405406
+create_visual_or_graphic_design,Support special needs,1,1,0.5,4.54,1,0.005405405405405406
+design_technical_artefact,Create technical drawings,69,46,34.5,3.818769230769231,24,0.11004784688995216
+design_technical_artefact,Design control systems,50,31,25.0,3.6488,35,0.07974481658692185
+design_technical_artefact,Advance sustainability programs,45,26,22.5,3.5344186046511625,10,0.07177033492822966
+design_technical_artefact,Develop products and services,44,30,22.0,3.771136363636364,27,0.07017543859649122
+design_technical_artefact,Manage databases,38,16,19.0,3.8096774193548386,22,0.06060606060606061
+design_technical_artefact,Create production patterns,37,16,18.5,3.983611111111111,18,0.05901116427432217
+design_technical_artefact,Fabricate components,37,23,18.5,3.785277777777778,13,0.05901116427432217
+design_technical_artefact,Create visual designs,30,15,15.0,4.074,20,0.04784688995215311
+design_technical_artefact,Analyze data and risk,19,16,9.5,3.6399999999999997,4,0.030303030303030304
+design_technical_artefact,Develop clean energy tech,18,4,9.0,3.581875,8,0.028708133971291867
+design_technical_artefact,Direct performance routines,18,5,9.0,3.6877777777777774,0,0.028708133971291867
+design_technical_artefact,Optimize digital presence,17,7,8.5,3.641666666666667,4,0.02711323763955343
+design_technical_artefact,Deliver clinical treatment,16,14,8.0,4.17125,0,0.025518341307814992
+design_technical_artefact,Build robotic systems,14,4,7.0,3.4492857142857143,6,0.022328548644338118
+design_technical_artefact,Manage security operations,14,10,7.0,3.6155555555555554,2,0.022328548644338118
+design_technical_artefact,Produce media content,12,9,6.0,3.885,3,0.019138755980861243
+design_technical_artefact,Design renewable systems,11,5,5.5,3.686363636363637,4,0.017543859649122806
+design_technical_artefact,Develop nanoscale systems,11,2,5.5,3.02,1,0.017543859649122806
+design_technical_artefact,Improve quality systems,11,8,5.5,3.5,10,0.017543859649122806
+design_technical_artefact,Improve energy efficiency,10,6,5.0,3.61,2,0.01594896331738437
+design_technical_artefact,Map spatial data,10,8,5.0,3.6630000000000003,0,0.01594896331738437
+design_technical_artefact,Run biofuel operations,10,5,5.0,3.27,9,0.01594896331738437
+design_technical_artefact,Optimize material flow,7,4,3.5,3.722857142857143,0,0.011164274322169059
+design_technical_artefact,Plan transportation systems,7,5,3.5,3.9514285714285715,0,0.011164274322169059
+design_technical_artefact,Estimate project costs,5,5,2.5,4.056,5,0.007974481658692184
+design_technical_artefact,Maintain wind operations,5,3,2.5,3.4480000000000004,1,0.007974481658692184
+design_technical_artefact,Monitor operational compliance,5,5,2.5,3.7560000000000002,5,0.007974481658692184
+design_technical_artefact,Plan emergency response,5,4,2.5,4.164,0,0.007974481658692184
+design_technical_artefact,Edit and publish content,4,4,2.0,4.215,3,0.006379585326953748
+design_technical_artefact,Teach courses,4,4,2.0,4.010000000000001,4,0.006379585326953748
+design_technical_artefact,Analyze market trends,3,3,1.5,3.78,0,0.004784688995215311
+design_technical_artefact,Collect and test samples,3,2,1.5,4.33,0,0.004784688995215311
+design_technical_artefact,Deliver therapeutic treatment,3,2,1.5,4.566666666666666,0,0.004784688995215311
+design_technical_artefact,Digitize visual records,3,3,1.5,3.2999999999999994,0,0.004784688995215311
+design_technical_artefact,Plan promotional campaigns,3,3,1.5,3.9133333333333336,2,0.004784688995215311
+design_technical_artefact,Test equipment performance,3,3,1.5,3.6133333333333333,3,0.004784688995215311
+design_technical_artefact,Deliver health programs,2,2,1.0,3.7800000000000002,0,0.003189792663476874
+design_technical_artefact,Diagnose patient conditions,2,2,1.0,4.6850000000000005,2,0.003189792663476874
+design_technical_artefact,Direct personnel functions,2,1,1.0,4.085,1,0.003189792663476874
+design_technical_artefact,Install wiring and fibers,2,2,1.0,3.6,2,0.003189792663476874
+design_technical_artefact,Operate power facilities,2,2,1.0,3.765,2,0.003189792663476874
+design_technical_artefact,Process insurance claims,2,1,1.0,3.7,0,0.003189792663476874
+design_technical_artefact,Provide nutrition services,2,2,1.0,3.585,0,0.003189792663476874
+design_technical_artefact,Provide personal grooming,2,2,1.0,4.015,1,0.003189792663476874
+design_technical_artefact,Test marine equipment,2,1,1.0,3.775,2,0.003189792663476874
+design_technical_artefact,Ensure regulatory compliance,1,1,0.5,3.78,1,0.001594896331738437
+design_technical_artefact,Manage hazardous disposal,1,1,0.5,3.95,1,0.001594896331738437
+design_technical_artefact,Perform medical procedures,1,1,0.5,3.67,1,0.001594896331738437
+design_technical_artefact,Plan curricula,1,1,0.5,3.58,0,0.001594896331738437
+design_technical_artefact,Prepare course materials,1,1,0.5,4.24,0,0.001594896331738437
+design_technical_artefact,Prepare performance reports,1,1,0.5,3.59,1,0.001594896331738437
+design_technical_artefact,Repair system components,1,1,0.5,3.78,1,0.001594896331738437
+design_technical_artefact,Support special needs,1,1,0.5,3.85,0,0.001594896331738437
+develop_and_implement_treatment_plans,Develop treatment plans,42,32,21.0,4.379024390243902,6,0.27450980392156865
+develop_and_implement_treatment_plans,Support special needs,25,19,12.5,4.248260869565217,0,0.16339869281045752
+develop_and_implement_treatment_plans,Evaluate treatment progress,20,15,10.0,4.268888888888889,9,0.13071895424836602
+develop_and_implement_treatment_plans,Advance sustainability programs,15,11,7.5,3.458666666666667,1,0.09803921568627451
+develop_and_implement_treatment_plans,Coach performance,8,6,4.0,4.1575,3,0.05228758169934641
+develop_and_implement_treatment_plans,Deliver therapeutic treatment,6,2,3.0,4.3933333333333335,0,0.0392156862745098
+develop_and_implement_treatment_plans,Deliver health programs,5,5,2.5,3.7560000000000002,3,0.032679738562091505
+develop_and_implement_treatment_plans,Analyze market trends,4,4,2.0,3.9599999999999995,0,0.026143790849673203
+develop_and_implement_treatment_plans,Prescribe medications,4,4,2.0,4.63,2,0.026143790849673203
+develop_and_implement_treatment_plans,Diagnose patient conditions,3,2,1.5,4.41,3,0.0196078431372549
+develop_and_implement_treatment_plans,Provide nutrition services,3,2,1.5,4.176666666666667,3,0.0196078431372549
+develop_and_implement_treatment_plans,Provide vision care,3,3,1.5,4.476666666666667,0,0.0196078431372549
+develop_and_implement_treatment_plans,Deliver clinical treatment,2,2,1.0,4.74,1,0.013071895424836602
+develop_and_implement_treatment_plans,Direct personnel functions,2,1,1.0,4.465,0,0.013071895424836602
+develop_and_implement_treatment_plans,Improve quality systems,2,2,1.0,3.7199999999999998,2,0.013071895424836602
+develop_and_implement_treatment_plans,Build robotic systems,1,1,0.5,3.32,0,0.006535947712418301
+develop_and_implement_treatment_plans,Collect and test samples,1,1,0.5,4.57,0,0.006535947712418301
+develop_and_implement_treatment_plans,Consult with stakeholders,1,1,0.5,4.03,1,0.006535947712418301
+develop_and_implement_treatment_plans,Coordinate academic programs,1,1,0.5,4.62,0,0.006535947712418301
+develop_and_implement_treatment_plans,Coordinate technical operations,1,1,0.5,4.82,0,0.006535947712418301
+develop_and_implement_treatment_plans,Direct performance routines,1,1,0.5,3.79,0,0.006535947712418301
+develop_and_implement_treatment_plans,Provide counseling support,1,1,0.5,3.99,1,0.006535947712418301
+develop_and_implement_treatment_plans,Provide emergency care,1,1,0.5,4.59,1,0.006535947712418301
+develop_and_implement_treatment_plans,Treat musculoskeletal disorders,1,1,0.5,4.4,1,0.006535947712418301
+develop_methods_or_techniques,Improve quality systems,66,49,33.0,3.7650847457627115,23,0.10476190476190476
+develop_methods_or_techniques,Advance sustainability programs,59,34,29.5,3.4143103448275864,4,0.09365079365079365
+develop_methods_or_techniques,Plan curricula,54,50,27.0,4.122115384615385,26,0.08571428571428572
+develop_methods_or_techniques,Analyze data and risk,27,17,13.5,3.8303846153846157,2,0.04285714285714286
+develop_methods_or_techniques,Ensure regulatory compliance,23,15,11.5,3.9747826086956524,20,0.03650793650793651
+develop_methods_or_techniques,Manage security operations,23,15,11.5,4.0,3,0.03650793650793651
+develop_methods_or_techniques,Manage databases,22,13,11.0,3.7742105263157892,9,0.03492063492063492
+develop_methods_or_techniques,Stay informed,22,22,11.0,3.836,0,0.03492063492063492
+develop_methods_or_techniques,Support special needs,22,18,11.0,4.2905,0,0.03492063492063492
+develop_methods_or_techniques,Direct personnel functions,19,13,9.5,3.8284210526315787,3,0.03015873015873016
+develop_methods_or_techniques,Prepare course materials,19,19,9.5,4.44,0,0.03015873015873016
+develop_methods_or_techniques,Develop products and services,17,14,8.5,3.658125,10,0.026984126984126985
+develop_methods_or_techniques,Collect and test samples,16,11,8.0,4.019375,2,0.025396825396825397
+develop_methods_or_techniques,Plan emergency response,14,13,7.0,3.9936363636363637,0,0.022222222222222223
+develop_methods_or_techniques,Plan promotional campaigns,14,12,7.0,3.7449999999999997,5,0.022222222222222223
+develop_methods_or_techniques,Coordinate academic programs,11,11,5.5,3.8645454545454543,0,0.01746031746031746
+develop_methods_or_techniques,Run biofuel operations,10,5,5.0,3.353,5,0.015873015873015872
+develop_methods_or_techniques,Create technical drawings,9,8,4.5,3.9499999999999997,4,0.014285714285714285
+develop_methods_or_techniques,Monitor operational compliance,9,9,4.5,3.894444444444444,7,0.014285714285714285
+develop_methods_or_techniques,Teach courses,9,8,4.5,3.898888888888889,8,0.014285714285714285
+develop_methods_or_techniques,Design control systems,7,7,3.5,3.7257142857142855,6,0.011111111111111112
+develop_methods_or_techniques,Develop nanoscale systems,7,3,3.5,3.258571428571429,1,0.011111111111111112
+develop_methods_or_techniques,Optimize digital presence,7,4,3.5,3.7020000000000004,1,0.011111111111111112
+develop_methods_or_techniques,Coach performance,6,6,3.0,4.103333333333333,4,0.009523809523809525
+develop_methods_or_techniques,Deliver health programs,6,6,3.0,3.6233333333333335,1,0.009523809523809525
+develop_methods_or_techniques,Develop clean energy tech,6,4,3.0,3.2533333333333334,2,0.009523809523809525
+develop_methods_or_techniques,Prepare performance reports,6,5,3.0,3.766666666666667,6,0.009523809523809525
+develop_methods_or_techniques,Produce media content,6,6,3.0,3.936666666666667,1,0.009523809523809525
+develop_methods_or_techniques,Pursue professional learning,6,6,3.0,4.005,0,0.009523809523809525
+develop_methods_or_techniques,Resolve customer complaints,6,6,3.0,3.7116666666666664,6,0.009523809523809525
+develop_methods_or_techniques,Analyze market trends,5,4,2.5,3.832,3,0.007936507936507936
+develop_methods_or_techniques,Investigate theft and fraud,5,5,2.5,3.525,1,0.007936507936507936
+develop_methods_or_techniques,Manage hazardous disposal,5,4,2.5,3.6,3,0.007936507936507936
+develop_methods_or_techniques,Map spatial data,5,4,2.5,3.8475,0,0.007936507936507936
+develop_methods_or_techniques,Organize fundraising campaigns,5,2,2.5,3.908,0,0.007936507936507936
+develop_methods_or_techniques,Fabricate components,4,3,2.0,3.9499999999999997,1,0.006349206349206349
+develop_methods_or_techniques,Manage budgets,4,4,2.0,3.9625,3,0.006349206349206349
+develop_methods_or_techniques,Optimize material flow,4,3,2.0,3.96,0,0.006349206349206349
+develop_methods_or_techniques,Plan transportation systems,4,3,2.0,3.6525,1,0.006349206349206349
+develop_methods_or_techniques,Build robotic systems,3,2,1.5,3.4,3,0.004761904761904762
+develop_methods_or_techniques,Create visual designs,3,3,1.5,3.8766666666666665,2,0.004761904761904762
+develop_methods_or_techniques,Curate collections,3,3,1.5,4.243333333333333,2,0.004761904761904762
+develop_methods_or_techniques,Deliver therapeutic treatment,3,2,1.5,3.69,0,0.004761904761904762
+develop_methods_or_techniques,Design renewable systems,3,2,1.5,3.6300000000000003,1,0.004761904761904762
+develop_methods_or_techniques,Develop treatment plans,3,3,1.5,3.9633333333333334,1,0.004761904761904762
+develop_methods_or_techniques,Direct performance routines,3,2,1.5,3.4933333333333336,0,0.004761904761904762
+develop_methods_or_techniques,Maintain clean environments,3,3,1.5,3.33,2,0.004761904761904762
+develop_methods_or_techniques,Maintain wind operations,3,3,1.5,3.6799999999999997,1,0.004761904761904762
+develop_methods_or_techniques,Negotiate contracts,3,3,1.5,4.133333333333333,1,0.004761904761904762
+develop_methods_or_techniques,Provide nutrition services,3,2,1.5,3.1833333333333336,0,0.004761904761904762
+develop_methods_or_techniques,Test equipment performance,3,3,1.5,3.61,3,0.004761904761904762
+develop_methods_or_techniques,Coordinate technical operations,2,2,1.0,3.8949999999999996,0,0.0031746031746031746
+develop_methods_or_techniques,Create production patterns,2,2,1.0,4.355,1,0.0031746031746031746
+develop_methods_or_techniques,Digitize visual records,2,2,1.0,3.4850000000000003,0,0.0031746031746031746
+develop_methods_or_techniques,Operate power facilities,2,1,1.0,3.74,0,0.0031746031746031746
+develop_methods_or_techniques,Administer selection tests,1,1,0.5,4.5,0,0.0015873015873015873
+develop_methods_or_techniques,Advise on pathways,1,1,0.5,4.13,0,0.0015873015873015873
+develop_methods_or_techniques,Appraise property value,1,1,0.5,3.71,0,0.0015873015873015873
+develop_methods_or_techniques,Coordinate recruitment,1,1,0.5,3.52,0,0.0015873015873015873
+develop_methods_or_techniques,Deliver clinical treatment,1,1,0.5,3.7,0,0.0015873015873015873
+develop_methods_or_techniques,Diagnose patient conditions,1,1,0.5,3.4,1,0.0015873015873015873
+develop_methods_or_techniques,Edit and publish content,1,1,0.5,3.78,1,0.0015873015873015873
+develop_methods_or_techniques,Estimate project costs,1,1,0.5,3.52,1,0.0015873015873015873
+develop_methods_or_techniques,Evaluate treatment progress,1,1,0.5,3.59,1,0.0015873015873015873
+develop_methods_or_techniques,Improve energy efficiency,1,1,0.5,3.27,0,0.0015873015873015873
+develop_methods_or_techniques,Maintain equipment,1,1,0.5,4.24,0,0.0015873015873015873
+develop_methods_or_techniques,Maintain operational records,1,1,0.5,3.99,1,0.0015873015873015873
+develop_methods_or_techniques,Perform medical procedures,1,1,0.5,,0,0.0015873015873015873
+develop_methods_or_techniques,Prescribe medications,1,1,0.5,4.1,1,0.0015873015873015873
+develop_methods_or_techniques,Provide vision care,1,1,0.5,4.72,0,0.0015873015873015873
+develop_methods_or_techniques,Serve on governing bodies,1,1,0.5,,0,0.0015873015873015873
+develop_methods_or_techniques,Supervise subordinate staff,1,1,0.5,3.79,1,0.0015873015873015873
+diagnose_and_repair_equipment,Repair system components,104,41,52.0,3.972450980392157,49,0.22559652928416485
+diagnose_and_repair_equipment,Maintain equipment,92,64,46.0,3.995393258426966,51,0.19956616052060738
+diagnose_and_repair_equipment,Test equipment performance,61,39,30.5,4.091551724137931,28,0.13232104121475055
+diagnose_and_repair_equipment,Install wiring and fibers,32,21,16.0,3.858125,7,0.06941431670281996
+diagnose_and_repair_equipment,Fabricate components,31,19,15.5,3.7074193548387098,17,0.06724511930585683
+diagnose_and_repair_equipment,Maintain clean environments,27,24,13.5,4.231851851851852,19,0.05856832971800434
+diagnose_and_repair_equipment,Develop products and services,24,17,12.0,3.7721739130434786,10,0.052060737527114966
+diagnose_and_repair_equipment,Test marine equipment,10,7,5.0,4.081,4,0.021691973969631236
+diagnose_and_repair_equipment,Deliver clinical treatment,8,7,4.0,4.21,3,0.01735357917570499
+diagnose_and_repair_equipment,Design control systems,7,7,3.5,3.8714285714285714,7,0.015184381778741865
+diagnose_and_repair_equipment,Build robotic systems,6,2,3.0,3.941666666666667,0,0.013015184381778741
+diagnose_and_repair_equipment,Maintain wind operations,5,3,2.5,4.382,1,0.010845986984815618
+diagnose_and_repair_equipment,Map spatial data,5,4,2.5,3.55,1,0.010845986984815618
+diagnose_and_repair_equipment,Operate power facilities,5,2,2.5,4.258,1,0.010845986984815618
+diagnose_and_repair_equipment,Improve quality systems,4,4,2.0,3.815,1,0.008676789587852495
+diagnose_and_repair_equipment,Plan emergency response,4,4,2.0,4.1625,0,0.008676789587852495
+diagnose_and_repair_equipment,Produce media content,4,3,2.0,3.6925,2,0.008676789587852495
+diagnose_and_repair_equipment,Demonstrate equipment use,3,3,1.5,3.6366666666666667,3,0.006507592190889371
+diagnose_and_repair_equipment,Develop clean energy tech,3,2,1.5,3.7199999999999998,1,0.006507592190889371
+diagnose_and_repair_equipment,Diagnose patient conditions,3,1,1.5,4.12,0,0.006507592190889371
+diagnose_and_repair_equipment,Manage security operations,3,3,1.5,3.94,0,0.006507592190889371
+diagnose_and_repair_equipment,Run biofuel operations,3,1,1.5,3.7900000000000005,3,0.006507592190889371
+diagnose_and_repair_equipment,Advance sustainability programs,2,2,1.0,2.86,2,0.004338394793926247
+diagnose_and_repair_equipment,Curate collections,2,2,1.0,3.5700000000000003,1,0.004338394793926247
+diagnose_and_repair_equipment,Provide vision care,2,2,1.0,3.71,0,0.004338394793926247
+diagnose_and_repair_equipment,Collect and test samples,1,1,0.5,4.39,0,0.0021691973969631237
+diagnose_and_repair_equipment,Coordinate end-of-life services,1,1,0.5,4.0,0,0.0021691973969631237
+diagnose_and_repair_equipment,Create production patterns,1,1,0.5,3.85,1,0.0021691973969631237
+diagnose_and_repair_equipment,Design renewable systems,1,1,0.5,3.76,1,0.0021691973969631237
+diagnose_and_repair_equipment,Develop nanoscale systems,1,1,0.5,4.1,0,0.0021691973969631237
+diagnose_and_repair_equipment,Digitize visual records,1,1,0.5,,1,0.0021691973969631237
+diagnose_and_repair_equipment,Improve energy efficiency,1,1,0.5,3.54,0,0.0021691973969631237
+diagnose_and_repair_equipment,Manage databases,1,1,0.5,3.91,0,0.0021691973969631237
+diagnose_and_repair_equipment,Negotiate contracts,1,1,0.5,4.42,1,0.0021691973969631237
+diagnose_and_repair_equipment,Procure supplies and assets,1,1,0.5,3.52,0,0.0021691973969631237
+diagnose_and_repair_equipment,Treat musculoskeletal disorders,1,1,0.5,4.69,1,0.0021691973969631237
+diagnose_or_assess_needs,Evaluate treatment progress,45,35,22.5,4.565384615384616,40,0.15517241379310345
+diagnose_or_assess_needs,Diagnose patient conditions,35,27,17.5,4.555625,13,0.1206896551724138
+diagnose_or_assess_needs,Administer selection tests,34,23,17.0,4.1215625,2,0.11724137931034483
+diagnose_or_assess_needs,Develop treatment plans,24,18,12.0,4.291666666666667,20,0.08275862068965517
+diagnose_or_assess_needs,Deliver health programs,17,9,8.5,4.464117647058823,16,0.05862068965517241
+diagnose_or_assess_needs,Treat musculoskeletal disorders,13,11,6.5,4.5227272727272725,8,0.04482758620689655
+diagnose_or_assess_needs,Coach performance,11,9,5.5,4.2736363636363635,8,0.03793103448275862
+diagnose_or_assess_needs,Prescribe medications,10,7,5.0,4.517,8,0.034482758620689655
+diagnose_or_assess_needs,Support special needs,10,8,5.0,4.3759999999999994,2,0.034482758620689655
+diagnose_or_assess_needs,Consult with stakeholders,9,9,4.5,4.404444444444445,6,0.03103448275862069
+diagnose_or_assess_needs,Analyze market trends,8,6,4.0,4.20625,1,0.027586206896551724
+diagnose_or_assess_needs,Deliver clinical treatment,8,6,4.0,4.73625,1,0.027586206896551724
+diagnose_or_assess_needs,Provide vision care,8,5,4.0,4.5875,0,0.027586206896551724
+diagnose_or_assess_needs,Develop products and services,7,6,3.5,4.0616666666666665,3,0.02413793103448276
+diagnose_or_assess_needs,Document clinical data,7,7,3.5,4.644285714285714,0,0.02413793103448276
+diagnose_or_assess_needs,Provide counseling support,5,4,2.5,4.57,2,0.017241379310344827
+diagnose_or_assess_needs,Collect and test samples,3,3,1.5,4.416666666666667,0,0.010344827586206896
+diagnose_or_assess_needs,Investigate theft and fraud,3,2,1.5,3.9433333333333334,1,0.010344827586206896
+diagnose_or_assess_needs,Process insurance claims,3,3,1.5,4.24,0,0.010344827586206896
+diagnose_or_assess_needs,Produce media content,3,2,1.5,4.236666666666667,0,0.010344827586206896
+diagnose_or_assess_needs,Test equipment performance,3,3,1.5,3.953333333333333,1,0.010344827586206896
+diagnose_or_assess_needs,Coordinate technical operations,2,2,1.0,3.8049999999999997,0,0.006896551724137931
+diagnose_or_assess_needs,Deliver therapeutic treatment,2,1,1.0,4.3149999999999995,0,0.006896551724137931
+diagnose_or_assess_needs,Direct performance routines,2,1,1.0,3.745,0,0.006896551724137931
+diagnose_or_assess_needs,Maintain equipment,2,2,1.0,4.065,2,0.006896551724137931
+diagnose_or_assess_needs,Teach courses,2,2,1.0,4.15,2,0.006896551724137931
+diagnose_or_assess_needs,Train staff,2,2,1.0,3.7649999999999997,0,0.006896551724137931
+diagnose_or_assess_needs,Advance sustainability programs,1,1,0.5,3.87,0,0.0034482758620689655
+diagnose_or_assess_needs,Coordinate end-of-life services,1,1,0.5,3.64,0,0.0034482758620689655
+diagnose_or_assess_needs,Coordinate recruitment,1,1,0.5,3.5,0,0.0034482758620689655
+diagnose_or_assess_needs,Curate collections,1,1,0.5,3.95,1,0.0034482758620689655
+diagnose_or_assess_needs,Direct personnel functions,1,1,0.5,4.0,0,0.0034482758620689655
+diagnose_or_assess_needs,Ensure regulatory compliance,1,1,0.5,3.63,1,0.0034482758620689655
+diagnose_or_assess_needs,Manage databases,1,1,0.5,3.84,0,0.0034482758620689655
+diagnose_or_assess_needs,Perform medical procedures,1,1,0.5,4.83,1,0.0034482758620689655
+diagnose_or_assess_needs,Provide emergency care,1,1,0.5,3.95,0,0.0034482758620689655
+diagnose_or_assess_needs,Provide nutrition services,1,1,0.5,4.55,1,0.0034482758620689655
+diagnose_or_assess_needs,Provide personal grooming,1,1,0.5,4.45,0,0.0034482758620689655
+diagnose_or_assess_needs,Run biofuel operations,1,1,0.5,4.26,1,0.0034482758620689655
+evaluate_compliance,Ensure regulatory compliance,59,40,29.5,3.950384615384616,20,0.14114832535885166
+evaluate_compliance,Monitor operational compliance,42,36,21.0,4.085384615384616,28,0.10047846889952153
+evaluate_compliance,Evaluate student work,34,34,17.0,4.455294117647059,0,0.08133971291866028
+evaluate_compliance,Advance sustainability programs,30,24,15.0,3.689,2,0.07177033492822966
+evaluate_compliance,Enforce behavior rules,18,18,9.0,4.204444444444444,0,0.0430622009569378
+evaluate_compliance,Manage hazardous disposal,17,14,8.5,3.66125,9,0.04066985645933014
+evaluate_compliance,Administer assessments,13,13,6.5,4.176153846153846,0,0.03110047846889952
+evaluate_compliance,Analyze market trends,13,11,6.5,4.086153846153846,7,0.03110047846889952
+evaluate_compliance,Conduct hearings and investigations,13,6,6.5,4.401538461538461,1,0.03110047846889952
+evaluate_compliance,Manage security operations,11,8,5.5,3.8328571428571427,1,0.02631578947368421
+evaluate_compliance,Plan emergency response,11,7,5.5,4.109090909090909,1,0.02631578947368421
+evaluate_compliance,Administer selection tests,10,10,5.0,4.11,0,0.023923444976076555
+evaluate_compliance,Edit and publish content,10,10,5.0,3.2659999999999996,9,0.023923444976076555
+evaluate_compliance,Develop products and services,9,9,4.5,3.8699999999999997,8,0.0215311004784689
+evaluate_compliance,Serve on governing bodies,9,9,4.5,3.3744444444444444,0,0.0215311004784689
+evaluate_compliance,Test marine equipment,9,7,4.5,4.1433333333333335,6,0.0215311004784689
+evaluate_compliance,Improve quality systems,8,8,4.0,3.7,6,0.019138755980861243
+evaluate_compliance,Resolve customer complaints,8,6,4.0,3.846,8,0.019138755980861243
+evaluate_compliance,Negotiate contracts,7,7,3.5,3.5500000000000003,4,0.01674641148325359
+evaluate_compliance,Maintain clean environments,6,6,3.0,4.532,5,0.014354066985645933
+evaluate_compliance,Plan transportation systems,6,4,3.0,3.6833333333333336,1,0.014354066985645933
+evaluate_compliance,Collect and test samples,5,5,2.5,4.43,0,0.011961722488038277
+evaluate_compliance,Investigate theft and fraud,5,4,2.5,3.804,2,0.011961722488038277
+evaluate_compliance,Prepare performance reports,5,5,2.5,3.9880000000000004,4,0.011961722488038277
+evaluate_compliance,Run biofuel operations,5,5,2.5,4.196,3,0.011961722488038277
+evaluate_compliance,Design control systems,4,4,2.0,3.64,4,0.009569377990430622
+evaluate_compliance,Direct personnel functions,4,4,2.0,3.7925,2,0.009569377990430622
+evaluate_compliance,Stay informed,4,3,2.0,3.8800000000000003,0,0.009569377990430622
+evaluate_compliance,Coordinate academic programs,3,3,1.5,4.216666666666666,3,0.007177033492822967
+evaluate_compliance,Document clinical data,3,3,1.5,4.97,1,0.007177033492822967
+evaluate_compliance,Evaluate treatment progress,3,3,1.5,4.08,2,0.007177033492822967
+evaluate_compliance,Process insurance claims,3,3,1.5,3.97,1,0.007177033492822967
+evaluate_compliance,Test equipment performance,3,3,1.5,4.295,2,0.007177033492822967
+evaluate_compliance,Analyze data and risk,2,1,1.0,4.385,0,0.004784688995215311
+evaluate_compliance,Coordinate end-of-life services,2,2,1.0,4.6899999999999995,0,0.004784688995215311
+evaluate_compliance,Maintain equipment,2,2,1.0,3.8549999999999995,2,0.004784688995215311
+evaluate_compliance,Optimize material flow,2,2,1.0,3.84,0,0.004784688995215311
+evaluate_compliance,Produce media content,2,2,1.0,4.1899999999999995,0,0.004784688995215311
+evaluate_compliance,Appraise property value,1,1,0.5,4.18,0,0.0023923444976076554
+evaluate_compliance,Coordinate technical operations,1,1,0.5,4.87,0,0.0023923444976076554
+evaluate_compliance,Create technical drawings,1,1,0.5,4.48,1,0.0023923444976076554
+evaluate_compliance,Create visual designs,1,1,0.5,3.94,1,0.0023923444976076554
+evaluate_compliance,Demonstrate equipment use,1,1,0.5,4.7,0,0.0023923444976076554
+evaluate_compliance,Diagnose patient conditions,1,1,0.5,4.85,1,0.0023923444976076554
+evaluate_compliance,Direct performance routines,1,1,0.5,4.15,0,0.0023923444976076554
+evaluate_compliance,Improve energy efficiency,1,1,0.5,3.8,0,0.0023923444976076554
+evaluate_compliance,Maintain wind operations,1,1,0.5,3.2,0,0.0023923444976076554
+evaluate_compliance,Operate power facilities,1,1,0.5,4.13,0,0.0023923444976076554
+evaluate_compliance,Organize fundraising campaigns,1,1,0.5,3.37,0,0.0023923444976076554
+evaluate_compliance,Plan curricula,1,1,0.5,4.08,0,0.0023923444976076554
+evaluate_compliance,Plan promotional campaigns,1,1,0.5,,0,0.0023923444976076554
+evaluate_compliance,Prepare course materials,1,1,0.5,4.0,0,0.0023923444976076554
+evaluate_compliance,Procure supplies and assets,1,1,0.5,3.3,0,0.0023923444976076554
+evaluate_compliance,Pursue professional learning,1,1,0.5,4.31,0,0.0023923444976076554
+evaluate_compliance,Support special needs,1,1,0.5,4.15,0,0.0023923444976076554
+evaluate_compliance,Teach courses,1,1,0.5,4.36,1,0.0023923444976076554
+extract_or_verify_information_from_documents,Create technical drawings,22,20,11.0,4.136,1,0.09282700421940929
+extract_or_verify_information_from_documents,Analyze market trends,19,16,9.5,3.936111111111112,5,0.08016877637130802
+extract_or_verify_information_from_documents,Process insurance claims,15,11,7.5,4.133571428571429,7,0.06329113924050633
+extract_or_verify_information_from_documents,Curate collections,14,11,7.0,3.8921428571428573,13,0.05907172995780591
+extract_or_verify_information_from_documents,Diagnose patient conditions,14,14,7.0,4.653636363636363,3,0.05907172995780591
+extract_or_verify_information_from_documents,Document clinical data,13,12,6.5,4.58,1,0.05485232067510549
+extract_or_verify_information_from_documents,Map spatial data,12,10,6.0,3.9054545454545457,2,0.05063291139240506
+extract_or_verify_information_from_documents,Conduct hearings and investigations,10,7,5.0,4.042,0,0.04219409282700422
+extract_or_verify_information_from_documents,Stay informed,10,10,5.0,3.9322222222222223,0,0.04219409282700422
+extract_or_verify_information_from_documents,Compile reference materials,9,9,4.5,3.158888888888889,0,0.0379746835443038
+extract_or_verify_information_from_documents,Produce media content,8,7,4.0,4.26875,3,0.03375527426160337
+extract_or_verify_information_from_documents,Ensure regulatory compliance,7,7,3.5,3.918333333333333,3,0.029535864978902954
+extract_or_verify_information_from_documents,Edit and publish content,6,5,3.0,3.5083333333333333,4,0.02531645569620253
+extract_or_verify_information_from_documents,Manage databases,6,6,3.0,3.418333333333333,5,0.02531645569620253
+extract_or_verify_information_from_documents,Test equipment performance,6,6,3.0,3.875,5,0.02531645569620253
+extract_or_verify_information_from_documents,Advance sustainability programs,5,4,2.5,3.978,1,0.02109704641350211
+extract_or_verify_information_from_documents,Investigate theft and fraud,5,2,2.5,4.4350000000000005,0,0.02109704641350211
+extract_or_verify_information_from_documents,Appraise property value,4,1,2.0,4.140000000000001,0,0.016877637130801686
+extract_or_verify_information_from_documents,Direct performance routines,4,2,2.0,4.46,0,0.016877637130801686
+extract_or_verify_information_from_documents,Optimize material flow,4,4,2.0,3.705,0,0.016877637130801686
+extract_or_verify_information_from_documents,Prepare performance reports,4,3,2.0,4.2725,3,0.016877637130801686
+extract_or_verify_information_from_documents,Analyze data and risk,3,3,1.5,4.525,0,0.012658227848101266
+extract_or_verify_information_from_documents,Maintain case records,3,3,1.5,4.0,3,0.012658227848101266
+extract_or_verify_information_from_documents,Design control systems,2,2,1.0,3.855,2,0.008438818565400843
+extract_or_verify_information_from_documents,Direct personnel functions,2,1,1.0,4.02,2,0.008438818565400843
+extract_or_verify_information_from_documents,Maintain wind operations,2,2,1.0,3.8499999999999996,1,0.008438818565400843
+extract_or_verify_information_from_documents,Organize fundraising campaigns,2,2,1.0,3.8099999999999996,0,0.008438818565400843
+extract_or_verify_information_from_documents,Plan emergency response,2,1,1.0,3.83,0,0.008438818565400843
+extract_or_verify_information_from_documents,Plan promotional campaigns,2,2,1.0,3.84,0,0.008438818565400843
+extract_or_verify_information_from_documents,Plan transportation systems,2,1,1.0,3.74,2,0.008438818565400843
+extract_or_verify_information_from_documents,Resolve customer complaints,2,2,1.0,3.875,2,0.008438818565400843
+extract_or_verify_information_from_documents,Test marine equipment,2,2,1.0,3.9000000000000004,2,0.008438818565400843
+extract_or_verify_information_from_documents,Collect and test samples,1,1,0.5,4.36,0,0.004219409282700422
+extract_or_verify_information_from_documents,Coordinate technical operations,1,1,0.5,4.57,0,0.004219409282700422
+extract_or_verify_information_from_documents,Create visual designs,1,1,0.5,4.3,0,0.004219409282700422
+extract_or_verify_information_from_documents,Deliver health programs,1,1,0.5,4.21,1,0.004219409282700422
+extract_or_verify_information_from_documents,Deliver therapeutic treatment,1,1,0.5,3.56,0,0.004219409282700422
+extract_or_verify_information_from_documents,Develop products and services,1,1,0.5,4.7,1,0.004219409282700422
+extract_or_verify_information_from_documents,Evaluate treatment progress,1,1,0.5,4.49,1,0.004219409282700422
+extract_or_verify_information_from_documents,Improve energy efficiency,1,1,0.5,3.71,0,0.004219409282700422
+extract_or_verify_information_from_documents,Improve quality systems,1,1,0.5,4.14,1,0.004219409282700422
+extract_or_verify_information_from_documents,Maintain operational records,1,1,0.5,4.6,0,0.004219409282700422
+extract_or_verify_information_from_documents,Prescribe medications,1,1,0.5,4.86,1,0.004219409282700422
+extract_or_verify_information_from_documents,Provide counseling support,1,1,0.5,4.46,0,0.004219409282700422
+extract_or_verify_information_from_documents,Provide nutrition services,1,1,0.5,4.45,1,0.004219409282700422
+extract_or_verify_information_from_documents,Provide personal grooming,1,1,0.5,4.41,1,0.004219409282700422
+extract_or_verify_information_from_documents,Provide vision care,1,1,0.5,4.62,0,0.004219409282700422
+extract_or_verify_information_from_documents,Run biofuel operations,1,1,0.5,4.25,1,0.004219409282700422
+gather_field_evidence,Collect and test samples,32,28,16.0,3.882903225806452,1,0.13733905579399142
+gather_field_evidence,Map spatial data,21,15,10.5,3.8875,1,0.09012875536480687
+gather_field_evidence,Advance sustainability programs,20,18,10.0,3.552777777777778,11,0.08583690987124463
+gather_field_evidence,Preserve forensic evidence,18,8,9.0,4.355333333333333,0,0.07725321888412018
+gather_field_evidence,Investigate theft and fraud,14,10,7.0,4.14,2,0.060085836909871244
+gather_field_evidence,Prepare performance reports,10,9,5.0,4.0409999999999995,10,0.04291845493562232
+gather_field_evidence,Curate collections,8,8,4.0,3.775714285714286,7,0.034334763948497854
+gather_field_evidence,Maintain case records,8,7,4.0,3.98125,8,0.034334763948497854
+gather_field_evidence,Analyze market trends,7,7,3.5,4.1657142857142855,1,0.030042918454935622
+gather_field_evidence,Conduct hearings and investigations,6,6,3.0,4.246666666666667,0,0.02575107296137339
+gather_field_evidence,Develop products and services,5,5,2.5,3.9924999999999997,5,0.02145922746781116
+gather_field_evidence,Diagnose patient conditions,5,4,2.5,4.176,4,0.02145922746781116
+gather_field_evidence,Process insurance claims,5,4,2.5,4.014,2,0.02145922746781116
+gather_field_evidence,Produce media content,5,4,2.5,3.492,2,0.02145922746781116
+gather_field_evidence,Analyze data and risk,4,3,2.0,4.19,0,0.017167381974248927
+gather_field_evidence,Stay informed,4,3,2.0,3.62,0,0.017167381974248927
+gather_field_evidence,Coordinate end-of-life services,3,2,1.5,4.783333333333333,0,0.012875536480686695
+gather_field_evidence,Design renewable systems,3,3,1.5,4.5,0,0.012875536480686695
+gather_field_evidence,Document clinical data,3,3,1.5,4.3999999999999995,0,0.012875536480686695
+gather_field_evidence,Manage hazardous disposal,3,3,1.5,3.983333333333333,2,0.012875536480686695
+gather_field_evidence,Manage security operations,3,2,1.5,4.58,1,0.012875536480686695
+gather_field_evidence,Plan emergency response,3,3,1.5,4.245,0,0.012875536480686695
+gather_field_evidence,Plan promotional campaigns,3,3,1.5,3.7100000000000004,1,0.012875536480686695
+gather_field_evidence,Administer selection tests,2,2,1.0,3.6950000000000003,0,0.008583690987124463
+gather_field_evidence,Create technical drawings,2,2,1.0,3.62,2,0.008583690987124463
+gather_field_evidence,Deliver clinical treatment,2,2,1.0,4.25,0,0.008583690987124463
+gather_field_evidence,Develop treatment plans,2,2,1.0,3.98,2,0.008583690987124463
+gather_field_evidence,Evaluate treatment progress,2,2,1.0,4.84,2,0.008583690987124463
+gather_field_evidence,Maintain equipment,2,2,1.0,3.925,2,0.008583690987124463
+gather_field_evidence,Monitor operational compliance,2,2,1.0,3.9,2,0.008583690987124463
+gather_field_evidence,Negotiate contracts,2,2,1.0,3.995,2,0.008583690987124463
+gather_field_evidence,Plan transportation systems,2,2,1.0,4.05,1,0.008583690987124463
+gather_field_evidence,Provide vision care,2,2,1.0,3.995,0,0.008583690987124463
+gather_field_evidence,Run biofuel operations,2,2,1.0,3.66,1,0.008583690987124463
+gather_field_evidence,Test marine equipment,2,2,1.0,3.96,2,0.008583690987124463
+gather_field_evidence,Appraise property value,1,1,0.5,3.32,0,0.004291845493562232
+gather_field_evidence,Conduct research,1,1,0.5,4.35,0,0.004291845493562232
+gather_field_evidence,Create visual designs,1,1,0.5,3.67,1,0.004291845493562232
+gather_field_evidence,Direct personnel functions,1,1,0.5,3.64,0,0.004291845493562232
+gather_field_evidence,Ensure regulatory compliance,1,1,0.5,4.35,1,0.004291845493562232
+gather_field_evidence,Improve energy efficiency,1,1,0.5,3.9,0,0.004291845493562232
+gather_field_evidence,Improve quality systems,1,1,0.5,3.58,0,0.004291845493562232
+gather_field_evidence,Maintain wind operations,1,1,0.5,3.43,1,0.004291845493562232
+gather_field_evidence,Plan curricula,1,1,0.5,,1,0.004291845493562232
+gather_field_evidence,Provide nutrition services,1,1,0.5,3.84,1,0.004291845493562232
+gather_field_evidence,Pursue professional learning,1,1,0.5,3.68,0,0.004291845493562232
+gather_field_evidence,Resolve customer complaints,1,1,0.5,3.81,1,0.004291845493562232
+gather_field_evidence,Supervise subordinate staff,1,1,0.5,2.95,1,0.004291845493562232
+gather_field_evidence,Supervise technical staff,1,1,0.5,3.75,0,0.004291845493562232
+gather_field_evidence,Support special needs,1,1,0.5,4.81,0,0.004291845493562232
+gather_field_evidence,Train staff,1,1,0.5,4.43,1,0.004291845493562232
+investigate_to_assess_conditions,Advance sustainability programs,29,22,14.5,3.4825925925925927,13,0.08868501529051988
+investigate_to_assess_conditions,Test equipment performance,26,24,13.0,4.0764,17,0.07951070336391437
+investigate_to_assess_conditions,Ensure regulatory compliance,21,20,10.5,4.176,1,0.06422018348623854
+investigate_to_assess_conditions,Monitor operational compliance,20,18,10.0,3.8865000000000003,18,0.06116207951070336
+investigate_to_assess_conditions,Test marine equipment,20,13,10.0,4.077647058823529,17,0.06116207951070336
+investigate_to_assess_conditions,Collect and test samples,19,15,9.5,3.9300000000000006,0,0.0581039755351682
+investigate_to_assess_conditions,Maintain equipment,18,15,9.0,3.9323529411764704,18,0.05504587155963303
+investigate_to_assess_conditions,Investigate theft and fraud,16,10,8.0,4.204375,5,0.04892966360856269
+investigate_to_assess_conditions,Plan emergency response,12,7,6.0,4.026363636363636,2,0.03669724770642202
+investigate_to_assess_conditions,Develop products and services,10,9,5.0,3.905,8,0.03058103975535168
+investigate_to_assess_conditions,Analyze market trends,9,7,4.5,3.87875,2,0.027522935779816515
+investigate_to_assess_conditions,Improve quality systems,9,8,4.5,3.74625,6,0.027522935779816515
+investigate_to_assess_conditions,Manage security operations,8,5,4.0,4.186,1,0.024464831804281346
+investigate_to_assess_conditions,Resolve customer complaints,8,7,4.0,4.16,3,0.024464831804281346
+investigate_to_assess_conditions,Manage hazardous disposal,7,7,3.5,3.682857142857143,6,0.021406727828746176
+investigate_to_assess_conditions,Map spatial data,7,7,3.5,3.688,0,0.021406727828746176
+investigate_to_assess_conditions,Produce media content,7,4,3.5,4.373333333333333,1,0.021406727828746176
+investigate_to_assess_conditions,Design control systems,6,6,3.0,3.6133333333333333,6,0.01834862385321101
+investigate_to_assess_conditions,Preserve forensic evidence,6,1,3.0,3.8816666666666664,0,0.01834862385321101
+investigate_to_assess_conditions,Coordinate end-of-life services,5,4,2.5,4.01,0,0.01529051987767584
+investigate_to_assess_conditions,Conduct hearings and investigations,4,4,2.0,3.995,1,0.012232415902140673
+investigate_to_assess_conditions,Design renewable systems,4,3,2.0,4.125,0,0.012232415902140673
+investigate_to_assess_conditions,Diagnose patient conditions,4,4,2.0,4.53,2,0.012232415902140673
+investigate_to_assess_conditions,Operate power facilities,4,3,2.0,4.085,1,0.012232415902140673
+investigate_to_assess_conditions,Plan transportation systems,4,3,2.0,4.0925,2,0.012232415902140673
+investigate_to_assess_conditions,Repair system components,4,4,2.0,4.413333333333333,3,0.012232415902140673
+investigate_to_assess_conditions,Appraise property value,3,2,1.5,3.543333333333333,0,0.009174311926605505
+investigate_to_assess_conditions,Fabricate components,3,1,1.5,4.483333333333333,3,0.009174311926605505
+investigate_to_assess_conditions,Maintain clean environments,3,3,1.5,4.58,0,0.009174311926605505
+investigate_to_assess_conditions,Negotiate contracts,3,2,1.5,3.3233333333333337,3,0.009174311926605505
+investigate_to_assess_conditions,Run biofuel operations,3,3,1.5,3.6966666666666668,2,0.009174311926605505
+investigate_to_assess_conditions,Create technical drawings,2,2,1.0,3.925,1,0.0061162079510703364
+investigate_to_assess_conditions,Curate collections,2,2,1.0,3.69,0,0.0061162079510703364
+investigate_to_assess_conditions,Deliver clinical treatment,2,1,1.0,4.795,0,0.0061162079510703364
+investigate_to_assess_conditions,Digitize visual records,2,1,1.0,4.1,0,0.0061162079510703364
+investigate_to_assess_conditions,Improve energy efficiency,2,1,1.0,4.27,0,0.0061162079510703364
+investigate_to_assess_conditions,Process insurance claims,2,2,1.0,4.265,0,0.0061162079510703364
+investigate_to_assess_conditions,Build robotic systems,1,1,0.5,3.68,0,0.0030581039755351682
+investigate_to_assess_conditions,Coordinate technical operations,1,1,0.5,4.73,0,0.0030581039755351682
+investigate_to_assess_conditions,Create production patterns,1,1,0.5,4.3,0,0.0030581039755351682
+investigate_to_assess_conditions,Deliver health programs,1,1,0.5,4.19,1,0.0030581039755351682
+investigate_to_assess_conditions,Develop clean energy tech,1,1,0.5,3.35,0,0.0030581039755351682
+investigate_to_assess_conditions,Evaluate treatment progress,1,1,0.5,4.22,1,0.0030581039755351682
+investigate_to_assess_conditions,Maintain wind operations,1,1,0.5,3.21,1,0.0030581039755351682
+investigate_to_assess_conditions,Perform medical procedures,1,1,0.5,4.55,1,0.0030581039755351682
+investigate_to_assess_conditions,Plan curricula,1,1,0.5,4.41,0,0.0030581039755351682
+investigate_to_assess_conditions,Prepare performance reports,1,1,0.5,4.3,1,0.0030581039755351682
+investigate_to_assess_conditions,Prescribe medications,1,1,0.5,4.38,1,0.0030581039755351682
+investigate_to_assess_conditions,Serve on governing bodies,1,1,0.5,,0,0.0030581039755351682
+investigate_to_assess_conditions,Treat musculoskeletal disorders,1,1,0.5,4.9,1,0.0030581039755351682
+manage_budgets_and_resources,Procure supplies and assets,111,110,55.5,3.6823148148148146,41,0.3867595818815331
+manage_budgets_and_resources,Manage budgets,51,49,25.5,3.8551063829787235,7,0.17770034843205576
+manage_budgets_and_resources,Estimate project costs,23,21,11.5,3.644285714285714,3,0.08013937282229965
+manage_budgets_and_resources,Support operations,10,10,5.0,3.624,1,0.03484320557491289
+manage_budgets_and_resources,Advance sustainability programs,9,7,4.5,3.657777777777778,1,0.0313588850174216
+manage_budgets_and_resources,Negotiate contracts,7,6,3.5,3.9014285714285712,6,0.024390243902439025
+manage_budgets_and_resources,Optimize material flow,7,6,3.5,3.662857142857143,3,0.024390243902439025
+manage_budgets_and_resources,Run biofuel operations,6,3,3.0,3.7866666666666666,1,0.020905923344947737
+manage_budgets_and_resources,Curate collections,4,4,2.0,3.8150000000000004,3,0.013937282229965157
+manage_budgets_and_resources,Direct organizational strategy,4,4,2.0,4.1925,1,0.013937282229965157
+manage_budgets_and_resources,Produce media content,4,3,2.0,3.2275,3,0.013937282229965157
+manage_budgets_and_resources,Direct personnel functions,3,3,1.5,3.85,1,0.010452961672473868
+manage_budgets_and_resources,Maintain clean environments,3,3,1.5,3.7899999999999996,2,0.010452961672473868
+manage_budgets_and_resources,Maintain equipment,3,3,1.5,3.55,3,0.010452961672473868
+manage_budgets_and_resources,Organize fundraising campaigns,3,3,1.5,3.86,0,0.010452961672473868
+manage_budgets_and_resources,Plan emergency response,3,3,1.5,3.8333333333333335,0,0.010452961672473868
+manage_budgets_and_resources,Plan promotional campaigns,3,3,1.5,3.17,2,0.010452961672473868
+manage_budgets_and_resources,Analyze market trends,2,2,1.0,4.615,0,0.006968641114982578
+manage_budgets_and_resources,Coordinate end-of-life services,2,1,1.0,3.65,0,0.006968641114982578
+manage_budgets_and_resources,Design renewable systems,2,1,1.0,3.67,0,0.006968641114982578
+manage_budgets_and_resources,Develop products and services,2,2,1.0,3.84,2,0.006968641114982578
+manage_budgets_and_resources,Manage hazardous disposal,2,2,1.0,3.4000000000000004,0,0.006968641114982578
+manage_budgets_and_resources,Provide vision care,2,2,1.0,4.04,0,0.006968641114982578
+manage_budgets_and_resources,Supervise subordinate staff,2,1,1.0,3.9650000000000003,2,0.006968641114982578
+manage_budgets_and_resources,Coach performance,1,1,0.5,3.45,1,0.003484320557491289
+manage_budgets_and_resources,Create technical drawings,1,1,0.5,3.88,1,0.003484320557491289
+manage_budgets_and_resources,Create visual designs,1,1,0.5,3.62,1,0.003484320557491289
+manage_budgets_and_resources,Design control systems,1,1,0.5,,1,0.003484320557491289
+manage_budgets_and_resources,Ensure regulatory compliance,1,1,0.5,4.29,1,0.003484320557491289
+manage_budgets_and_resources,Fabricate components,1,1,0.5,4.24,1,0.003484320557491289
+manage_budgets_and_resources,Install wiring and fibers,1,1,0.5,3.86,0,0.003484320557491289
+manage_budgets_and_resources,Maintain wind operations,1,1,0.5,3.87,0,0.003484320557491289
+manage_budgets_and_resources,Manage administrative duties,1,1,0.5,3.53,0,0.003484320557491289
+manage_budgets_and_resources,Manage security operations,1,1,0.5,3.87,0,0.003484320557491289
+manage_budgets_and_resources,Operate power facilities,1,1,0.5,3.67,0,0.003484320557491289
+manage_budgets_and_resources,Perform medical procedures,1,1,0.5,3.5,0,0.003484320557491289
+manage_budgets_and_resources,Plan curricula,1,1,0.5,3.14,1,0.003484320557491289
+manage_budgets_and_resources,Prescribe medications,1,1,0.5,4.43,1,0.003484320557491289
+manage_budgets_and_resources,Repair system components,1,1,0.5,3.73,1,0.003484320557491289
+manage_budgets_and_resources,Resolve customer complaints,1,1,0.5,2.36,1,0.003484320557491289
+manage_budgets_and_resources,Serve on governing bodies,1,1,0.5,3.48,0,0.003484320557491289
+manage_budgets_and_resources,Teach courses,1,1,0.5,,1,0.003484320557491289
+manage_budgets_and_resources,Test marine equipment,1,1,0.5,3.5,0,0.003484320557491289
+monitor_equipment_and_environments,Evaluate treatment progress,25,24,12.5,4.572916666666667,10,0.08064516129032258
+monitor_equipment_and_environments,Test equipment performance,22,21,11.0,4.0615000000000006,16,0.07096774193548387
+monitor_equipment_and_environments,Monitor operational compliance,20,18,10.0,4.078235294117647,15,0.06451612903225806
+monitor_equipment_and_environments,Advance sustainability programs,18,13,9.0,3.7005555555555554,5,0.05806451612903226
+monitor_equipment_and_environments,Analyze market trends,18,16,9.0,4.0280000000000005,5,0.05806451612903226
+monitor_equipment_and_environments,Improve quality systems,17,15,8.5,4.0181249999999995,9,0.054838709677419356
+monitor_equipment_and_environments,Diagnose patient conditions,16,11,8.0,4.6049999999999995,6,0.05161290322580645
+monitor_equipment_and_environments,Develop products and services,14,13,7.0,3.975,11,0.04516129032258064
+monitor_equipment_and_environments,Test marine equipment,14,10,7.0,4.4071428571428575,11,0.04516129032258064
+monitor_equipment_and_environments,Operate power facilities,10,8,5.0,4.25,8,0.03225806451612903
+monitor_equipment_and_environments,Plan emergency response,10,9,5.0,4.328,2,0.03225806451612903
+monitor_equipment_and_environments,Produce media content,9,6,4.5,4.072222222222222,1,0.02903225806451613
+monitor_equipment_and_environments,Investigate theft and fraud,8,5,4.0,4.27,2,0.025806451612903226
+monitor_equipment_and_environments,Optimize material flow,8,5,4.0,3.92875,1,0.025806451612903226
+monitor_equipment_and_environments,Ensure regulatory compliance,7,7,3.5,3.9166666666666665,2,0.02258064516129032
+monitor_equipment_and_environments,Manage security operations,6,4,3.0,4.146666666666667,0,0.01935483870967742
+monitor_equipment_and_environments,Prescribe medications,6,5,3.0,4.6049999999999995,5,0.01935483870967742
+monitor_equipment_and_environments,Conduct hearings and investigations,5,4,2.5,3.808,0,0.016129032258064516
+monitor_equipment_and_environments,Coordinate technical operations,5,2,2.5,4.5920000000000005,0,0.016129032258064516
+monitor_equipment_and_environments,Maintain equipment,5,5,2.5,3.9875,4,0.016129032258064516
+monitor_equipment_and_environments,Manage hazardous disposal,5,5,2.5,3.7659999999999996,3,0.016129032258064516
+monitor_equipment_and_environments,Procure supplies and assets,4,4,2.0,4.15,1,0.012903225806451613
+monitor_equipment_and_environments,Teach courses,4,4,2.0,4.29,4,0.012903225806451613
+monitor_equipment_and_environments,Collect and test samples,3,2,1.5,4.53,0,0.00967741935483871
+monitor_equipment_and_environments,Deliver health programs,3,3,1.5,3.89,2,0.00967741935483871
+monitor_equipment_and_environments,Maintain clean environments,3,2,1.5,4.529999999999999,3,0.00967741935483871
+monitor_equipment_and_environments,Manage budgets,3,3,1.5,3.415,2,0.00967741935483871
+monitor_equipment_and_environments,Negotiate contracts,3,3,1.5,4.03,3,0.00967741935483871
+monitor_equipment_and_environments,Perform medical procedures,3,3,1.5,4.68,1,0.00967741935483871
+monitor_equipment_and_environments,Resolve customer complaints,3,3,1.5,3.9899999999999998,2,0.00967741935483871
+monitor_equipment_and_environments,Coach performance,2,2,1.0,4.484999999999999,0,0.0064516129032258064
+monitor_equipment_and_environments,Create visual designs,2,2,1.0,4.235,2,0.0064516129032258064
+monitor_equipment_and_environments,Demonstrate equipment use,2,2,1.0,4.3,0,0.0064516129032258064
+monitor_equipment_and_environments,Improve energy efficiency,2,1,1.0,4.07,0,0.0064516129032258064
+monitor_equipment_and_environments,Maintain case records,2,2,1.0,4.165,2,0.0064516129032258064
+monitor_equipment_and_environments,Maintain operational records,2,2,1.0,3.835,1,0.0064516129032258064
+monitor_equipment_and_environments,Map spatial data,2,2,1.0,4.16,0,0.0064516129032258064
+monitor_equipment_and_environments,Optimize digital presence,2,2,1.0,3.745,1,0.0064516129032258064
+monitor_equipment_and_environments,Run biofuel operations,2,2,1.0,3.8200000000000003,2,0.0064516129032258064
+monitor_equipment_and_environments,Stay informed,2,2,1.0,4.37,0,0.0064516129032258064
+monitor_equipment_and_environments,Build robotic systems,1,1,0.5,3.83,0,0.0032258064516129032
+monitor_equipment_and_environments,Direct performance routines,1,1,0.5,4.57,0,0.0032258064516129032
+monitor_equipment_and_environments,Direct personnel functions,1,1,0.5,4.29,1,0.0032258064516129032
+monitor_equipment_and_environments,Enforce behavior rules,1,1,0.5,4.67,0,0.0032258064516129032
+monitor_equipment_and_environments,Organize fundraising campaigns,1,1,0.5,3.94,0,0.0032258064516129032
+monitor_equipment_and_environments,Plan curricula,1,1,0.5,3.91,0,0.0032258064516129032
+monitor_equipment_and_environments,Plan transportation systems,1,1,0.5,4.32,0,0.0032258064516129032
+monitor_equipment_and_environments,Prepare performance reports,1,1,0.5,4.42,1,0.0032258064516129032
+monitor_equipment_and_environments,Process insurance claims,1,1,0.5,3.62,0,0.0032258064516129032
+monitor_equipment_and_environments,Provide emergency care,1,1,0.5,3.83,0,0.0032258064516129032
+monitor_equipment_and_environments,Supervise subordinate staff,1,1,0.5,4.33,1,0.0032258064516129032
+monitor_equipment_and_environments,Support operations,1,1,0.5,3.86,1,0.0032258064516129032
+monitor_equipment_and_environments,Support special needs,1,1,0.5,4.36,1,0.0032258064516129032
+negotiate_or_mediate,Negotiate contracts,44,39,22.0,3.7990476190476192,9,0.4536082474226804
+negotiate_or_mediate,Process insurance claims,10,9,5.0,3.847777777777777,9,0.10309278350515463
+negotiate_or_mediate,Resolve customer complaints,10,7,5.0,4.046,10,0.10309278350515463
+negotiate_or_mediate,Advance sustainability programs,8,7,4.0,3.45375,1,0.08247422680412371
+negotiate_or_mediate,Analyze market trends,5,5,2.5,3.9050000000000002,2,0.05154639175257732
+negotiate_or_mediate,Organize fundraising campaigns,4,3,2.0,4.306666666666667,2,0.041237113402061855
+negotiate_or_mediate,Conduct hearings and investigations,3,3,1.5,3.6533333333333338,0,0.030927835051546393
+negotiate_or_mediate,Coordinate end-of-life services,2,2,1.0,4.03,0,0.020618556701030927
+negotiate_or_mediate,Estimate project costs,2,1,1.0,4.07,0,0.020618556701030927
+negotiate_or_mediate,Investigate theft and fraud,2,2,1.0,4.0,0,0.020618556701030927
+negotiate_or_mediate,Plan promotional campaigns,2,2,1.0,4.41,2,0.020618556701030927
+negotiate_or_mediate,Produce media content,2,1,1.0,3.6,1,0.020618556701030927
+negotiate_or_mediate,Develop products and services,1,1,0.5,3.65,0,0.010309278350515464
+negotiate_or_mediate,Edit and publish content,1,1,0.5,3.12,1,0.010309278350515464
+negotiate_or_mediate,Optimize digital presence,1,1,0.5,3.22,0,0.010309278350515464
+operate_equipment_or_systems,Produce media content,63,20,31.5,4.013392857142857,13,0.1349036402569593
+operate_equipment_or_systems,Fabricate components,51,20,25.5,3.9342,14,0.10920770877944326
+operate_equipment_or_systems,Install wiring and fibers,34,16,17.0,4.04125,13,0.0728051391862955
+operate_equipment_or_systems,Test marine equipment,26,12,13.0,4.148333333333333,14,0.055674518201284794
+operate_equipment_or_systems,Perform medical procedures,20,11,10.0,4.511578947368421,9,0.042826552462526764
+operate_equipment_or_systems,Design control systems,18,15,9.0,4.033333333333333,10,0.03854389721627409
+operate_equipment_or_systems,Develop products and services,18,14,9.0,3.821176470588236,3,0.03854389721627409
+operate_equipment_or_systems,Diagnose patient conditions,18,9,9.0,4.657058823529412,3,0.03854389721627409
+operate_equipment_or_systems,Operate power facilities,16,7,8.0,4.3275,9,0.034261241970021415
+operate_equipment_or_systems,Maintain equipment,15,15,7.5,3.9528571428571433,14,0.032119914346895075
+operate_equipment_or_systems,Repair system components,15,12,7.5,3.8666666666666667,15,0.032119914346895075
+operate_equipment_or_systems,Digitize visual records,14,7,7.0,3.995,5,0.029978586723768737
+operate_equipment_or_systems,Coordinate technical operations,13,6,6.5,4.553076923076923,1,0.027837259100642397
+operate_equipment_or_systems,Plan emergency response,13,10,6.5,4.137692307692308,1,0.027837259100642397
+operate_equipment_or_systems,Advance sustainability programs,10,7,5.0,3.612222222222222,0,0.021413276231263382
+operate_equipment_or_systems,Test equipment performance,9,8,4.5,4.015555555555555,7,0.019271948608137045
+operate_equipment_or_systems,Direct performance routines,8,7,4.0,4.19625,6,0.017130620985010708
+operate_equipment_or_systems,Analyze market trends,7,5,3.5,4.421428571428572,2,0.014989293361884369
+operate_equipment_or_systems,Collect and test samples,7,6,3.5,4.208571428571429,0,0.014989293361884369
+operate_equipment_or_systems,Maintain clean environments,7,7,3.5,4.224285714285714,5,0.014989293361884369
+operate_equipment_or_systems,Build robotic systems,6,4,3.0,3.481666666666667,1,0.01284796573875803
+operate_equipment_or_systems,Improve quality systems,6,5,3.0,3.818,3,0.01284796573875803
+operate_equipment_or_systems,Map spatial data,6,5,3.0,3.7019999999999995,2,0.01284796573875803
+operate_equipment_or_systems,Curate collections,5,3,2.5,3.896,2,0.010706638115631691
+operate_equipment_or_systems,Prescribe medications,5,5,2.5,4.578,2,0.010706638115631691
+operate_equipment_or_systems,Maintain wind operations,4,3,2.0,3.735,3,0.008565310492505354
+operate_equipment_or_systems,Provide vision care,4,2,2.0,4.395,0,0.008565310492505354
+operate_equipment_or_systems,Design renewable systems,3,1,1.5,4.286666666666666,0,0.006423982869379015
+operate_equipment_or_systems,Improve energy efficiency,3,2,1.5,3.2266666666666666,0,0.006423982869379015
+operate_equipment_or_systems,Investigate theft and fraud,3,3,1.5,3.78,2,0.006423982869379015
+operate_equipment_or_systems,Manage databases,3,3,1.5,3.7366666666666664,1,0.006423982869379015
+operate_equipment_or_systems,Run biofuel operations,3,2,1.5,4.11,1,0.006423982869379015
+operate_equipment_or_systems,Treat musculoskeletal disorders,3,3,1.5,3.966666666666667,2,0.006423982869379015
+operate_equipment_or_systems,Create production patterns,2,2,1.0,3.64,2,0.004282655246252677
+operate_equipment_or_systems,Create technical drawings,2,2,1.0,4.13,1,0.004282655246252677
+operate_equipment_or_systems,Create visual designs,2,2,1.0,4.58,1,0.004282655246252677
+operate_equipment_or_systems,Develop nanoscale systems,2,1,1.0,3.585,0,0.004282655246252677
+operate_equipment_or_systems,Manage hazardous disposal,2,2,1.0,3.6799999999999997,1,0.004282655246252677
+operate_equipment_or_systems,Manage security operations,2,2,1.0,4.1850000000000005,0,0.004282655246252677
+operate_equipment_or_systems,Plan promotional campaigns,2,2,1.0,3.745,1,0.004282655246252677
+operate_equipment_or_systems,Plan transportation systems,2,2,1.0,3.67,1,0.004282655246252677
+operate_equipment_or_systems,Procure supplies and assets,2,2,1.0,4.17,1,0.004282655246252677
+operate_equipment_or_systems,Supervise subordinate staff,2,2,1.0,4.09,2,0.004282655246252677
+operate_equipment_or_systems,Coordinate end-of-life services,1,1,0.5,4.85,0,0.0021413276231263384
+operate_equipment_or_systems,Deliver therapeutic treatment,1,1,0.5,4.32,0,0.0021413276231263384
+operate_equipment_or_systems,Develop clean energy tech,1,1,0.5,3.68,0,0.0021413276231263384
+operate_equipment_or_systems,Edit and publish content,1,1,0.5,3.42,1,0.0021413276231263384
+operate_equipment_or_systems,Optimize material flow,1,1,0.5,2.57,1,0.0021413276231263384
+operate_equipment_or_systems,Provide emergency care,1,1,0.5,,0,0.0021413276231263384
+operate_equipment_or_systems,Provide nutrition services,1,1,0.5,4.54,0,0.0021413276231263384
+operate_equipment_or_systems,Provide personal grooming,1,1,0.5,4.5,0,0.0021413276231263384
+operate_equipment_or_systems,Support special needs,1,1,0.5,4.21,0,0.0021413276231263384
+operate_equipment_or_systems,Teach courses,1,1,0.5,3.83,1,0.0021413276231263384
+operate_equipment_or_systems,Train staff,1,1,0.5,,0,0.0021413276231263384
+other,Stay informed,26,26,13.0,3.9112500000000003,0,0.1187214611872146
+other,Direct performance routines,13,6,6.5,4.211538461538462,4,0.0593607305936073
+other,Maintain clean environments,11,9,5.5,4.120909090909091,1,0.0502283105022831
+other,Plan emergency response,11,7,5.5,4.037272727272727,0,0.0502283105022831
+other,Pursue professional learning,10,10,5.0,3.922222222222222,0,0.045662100456621
+other,Investigate theft and fraud,9,7,4.5,4.147777777777778,2,0.0410958904109589
+other,Advance sustainability programs,7,6,3.5,3.778333333333333,1,0.0319634703196347
+other,Install wiring and fibers,7,5,3.5,3.704285714285714,1,0.0319634703196347
+other,Collect and test samples,6,2,3.0,4.575,0,0.0273972602739726
+other,Fabricate components,6,3,3.0,3.985,1,0.0273972602739726
+other,Manage hazardous disposal,6,5,3.0,4.006666666666667,0,0.0273972602739726
+other,Conduct hearings and investigations,5,4,2.5,4.061999999999999,0,0.0228310502283105
+other,Create production patterns,5,3,2.5,3.4539999999999997,5,0.0228310502283105
+other,Provide personal grooming,5,2,2.5,3.8659999999999997,0,0.0228310502283105
+other,Organize fundraising campaigns,4,4,2.0,3.54,4,0.0182648401826484
+other,Produce media content,4,4,2.0,3.5625,1,0.0182648401826484
+other,Provide nutrition services,4,2,2.0,4.3,0,0.0182648401826484
+other,Support operations,4,4,2.0,3.046666666666667,4,0.0182648401826484
+other,Support special needs,4,4,2.0,3.41,2,0.0182648401826484
+other,Analyze market trends,3,3,1.5,4.346666666666667,1,0.0136986301369863
+other,Map spatial data,3,2,1.5,3.9699999999999998,1,0.0136986301369863
+other,Prescribe medications,3,1,1.5,4.45,3,0.0136986301369863
+other,Preserve forensic evidence,3,2,1.5,4.593333333333334,0,0.0136986301369863
+other,Serve on governing bodies,3,3,1.5,3.323333333333333,0,0.0136986301369863
+other,Collaborate on research,2,2,1.0,3.4050000000000002,0,0.0091324200913242
+other,Coordinate end-of-life services,2,1,1.0,4.29,0,0.0091324200913242
+other,Create visual designs,2,2,1.0,4.035,2,0.0091324200913242
+other,Curate collections,2,2,1.0,3.69,1,0.0091324200913242
+other,Diagnose patient conditions,2,2,1.0,4.795,2,0.0091324200913242
+other,Document clinical data,2,2,1.0,4.34,0,0.0091324200913242
+other,Maintain equipment,2,2,1.0,4.18,2,0.0091324200913242
+other,Monitor operational compliance,2,2,1.0,4.13,2,0.0091324200913242
+other,Negotiate contracts,2,2,1.0,4.125,1,0.0091324200913242
+other,Optimize material flow,2,2,1.0,3.625,1,0.0091324200913242
+other,Perform medical procedures,2,2,1.0,4.640000000000001,1,0.0091324200913242
+other,Plan promotional campaigns,2,2,1.0,3.78,0,0.0091324200913242
+other,Process insurance claims,2,2,1.0,4.15,2,0.0091324200913242
+other,Repair system components,2,2,1.0,4.09,2,0.0091324200913242
+other,Represent institution,2,1,1.0,3.295,0,0.0091324200913242
+other,Test equipment performance,2,2,1.0,4.3100000000000005,2,0.0091324200913242
+other,Test marine equipment,2,1,1.0,3.8499999999999996,2,0.0091324200913242
+other,Analyze data and risk,1,1,0.5,,0,0.0045662100456621
+other,Build robotic systems,1,1,0.5,3.82,1,0.0045662100456621
+other,Coach performance,1,1,0.5,4.13,1,0.0045662100456621
+other,Compile reference materials,1,1,0.5,4.69,0,0.0045662100456621
+other,Conduct research,1,1,0.5,3.53,0,0.0045662100456621
+other,Coordinate recruitment,1,1,0.5,3.34,0,0.0045662100456621
+other,Create technical drawings,1,1,0.5,3.92,1,0.0045662100456621
+other,Deliver clinical treatment,1,1,0.5,4.67,0,0.0045662100456621
+other,Deliver health programs,1,1,0.5,3.41,0,0.0045662100456621
+other,Design control systems,1,1,0.5,4.06,1,0.0045662100456621
+other,Develop clean energy tech,1,1,0.5,3.44,1,0.0045662100456621
+other,Direct personnel functions,1,1,0.5,4.44,0,0.0045662100456621
+other,Edit and publish content,1,1,0.5,3.22,1,0.0045662100456621
+other,Evaluate treatment progress,1,1,0.5,4.79,0,0.0045662100456621
+other,Improve energy efficiency,1,1,0.5,3.83,0,0.0045662100456621
+other,Improve quality systems,1,1,0.5,4.17,1,0.0045662100456621
+other,Manage databases,1,1,0.5,3.76,1,0.0045662100456621
+other,Manage security operations,1,1,0.5,3.61,0,0.0045662100456621
+other,Optimize digital presence,1,1,0.5,4.58,0,0.0045662100456621
+other,Prepare course materials,1,1,0.5,,1,0.0045662100456621
+other,Prepare performance reports,1,1,0.5,3.71,1,0.0045662100456621
+other,Resolve customer complaints,1,1,0.5,4.2,1,0.0045662100456621
+other,Teach courses,1,1,0.5,4.36,1,0.0045662100456621
+plan_and_coordinate_programs,Direct organizational strategy,79,57,39.5,3.9401351351351352,9,0.1348122866894198
+plan_and_coordinate_programs,Develop products and services,51,41,25.5,3.8144897959183672,32,0.08703071672354949
+plan_and_coordinate_programs,Teach courses,38,31,19.0,3.538648648648649,38,0.06484641638225255
+plan_and_coordinate_programs,Advance sustainability programs,28,20,14.0,3.8144444444444443,3,0.04778156996587031
+plan_and_coordinate_programs,Plan promotional campaigns,28,17,14.0,3.5587999999999997,10,0.04778156996587031
+plan_and_coordinate_programs,Coordinate academic programs,21,20,10.5,3.7475,1,0.03583617747440273
+plan_and_coordinate_programs,Organize fundraising campaigns,21,14,10.5,3.353,9,0.03583617747440273
+plan_and_coordinate_programs,Coordinate technical operations,17,6,8.5,4.158235294117647,1,0.02901023890784983
+plan_and_coordinate_programs,Deliver health programs,17,13,8.5,3.762941176470588,1,0.02901023890784983
+plan_and_coordinate_programs,Coordinate end-of-life services,14,3,7.0,4.239285714285715,0,0.023890784982935155
+plan_and_coordinate_programs,Produce media content,14,12,7.0,3.778461538461538,4,0.023890784982935155
+plan_and_coordinate_programs,Develop treatment plans,13,13,6.5,4.286153846153846,7,0.02218430034129693
+plan_and_coordinate_programs,Curate collections,12,9,6.0,3.5572727272727276,10,0.020477815699658702
+plan_and_coordinate_programs,Optimize material flow,12,11,6.0,3.7583333333333333,4,0.020477815699658702
+plan_and_coordinate_programs,Estimate project costs,11,11,5.5,3.7649999999999997,4,0.01877133105802048
+plan_and_coordinate_programs,Supervise subordinate staff,11,8,5.5,3.8036363636363633,8,0.01877133105802048
+plan_and_coordinate_programs,Plan emergency response,10,10,5.0,4.09375,3,0.017064846416382253
+plan_and_coordinate_programs,Direct personnel functions,9,8,4.5,3.8177777777777777,4,0.015358361774744027
+plan_and_coordinate_programs,Investigate theft and fraud,9,9,4.5,4.1433333333333335,7,0.015358361774744027
+plan_and_coordinate_programs,Coach performance,7,6,3.5,3.9828571428571427,6,0.011945392491467578
+plan_and_coordinate_programs,Edit and publish content,7,6,3.5,3.9585714285714286,6,0.011945392491467578
+plan_and_coordinate_programs,Improve quality systems,7,7,3.5,3.5342857142857143,3,0.011945392491467578
+plan_and_coordinate_programs,Manage budgets,7,5,3.5,3.8833333333333333,2,0.011945392491467578
+plan_and_coordinate_programs,Map spatial data,7,7,3.5,3.6957142857142857,2,0.011945392491467578
+plan_and_coordinate_programs,Negotiate contracts,7,5,3.5,3.874285714285714,5,0.011945392491467578
+plan_and_coordinate_programs,Collect and test samples,6,5,3.0,3.8699999999999997,1,0.010238907849829351
+plan_and_coordinate_programs,Coordinate recruitment,6,6,3.0,3.2816666666666663,0,0.010238907849829351
+plan_and_coordinate_programs,Design control systems,6,6,3.0,3.6466666666666665,6,0.010238907849829351
+plan_and_coordinate_programs,Ensure regulatory compliance,6,6,3.0,4.328333333333333,3,0.010238907849829351
+plan_and_coordinate_programs,Resolve customer complaints,6,6,3.0,3.724,5,0.010238907849829351
+plan_and_coordinate_programs,Analyze market trends,5,5,2.5,4.3025,3,0.008532423208191127
+plan_and_coordinate_programs,Support special needs,5,5,2.5,4.192,1,0.008532423208191127
+plan_and_coordinate_programs,Design renewable systems,4,2,2.0,4.205,0,0.006825938566552901
+plan_and_coordinate_programs,Develop clean energy tech,4,2,2.0,3.515,2,0.006825938566552901
+plan_and_coordinate_programs,Maintain equipment,4,4,2.0,3.58,3,0.006825938566552901
+plan_and_coordinate_programs,Maintain wind operations,4,2,2.0,3.875,0,0.006825938566552901
+plan_and_coordinate_programs,Manage security operations,4,3,2.0,4.045,0,0.006825938566552901
+plan_and_coordinate_programs,Process insurance claims,4,3,2.0,3.9050000000000002,2,0.006825938566552901
+plan_and_coordinate_programs,Conduct hearings and investigations,3,3,1.5,3.526666666666667,0,0.005119453924914676
+plan_and_coordinate_programs,Diagnose patient conditions,3,2,1.5,4.62,3,0.005119453924914676
+plan_and_coordinate_programs,Direct performance routines,3,2,1.5,3.793333333333333,0,0.005119453924914676
+plan_and_coordinate_programs,Manage hazardous disposal,3,3,1.5,3.516666666666667,0,0.005119453924914676
+plan_and_coordinate_programs,Optimize digital presence,3,3,1.5,3.54,1,0.005119453924914676
+plan_and_coordinate_programs,Plan transportation systems,3,3,1.5,3.313333333333334,1,0.005119453924914676
+plan_and_coordinate_programs,Run biofuel operations,3,3,1.5,3.7733333333333334,2,0.005119453924914676
+plan_and_coordinate_programs,Support operations,3,3,1.5,3.8466666666666662,1,0.005119453924914676
+plan_and_coordinate_programs,Train staff,3,2,1.5,3.6833333333333336,0,0.005119453924914676
+plan_and_coordinate_programs,Build robotic systems,2,2,1.0,3.615,2,0.0034129692832764505
+plan_and_coordinate_programs,Create technical drawings,2,2,1.0,4.130000000000001,0,0.0034129692832764505
+plan_and_coordinate_programs,Evaluate treatment progress,2,2,1.0,4.265000000000001,1,0.0034129692832764505
+plan_and_coordinate_programs,Improve energy efficiency,2,1,1.0,3.6500000000000004,0,0.0034129692832764505
+plan_and_coordinate_programs,Manage databases,2,2,1.0,3.74,2,0.0034129692832764505
+plan_and_coordinate_programs,Operate power facilities,2,1,1.0,3.94,0,0.0034129692832764505
+plan_and_coordinate_programs,Perform medical procedures,2,2,1.0,,2,0.0034129692832764505
+plan_and_coordinate_programs,Plan curricula,2,2,1.0,4.279999999999999,0,0.0034129692832764505
+plan_and_coordinate_programs,Procure supplies and assets,2,2,1.0,3.71,0,0.0034129692832764505
+plan_and_coordinate_programs,Provide nutrition services,2,1,1.0,3.8600000000000003,0,0.0034129692832764505
+plan_and_coordinate_programs,Supervise technical staff,2,2,1.0,4.15,0,0.0034129692832764505
+plan_and_coordinate_programs,Test marine equipment,2,2,1.0,3.86,1,0.0034129692832764505
+plan_and_coordinate_programs,Analyze data and risk,1,1,0.5,4.35,0,0.0017064846416382253
+plan_and_coordinate_programs,Collaborate on research,1,1,0.5,4.39,0,0.0017064846416382253
+plan_and_coordinate_programs,Create visual designs,1,1,0.5,4.05,1,0.0017064846416382253
+plan_and_coordinate_programs,Fabricate components,1,1,0.5,4.41,0,0.0017064846416382253
+plan_and_coordinate_programs,Hold office hours,1,1,0.5,3.69,0,0.0017064846416382253
+plan_and_coordinate_programs,Install wiring and fibers,1,1,0.5,3.92,0,0.0017064846416382253
+plan_and_coordinate_programs,Maintain operational records,1,1,0.5,3.96,0,0.0017064846416382253
+plan_and_coordinate_programs,Mentor students,1,1,0.5,3.27,0,0.0017064846416382253
+plan_and_coordinate_programs,Monitor operational compliance,1,1,0.5,4.21,1,0.0017064846416382253
+plan_and_coordinate_programs,Prepare course materials,1,1,0.5,,1,0.0017064846416382253
+plan_and_coordinate_programs,Prepare performance reports,1,1,0.5,,0,0.0017064846416382253
+plan_and_coordinate_programs,Prescribe medications,1,1,0.5,4.64,0,0.0017064846416382253
+plan_and_coordinate_programs,Provide counseling support,1,1,0.5,4.01,1,0.0017064846416382253
+plan_and_coordinate_programs,Test equipment performance,1,1,0.5,,1,0.0017064846416382253
+prepare_official_documents,Pursue funding,52,52,26.0,3.4351923076923074,0,0.1566265060240964
+prepare_official_documents,Ensure regulatory compliance,25,18,12.5,4.179565217391304,11,0.07530120481927711
+prepare_official_documents,Conduct hearings and investigations,22,19,11.0,4.054285714285714,2,0.06626506024096386
+prepare_official_documents,Analyze market trends,21,18,10.5,4.06,10,0.06325301204819277
+prepare_official_documents,Negotiate contracts,17,16,8.5,3.8725,7,0.05120481927710843
+prepare_official_documents,Prepare course materials,15,15,7.5,4.446,0,0.045180722891566265
+prepare_official_documents,Manage databases,11,10,5.5,3.646,10,0.03313253012048193
+prepare_official_documents,Edit and publish content,10,7,5.0,3.681428571428572,5,0.030120481927710843
+prepare_official_documents,Curate collections,8,8,4.0,3.6925,8,0.024096385542168676
+prepare_official_documents,Plan transportation systems,8,8,4.0,3.78,7,0.024096385542168676
+prepare_official_documents,Prescribe medications,8,7,4.0,4.37875,4,0.024096385542168676
+prepare_official_documents,Direct performance routines,7,7,3.5,4.327142857142857,7,0.02108433734939759
+prepare_official_documents,Maintain case records,7,7,3.5,3.565714285714286,5,0.02108433734939759
+prepare_official_documents,Advance sustainability programs,6,6,3.0,3.7733333333333334,4,0.018072289156626505
+prepare_official_documents,Collect and test samples,6,5,3.0,3.905,2,0.018072289156626505
+prepare_official_documents,Process insurance claims,6,6,3.0,3.41,5,0.018072289156626505
+prepare_official_documents,Provide personal grooming,6,6,3.0,3.61,6,0.018072289156626505
+prepare_official_documents,Coordinate end-of-life services,5,4,2.5,4.546,0,0.015060240963855422
+prepare_official_documents,Create technical drawings,5,4,2.5,3.54,2,0.015060240963855422
+prepare_official_documents,Investigate theft and fraud,5,5,2.5,3.8980000000000006,2,0.015060240963855422
+prepare_official_documents,Manage security operations,5,5,2.5,4.005,0,0.015060240963855422
+prepare_official_documents,Resolve customer complaints,5,3,2.5,3.765,5,0.015060240963855422
+prepare_official_documents,Manage hazardous disposal,4,3,2.0,4.2075,1,0.012048192771084338
+prepare_official_documents,Teach courses,4,4,2.0,4.2425,4,0.012048192771084338
+prepare_official_documents,Administer assessments,3,3,1.5,3.9566666666666666,0,0.009036144578313253
+prepare_official_documents,Create visual designs,3,3,1.5,4.246666666666667,1,0.009036144578313253
+prepare_official_documents,Diagnose patient conditions,3,3,1.5,4.656666666666667,3,0.009036144578313253
+prepare_official_documents,Estimate project costs,3,3,1.5,4.0633333333333335,1,0.009036144578313253
+prepare_official_documents,Plan curricula,3,3,1.5,3.915,0,0.009036144578313253
+prepare_official_documents,Plan promotional campaigns,3,3,1.5,3.98,1,0.009036144578313253
+prepare_official_documents,Coordinate technical operations,2,2,1.0,4.02,0,0.006024096385542169
+prepare_official_documents,Develop nanoscale systems,2,2,1.0,3.12,0,0.006024096385542169
+prepare_official_documents,Direct personnel functions,2,2,1.0,3.6399999999999997,1,0.006024096385542169
+prepare_official_documents,Fabricate components,2,2,1.0,3.455,1,0.006024096385542169
+prepare_official_documents,Improve quality systems,2,2,1.0,3.675,1,0.006024096385542169
+prepare_official_documents,Maintain clean environments,2,2,1.0,4.72,2,0.006024096385542169
+prepare_official_documents,Maintain equipment,2,2,1.0,3.865,2,0.006024096385542169
+prepare_official_documents,Maintain operational records,2,2,1.0,3.875,1,0.006024096385542169
+prepare_official_documents,Manage budgets,2,1,1.0,4.045,0,0.006024096385542169
+prepare_official_documents,Monitor operational compliance,2,1,1.0,3.58,2,0.006024096385542169
+prepare_official_documents,Organize fundraising campaigns,2,2,1.0,4.300000000000001,0,0.006024096385542169
+prepare_official_documents,Perform medical procedures,2,2,1.0,4.109999999999999,2,0.006024096385542169
+prepare_official_documents,Prepare performance reports,2,2,1.0,3.72,2,0.006024096385542169
+prepare_official_documents,Provide vision care,2,2,1.0,4.715,1,0.006024096385542169
+prepare_official_documents,Serve on governing bodies,2,2,1.0,4.07,0,0.006024096385542169
+prepare_official_documents,Support special needs,2,2,1.0,4.32,0,0.006024096385542169
+prepare_official_documents,Coach performance,1,1,0.5,3.93,1,0.0030120481927710845
+prepare_official_documents,Deliver health programs,1,1,0.5,4.45,1,0.0030120481927710845
+prepare_official_documents,Design renewable systems,1,1,0.5,4.77,0,0.0030120481927710845
+prepare_official_documents,Develop clean energy tech,1,1,0.5,3.82,1,0.0030120481927710845
+prepare_official_documents,Develop products and services,1,1,0.5,3.53,0,0.0030120481927710845
+prepare_official_documents,Enforce behavior rules,1,1,0.5,4.44,0,0.0030120481927710845
+prepare_official_documents,Improve energy efficiency,1,1,0.5,3.88,0,0.0030120481927710845
+prepare_official_documents,Map spatial data,1,1,0.5,4.63,1,0.0030120481927710845
+prepare_official_documents,Operate power facilities,1,1,0.5,4.65,0,0.0030120481927710845
+prepare_official_documents,Optimize digital presence,1,1,0.5,3.67,0,0.0030120481927710845
+prepare_official_documents,Procure supplies and assets,1,1,0.5,3.45,0,0.0030120481927710845
+prepare_official_documents,Produce media content,1,1,0.5,4.02,0,0.0030120481927710845
+prepare_official_documents,Run biofuel operations,1,1,0.5,3.92,1,0.0030120481927710845
+prepare_official_documents,Treat musculoskeletal disorders,1,1,0.5,4.78,1,0.0030120481927710845
+process_or_verify_transactional_artifacts,Analyze market trends,53,27,26.5,4.149574468085106,17,0.2717948717948718
+process_or_verify_transactional_artifacts,Process insurance claims,26,18,13.0,4.171153846153846,9,0.13333333333333333
+process_or_verify_transactional_artifacts,Negotiate contracts,15,13,7.5,4.1593333333333335,11,0.07692307692307693
+process_or_verify_transactional_artifacts,Administer assessments,14,14,7.0,4.285714285714286,0,0.07179487179487179
+process_or_verify_transactional_artifacts,Prescribe medications,8,7,4.0,4.61375,3,0.041025641025641026
+process_or_verify_transactional_artifacts,Conduct hearings and investigations,6,5,3.0,4.31,1,0.03076923076923077
+process_or_verify_transactional_artifacts,Coordinate recruitment,5,5,2.5,3.59,0,0.02564102564102564
+process_or_verify_transactional_artifacts,Ensure regulatory compliance,5,5,2.5,3.9839999999999995,3,0.02564102564102564
+process_or_verify_transactional_artifacts,Manage hazardous disposal,5,4,2.5,3.6759999999999997,1,0.02564102564102564
+process_or_verify_transactional_artifacts,Procure supplies and assets,5,5,2.5,3.876,0,0.02564102564102564
+process_or_verify_transactional_artifacts,Curate collections,4,2,2.0,3.74,4,0.020512820512820513
+process_or_verify_transactional_artifacts,Optimize material flow,4,4,2.0,3.6075,3,0.020512820512820513
+process_or_verify_transactional_artifacts,Pursue funding,4,4,2.0,3.715,0,0.020512820512820513
+process_or_verify_transactional_artifacts,Support operations,4,4,2.0,4.19,1,0.020512820512820513
+process_or_verify_transactional_artifacts,Advance sustainability programs,3,3,1.5,3.7133333333333334,3,0.015384615384615385
+process_or_verify_transactional_artifacts,Collect and test samples,3,3,1.5,3.8033333333333332,2,0.015384615384615385
+process_or_verify_transactional_artifacts,Direct personnel functions,3,2,1.5,4.066666666666666,1,0.015384615384615385
+process_or_verify_transactional_artifacts,Document clinical data,3,2,1.5,,0,0.015384615384615385
+process_or_verify_transactional_artifacts,Administer selection tests,2,2,1.0,4.34,0,0.010256410256410256
+process_or_verify_transactional_artifacts,Develop products and services,2,2,1.0,4.275,2,0.010256410256410256
+process_or_verify_transactional_artifacts,Diagnose patient conditions,2,2,1.0,4.595000000000001,1,0.010256410256410256
+process_or_verify_transactional_artifacts,Investigate theft and fraud,2,2,1.0,4.4350000000000005,0,0.010256410256410256
+process_or_verify_transactional_artifacts,Maintain equipment,2,2,1.0,3.86,1,0.010256410256410256
+process_or_verify_transactional_artifacts,Plan transportation systems,2,2,1.0,3.6550000000000002,2,0.010256410256410256
+process_or_verify_transactional_artifacts,Coordinate technical operations,1,1,0.5,4.56,0,0.005128205128205128
+process_or_verify_transactional_artifacts,Create visual designs,1,1,0.5,4.12,1,0.005128205128205128
+process_or_verify_transactional_artifacts,Deliver health programs,1,1,0.5,4.32,1,0.005128205128205128
+process_or_verify_transactional_artifacts,Develop clean energy tech,1,1,0.5,3.28,0,0.005128205128205128
+process_or_verify_transactional_artifacts,Develop treatment plans,1,1,0.5,3.49,1,0.005128205128205128
+process_or_verify_transactional_artifacts,Digitize visual records,1,1,0.5,3.83,0,0.005128205128205128
+process_or_verify_transactional_artifacts,Edit and publish content,1,1,0.5,3.2,1,0.005128205128205128
+process_or_verify_transactional_artifacts,Enforce behavior rules,1,1,0.5,3.73,0,0.005128205128205128
+process_or_verify_transactional_artifacts,Evaluate treatment progress,1,1,0.5,4.8,1,0.005128205128205128
+process_or_verify_transactional_artifacts,Maintain case records,1,1,0.5,4.11,1,0.005128205128205128
+process_or_verify_transactional_artifacts,Plan promotional campaigns,1,1,0.5,4.37,1,0.005128205128205128
+process_or_verify_transactional_artifacts,Provide counseling support,1,1,0.5,4.84,1,0.005128205128205128
+process_or_verify_transactional_artifacts,Test marine equipment,1,1,0.5,3.27,1,0.005128205128205128
+provide_treatment_or_therapy,Treat musculoskeletal disorders,61,27,30.5,4.213508771929824,32,0.17039106145251395
+provide_treatment_or_therapy,Perform medical procedures,50,30,25.0,4.289130434782609,22,0.13966480446927373
+provide_treatment_or_therapy,Provide emergency care,40,30,20.0,4.56,4,0.11173184357541899
+provide_treatment_or_therapy,Prescribe medications,39,27,19.5,4.502105263157894,13,0.10893854748603352
+provide_treatment_or_therapy,Deliver clinical treatment,34,12,17.0,4.209705882352941,3,0.09497206703910614
+provide_treatment_or_therapy,Provide personal grooming,26,8,13.0,4.010384615384615,2,0.07262569832402235
+provide_treatment_or_therapy,Deliver health programs,17,12,8.5,4.254117647058824,15,0.04748603351955307
+provide_treatment_or_therapy,Diagnose patient conditions,14,11,7.0,4.4125000000000005,12,0.03910614525139665
+provide_treatment_or_therapy,Provide vision care,14,6,7.0,4.529285714285714,2,0.03910614525139665
+provide_treatment_or_therapy,Coordinate end-of-life services,11,6,5.5,4.343636363636364,0,0.030726256983240222
+provide_treatment_or_therapy,Support special needs,11,9,5.5,4.282,1,0.030726256983240222
+provide_treatment_or_therapy,Provide counseling support,10,9,5.0,4.502,5,0.027932960893854747
+provide_treatment_or_therapy,Develop treatment plans,6,5,3.0,4.315,3,0.01675977653631285
+provide_treatment_or_therapy,Deliver therapeutic treatment,5,3,2.5,4.514,0,0.013966480446927373
+provide_treatment_or_therapy,Direct performance routines,4,2,2.0,4.1075,0,0.0111731843575419
+provide_treatment_or_therapy,Plan emergency response,3,3,1.5,4.533333333333334,0,0.008379888268156424
+provide_treatment_or_therapy,Coach performance,2,2,1.0,4.33,1,0.00558659217877095
+provide_treatment_or_therapy,Collect and test samples,2,2,1.0,4.645,0,0.00558659217877095
+provide_treatment_or_therapy,Fabricate components,2,2,1.0,4.295,2,0.00558659217877095
+provide_treatment_or_therapy,Maintain clean environments,2,2,1.0,3.9749999999999996,1,0.00558659217877095
+provide_treatment_or_therapy,Supervise subordinate staff,2,2,1.0,3.45,1,0.00558659217877095
+provide_treatment_or_therapy,Consult with stakeholders,1,1,0.5,4.32,1,0.002793296089385475
+provide_treatment_or_therapy,Develop products and services,1,1,0.5,3.59,1,0.002793296089385475
+provide_treatment_or_therapy,Evaluate treatment progress,1,1,0.5,4.29,0,0.002793296089385475
+serve_clients_or_public,Resolve customer complaints,45,43,22.5,3.9844736842105264,21,0.059602649006622516
+serve_clients_or_public,Plan promotional campaigns,43,35,21.5,3.7394999999999996,22,0.05695364238410596
+serve_clients_or_public,Develop products and services,40,36,20.0,3.917297297297297,12,0.052980132450331126
+serve_clients_or_public,Deliver health programs,39,34,19.5,4.291176470588235,6,0.051655629139072845
+serve_clients_or_public,Represent institution,36,35,18.0,3.0797222222222222,0,0.04768211920529802
+serve_clients_or_public,Conduct hearings and investigations,31,21,15.5,3.915,0,0.04105960264900662
+serve_clients_or_public,Coordinate recruitment,28,28,14.0,3.479642857142857,0,0.03708609271523179
+serve_clients_or_public,Provide counseling support,28,20,14.0,3.9085714285714284,12,0.03708609271523179
+serve_clients_or_public,Analyze market trends,26,15,13.0,4.2058333333333335,8,0.03443708609271523
+serve_clients_or_public,Hold office hours,26,26,13.0,3.9826923076923078,0,0.03443708609271523
+serve_clients_or_public,Organize fundraising campaigns,24,17,12.0,3.6368421052631574,23,0.031788079470198675
+serve_clients_or_public,Produce media content,23,11,11.5,3.894545454545455,5,0.030463576158940398
+serve_clients_or_public,Negotiate contracts,21,13,10.5,3.8652380952380954,20,0.02781456953642384
+serve_clients_or_public,Process insurance claims,19,14,9.5,4.058888888888889,9,0.025165562913907286
+serve_clients_or_public,Supervise subordinate staff,18,10,9.0,3.8644444444444446,18,0.02384105960264901
+serve_clients_or_public,Support operations,18,17,9.0,3.878823529411765,7,0.02384105960264901
+serve_clients_or_public,Investigate theft and fraud,16,10,8.0,4.005,8,0.02119205298013245
+serve_clients_or_public,Advance sustainability programs,15,15,7.5,3.6766666666666667,7,0.019867549668874173
+serve_clients_or_public,Plan emergency response,15,13,7.5,4.3307142857142855,2,0.019867549668874173
+serve_clients_or_public,Support special needs,15,14,7.5,3.9833333333333334,1,0.019867549668874173
+serve_clients_or_public,Plan transportation systems,13,12,6.5,3.8576923076923078,11,0.017218543046357615
+serve_clients_or_public,Teach courses,13,10,6.5,3.5669230769230773,13,0.017218543046357615
+serve_clients_or_public,Coordinate technical operations,12,6,6.0,4.0775,1,0.015894039735099338
+serve_clients_or_public,Coordinate end-of-life services,11,5,5.5,4.320909090909091,0,0.01456953642384106
+serve_clients_or_public,Diagnose patient conditions,9,9,4.5,4.312222222222222,6,0.011920529801324504
+serve_clients_or_public,Consult with stakeholders,8,8,4.0,3.9757142857142855,2,0.010596026490066225
+serve_clients_or_public,Curate collections,8,4,4.0,4.1049999999999995,8,0.010596026490066225
+serve_clients_or_public,Facilitate discussions,8,8,4.0,4.365,0,0.010596026490066225
+serve_clients_or_public,Prepare performance reports,8,7,4.0,3.795,6,0.010596026490066225
+serve_clients_or_public,Coach performance,7,7,3.5,3.5342857142857143,6,0.009271523178807948
+serve_clients_or_public,Develop treatment plans,7,6,3.5,4.102857142857142,7,0.009271523178807948
+serve_clients_or_public,Direct performance routines,7,4,3.5,4.2716666666666665,3,0.009271523178807948
+serve_clients_or_public,Direct personnel functions,7,6,3.5,4.065714285714286,2,0.009271523178807948
+serve_clients_or_public,Maintain equipment,7,7,3.5,3.9166666666666665,4,0.009271523178807948
+serve_clients_or_public,Perform medical procedures,7,5,3.5,4.428571428571429,4,0.009271523178807948
+serve_clients_or_public,Edit and publish content,6,5,3.0,3.8259999999999996,5,0.007947019867549669
+serve_clients_or_public,Ensure regulatory compliance,5,5,2.5,4.1659999999999995,0,0.006622516556291391
+serve_clients_or_public,Evaluate treatment progress,5,5,2.5,4.2219999999999995,5,0.006622516556291391
+serve_clients_or_public,Prescribe medications,5,5,2.5,4.1025,5,0.006622516556291391
+serve_clients_or_public,Provide nutrition services,5,4,2.5,3.614,0,0.006622516556291391
+serve_clients_or_public,Direct organizational strategy,4,4,2.0,4.06,1,0.005298013245033113
+serve_clients_or_public,Provide personal grooming,4,3,2.0,3.7575,0,0.005298013245033113
+serve_clients_or_public,Pursue professional learning,4,4,2.0,3.5025,0,0.005298013245033113
+serve_clients_or_public,Test marine equipment,4,3,2.0,4.33,2,0.005298013245033113
+serve_clients_or_public,Collect and test samples,3,3,1.5,4.446666666666666,0,0.003973509933774834
+serve_clients_or_public,Deliver therapeutic treatment,3,3,1.5,4.423333333333333,1,0.003973509933774834
+serve_clients_or_public,Monitor operational compliance,3,3,1.5,4.196666666666666,2,0.003973509933774834
+serve_clients_or_public,Provide emergency care,3,3,1.5,4.260000000000001,2,0.003973509933774834
+serve_clients_or_public,Treat musculoskeletal disorders,3,2,1.5,4.07,3,0.003973509933774834
+serve_clients_or_public,Advise on pathways,2,1,1.0,3.725,0,0.0026490066225165563
+serve_clients_or_public,Advise student groups,2,2,1.0,3.715,0,0.0026490066225165563
+serve_clients_or_public,Improve quality systems,2,2,1.0,3.84,0,0.0026490066225165563
+serve_clients_or_public,Maintain clean environments,2,2,1.0,4.345,2,0.0026490066225165563
+serve_clients_or_public,Manage databases,2,2,1.0,3.975,2,0.0026490066225165563
+serve_clients_or_public,Map spatial data,2,2,1.0,4.08,0,0.0026490066225165563
+serve_clients_or_public,Operate power facilities,2,2,1.0,4.075,1,0.0026490066225165563
+serve_clients_or_public,Optimize material flow,2,2,1.0,4.4399999999999995,1,0.0026490066225165563
+serve_clients_or_public,Provide vision care,2,2,1.0,3.62,0,0.0026490066225165563
+serve_clients_or_public,Test equipment performance,2,2,1.0,4.13,1,0.0026490066225165563
+serve_clients_or_public,Analyze data and risk,1,1,0.5,3.48,0,0.0013245033112582781
+serve_clients_or_public,Coordinate academic programs,1,1,0.5,3.55,1,0.0013245033112582781
+serve_clients_or_public,Create visual designs,1,1,0.5,3.57,0,0.0013245033112582781
+serve_clients_or_public,Deliver lectures,1,1,0.5,4.72,0,0.0013245033112582781
+serve_clients_or_public,Demonstrate equipment use,1,1,0.5,2.61,0,0.0013245033112582781
+serve_clients_or_public,Design control systems,1,1,0.5,4.64,1,0.0013245033112582781
+serve_clients_or_public,Design renewable systems,1,1,0.5,4.42,0,0.0013245033112582781
+serve_clients_or_public,Document clinical data,1,1,0.5,3.74,0,0.0013245033112582781
+serve_clients_or_public,Improve energy efficiency,1,1,0.5,3.89,1,0.0013245033112582781
+serve_clients_or_public,Maintain case records,1,1,0.5,4.41,1,0.0013245033112582781
+serve_clients_or_public,Manage budgets,1,1,0.5,3.81,0,0.0013245033112582781
+serve_clients_or_public,Manage hazardous disposal,1,1,0.5,3.56,0,0.0013245033112582781
+serve_clients_or_public,Manage security operations,1,1,0.5,3.8,0,0.0013245033112582781
+serve_clients_or_public,Optimize digital presence,1,1,0.5,3.56,1,0.0013245033112582781
+serve_clients_or_public,Plan curricula,1,1,0.5,3.74,1,0.0013245033112582781
+serve_clients_or_public,Preserve forensic evidence,1,1,0.5,4.41,0,0.0013245033112582781
+serve_clients_or_public,Procure supplies and assets,1,1,0.5,3.46,0,0.0013245033112582781
+serve_clients_or_public,Provide consultation,1,1,0.5,4.12,0,0.0013245033112582781
+serve_clients_or_public,Run biofuel operations,1,1,0.5,4.09,1,0.0013245033112582781
+serve_clients_or_public,Stay informed,1,1,0.5,3.43,0,0.0013245033112582781
+supervise_personnel,Supervise subordinate staff,85,80,42.5,3.9146753246753248,12,0.16129032258064516
+supervise_personnel,Direct personnel functions,73,58,36.5,3.894117647058824,7,0.13851992409867173
+supervise_personnel,Supervise technical staff,55,52,27.5,3.9801818181818183,4,0.10436432637571158
+supervise_personnel,Mentor students,39,35,19.5,3.95051282051282,0,0.07400379506641366
+supervise_personnel,Manage administrative duties,37,37,18.5,3.666571428571429,0,0.07020872865275142
+supervise_personnel,Direct organizational strategy,22,20,11.0,3.8619999999999997,2,0.04174573055028463
+supervise_personnel,Advance sustainability programs,15,12,7.5,3.572,6,0.028462998102466792
+supervise_personnel,Serve on governing bodies,15,15,7.5,3.5653333333333332,0,0.028462998102466792
+supervise_personnel,Develop products and services,10,10,5.0,3.713,6,0.018975332068311195
+supervise_personnel,Organize fundraising campaigns,10,8,5.0,3.496,6,0.018975332068311195
+supervise_personnel,Produce media content,10,8,5.0,3.8388888888888886,2,0.018975332068311195
+supervise_personnel,Support operations,9,9,4.5,3.76875,1,0.017077798861480076
+supervise_personnel,Teach courses,9,9,4.5,3.8744444444444444,9,0.017077798861480076
+supervise_personnel,Enforce behavior rules,8,8,4.0,4.4,0,0.015180265654648957
+supervise_personnel,Investigate theft and fraud,8,5,4.0,4.28125,2,0.015180265654648957
+supervise_personnel,Monitor operational compliance,8,8,4.0,3.9625,8,0.015180265654648957
+supervise_personnel,Plan emergency response,7,4,3.5,4.333333333333333,0,0.013282732447817837
+supervise_personnel,Operate power facilities,6,5,3.0,4.053333333333334,4,0.011385199240986717
+supervise_personnel,Provide nutrition services,6,4,3.0,3.94,1,0.011385199240986717
+supervise_personnel,Analyze data and risk,5,5,2.5,3.5480000000000005,0,0.009487666034155597
+supervise_personnel,Coordinate end-of-life services,5,4,2.5,4.1579999999999995,0,0.009487666034155597
+supervise_personnel,Improve quality systems,5,5,2.5,3.632,3,0.009487666034155597
+supervise_personnel,Negotiate contracts,5,5,2.5,3.9480000000000004,5,0.009487666034155597
+supervise_personnel,Resolve customer complaints,5,5,2.5,3.9519999999999995,4,0.009487666034155597
+supervise_personnel,Support special needs,5,5,2.5,4.275,0,0.009487666034155597
+supervise_personnel,Curate collections,4,4,2.0,3.9975,3,0.007590132827324478
+supervise_personnel,Design control systems,4,4,2.0,3.7,4,0.007590132827324478
+supervise_personnel,Optimize material flow,4,3,2.0,3.82,0,0.007590132827324478
+supervise_personnel,Test marine equipment,4,3,2.0,3.9574999999999996,1,0.007590132827324478
+supervise_personnel,Conduct hearings and investigations,3,3,1.5,3.606666666666667,2,0.0056925996204933585
+supervise_personnel,Direct performance routines,3,3,1.5,3.356666666666667,0,0.0056925996204933585
+supervise_personnel,Ensure regulatory compliance,3,3,1.5,4.256666666666667,2,0.0056925996204933585
+supervise_personnel,Maintain equipment,3,3,1.5,3.42,3,0.0056925996204933585
+supervise_personnel,Map spatial data,3,3,1.5,4.155,0,0.0056925996204933585
+supervise_personnel,Run biofuel operations,3,3,1.5,4.3,2,0.0056925996204933585
+supervise_personnel,Analyze market trends,2,2,1.0,4.2,0,0.003795066413662239
+supervise_personnel,Coordinate technical operations,2,2,1.0,4.12,0,0.003795066413662239
+supervise_personnel,Create technical drawings,2,2,1.0,3.435,0,0.003795066413662239
+supervise_personnel,Create visual designs,2,2,1.0,3.88,0,0.003795066413662239
+supervise_personnel,Evaluate treatment progress,2,2,1.0,4.48,1,0.003795066413662239
+supervise_personnel,Manage budgets,2,2,1.0,4.095,2,0.003795066413662239
+supervise_personnel,Prepare performance reports,2,2,1.0,3.4450000000000003,2,0.003795066413662239
+supervise_personnel,Provide vision care,2,2,1.0,4.175000000000001,0,0.003795066413662239
+supervise_personnel,Train staff,2,2,1.0,3.4,0,0.003795066413662239
+supervise_personnel,Collect and test samples,1,1,0.5,4.28,0,0.0018975332068311196
+supervise_personnel,Create production patterns,1,1,0.5,3.96,0,0.0018975332068311196
+supervise_personnel,Design renewable systems,1,1,0.5,4.35,0,0.0018975332068311196
+supervise_personnel,Develop nanoscale systems,1,1,0.5,3.17,0,0.0018975332068311196
+supervise_personnel,Develop treatment plans,1,1,0.5,4.65,0,0.0018975332068311196
+supervise_personnel,Diagnose patient conditions,1,1,0.5,3.86,1,0.0018975332068311196
+supervise_personnel,Digitize visual records,1,1,0.5,3.89,1,0.0018975332068311196
+supervise_personnel,Maintain clean environments,1,1,0.5,4.26,1,0.0018975332068311196
+supervise_personnel,Maintain wind operations,1,1,0.5,3.4,0,0.0018975332068311196
+supervise_personnel,Manage databases,1,1,0.5,3.44,1,0.0018975332068311196
+supervise_personnel,Manage security operations,1,1,0.5,3.59,1,0.0018975332068311196
+supervise_personnel,Process insurance claims,1,1,0.5,4.17,0,0.0018975332068311196
+supervise_personnel,Repair system components,1,1,0.5,4.01,1,0.0018975332068311196
+test_measure_or_calibrate,Test equipment performance,95,61,47.5,4.033448275862069,53,0.3784860557768924
+test_measure_or_calibrate,Diagnose patient conditions,22,18,11.0,4.417368421052632,10,0.08764940239043825
+test_measure_or_calibrate,Provide vision care,22,4,11.0,4.38909090909091,0,0.08764940239043825
+test_measure_or_calibrate,Maintain clean environments,11,11,5.5,3.855454545454546,10,0.043824701195219126
+test_measure_or_calibrate,Collect and test samples,9,9,4.5,3.9122222222222223,3,0.035856573705179286
+test_measure_or_calibrate,Administer selection tests,7,7,3.5,3.8657142857142857,0,0.027888446215139442
+test_measure_or_calibrate,Fabricate components,7,5,3.5,4.061428571428571,7,0.027888446215139442
+test_measure_or_calibrate,Maintain equipment,7,7,3.5,4.4750000000000005,7,0.027888446215139442
+test_measure_or_calibrate,Repair system components,7,5,3.5,4.08,7,0.027888446215139442
+test_measure_or_calibrate,Test marine equipment,7,4,3.5,3.982,6,0.027888446215139442
+test_measure_or_calibrate,Advance sustainability programs,5,4,2.5,3.8125,4,0.0199203187250996
+test_measure_or_calibrate,Map spatial data,5,5,2.5,3.746,1,0.0199203187250996
+test_measure_or_calibrate,Evaluate treatment progress,4,4,2.0,4.325,4,0.01593625498007968
+test_measure_or_calibrate,Improve quality systems,4,4,2.0,3.8075,0,0.01593625498007968
+test_measure_or_calibrate,Manage hazardous disposal,4,4,2.0,4.0600000000000005,3,0.01593625498007968
+test_measure_or_calibrate,Create production patterns,3,3,1.5,4.276666666666666,3,0.01195219123505976
+test_measure_or_calibrate,Deliver clinical treatment,3,3,1.5,4.363333333333333,0,0.01195219123505976
+test_measure_or_calibrate,Design control systems,3,3,1.5,4.033333333333333,3,0.01195219123505976
+test_measure_or_calibrate,Support special needs,3,1,1.5,4.716666666666667,0,0.01195219123505976
+test_measure_or_calibrate,Develop nanoscale systems,2,1,1.0,3.67,0,0.00796812749003984
+test_measure_or_calibrate,Maintain wind operations,2,1,1.0,3.4050000000000002,1,0.00796812749003984
+test_measure_or_calibrate,Operate power facilities,2,2,1.0,4.21,2,0.00796812749003984
+test_measure_or_calibrate,Plan emergency response,2,2,1.0,4.205,0,0.00796812749003984
+test_measure_or_calibrate,Produce media content,2,2,1.0,4.56,0,0.00796812749003984
+test_measure_or_calibrate,Administer assessments,1,1,0.5,4.25,0,0.00398406374501992
+test_measure_or_calibrate,Analyze market trends,1,1,0.5,4.23,0,0.00398406374501992
+test_measure_or_calibrate,Curate collections,1,1,0.5,4.24,0,0.00398406374501992
+test_measure_or_calibrate,Design renewable systems,1,1,0.5,3.93,1,0.00398406374501992
+test_measure_or_calibrate,Develop products and services,1,1,0.5,3.57,1,0.00398406374501992
+test_measure_or_calibrate,Digitize visual records,1,1,0.5,4.51,0,0.00398406374501992
+test_measure_or_calibrate,Improve energy efficiency,1,1,0.5,4.04,0,0.00398406374501992
+test_measure_or_calibrate,Install wiring and fibers,1,1,0.5,4.04,1,0.00398406374501992
+test_measure_or_calibrate,Manage databases,1,1,0.5,3.15,1,0.00398406374501992
+test_measure_or_calibrate,Manage security operations,1,1,0.5,4.12,0,0.00398406374501992
+test_measure_or_calibrate,Plan transportation systems,1,1,0.5,3.9,0,0.00398406374501992
+test_measure_or_calibrate,Prescribe medications,1,1,0.5,4.45,1,0.00398406374501992
+test_measure_or_calibrate,Teach courses,1,1,0.5,,1,0.00398406374501992
+train_or_instruct_people,Teach courses,99,69,49.5,3.882421052631579,69,0.1375
+train_or_instruct_people,Train staff,87,78,43.5,3.7749411764705885,2,0.12083333333333333
+train_or_instruct_people,Support special needs,74,31,37.0,4.315915492957747,41,0.10277777777777777
+train_or_instruct_people,Pursue professional learning,43,43,21.5,3.8468421052631583,1,0.059722222222222225
+train_or_instruct_people,Deliver health programs,36,31,18.0,4.2813888888888885,9,0.05
+train_or_instruct_people,Supervise technical staff,35,34,17.5,3.8990625,24,0.04861111111111111
+train_or_instruct_people,Deliver lectures,34,34,17.0,4.429705882352941,0,0.04722222222222222
+train_or_instruct_people,Demonstrate equipment use,26,26,13.0,3.9760000000000004,1,0.03611111111111111
+train_or_instruct_people,Facilitate discussions,26,26,13.0,4.367307692307692,0,0.03611111111111111
+train_or_instruct_people,Coach performance,22,14,11.0,3.9013636363636364,12,0.030555555555555555
+train_or_instruct_people,Plan emergency response,18,8,9.0,4.13,0,0.025
+train_or_instruct_people,Direct performance routines,15,8,7.5,3.9857142857142853,3,0.020833333333333332
+train_or_instruct_people,Supervise subordinate staff,14,13,7.0,3.924285714285714,6,0.019444444444444445
+train_or_instruct_people,Plan curricula,13,13,6.5,4.180000000000001,13,0.018055555555555554
+train_or_instruct_people,Prepare course materials,13,13,6.5,4.181538461538461,12,0.018055555555555554
+train_or_instruct_people,Develop treatment plans,10,8,5.0,4.237,9,0.013888888888888888
+train_or_instruct_people,Direct personnel functions,9,9,4.5,3.8175,0,0.0125
+train_or_instruct_people,Develop products and services,8,8,4.0,3.7325,5,0.011111111111111112
+train_or_instruct_people,Plan promotional campaigns,8,7,4.0,3.4275,6,0.011111111111111112
+train_or_instruct_people,Provide vision care,8,5,4.0,4.23875,0,0.011111111111111112
+train_or_instruct_people,Treat musculoskeletal disorders,7,6,3.5,4.114285714285715,7,0.009722222222222222
+train_or_instruct_people,Advance sustainability programs,6,6,3.0,3.3816666666666664,1,0.008333333333333333
+train_or_instruct_people,Produce media content,6,6,3.0,3.942,3,0.008333333333333333
+train_or_instruct_people,Analyze data and risk,5,5,2.5,3.502,0,0.006944444444444444
+train_or_instruct_people,Coordinate academic programs,5,5,2.5,3.8579999999999997,3,0.006944444444444444
+train_or_instruct_people,Deliver therapeutic treatment,5,4,2.5,3.682,2,0.006944444444444444
+train_or_instruct_people,Mentor students,5,5,2.5,3.8280000000000003,0,0.006944444444444444
+train_or_instruct_people,Administer assessments,4,4,2.0,4.37,0,0.005555555555555556
+train_or_instruct_people,Advise on pathways,4,4,2.0,3.7733333333333334,0,0.005555555555555556
+train_or_instruct_people,Coordinate technical operations,4,2,2.0,3.9250000000000003,0,0.005555555555555556
+train_or_instruct_people,Curate collections,4,3,2.0,3.8625000000000003,4,0.005555555555555556
+train_or_instruct_people,Diagnose patient conditions,4,3,2.0,4.425,3,0.005555555555555556
+train_or_instruct_people,Improve quality systems,4,3,2.0,3.6475,0,0.005555555555555556
+train_or_instruct_people,Map spatial data,4,4,2.0,3.6925,0,0.005555555555555556
+train_or_instruct_people,Build robotic systems,3,2,1.5,3.483333333333333,0,0.004166666666666667
+train_or_instruct_people,Ensure regulatory compliance,3,3,1.5,4.026666666666666,3,0.004166666666666667
+train_or_instruct_people,Manage databases,3,3,1.5,3.66,2,0.004166666666666667
+train_or_instruct_people,Provide nutrition services,3,2,1.5,3.766666666666667,0,0.004166666666666667
+train_or_instruct_people,Provide personal grooming,3,2,1.5,3.78,0,0.004166666666666667
+train_or_instruct_people,Stay informed,3,3,1.5,3.5100000000000002,0,0.004166666666666667
+train_or_instruct_people,Collect and test samples,2,2,1.0,3.5949999999999998,0,0.002777777777777778
+train_or_instruct_people,Create technical drawings,2,2,1.0,3.42,0,0.002777777777777778
+train_or_instruct_people,Maintain clean environments,2,2,1.0,4.085,2,0.002777777777777778
+train_or_instruct_people,Organize fundraising campaigns,2,2,1.0,3.78,2,0.002777777777777778
+train_or_instruct_people,Prescribe medications,2,2,1.0,3.96,0,0.002777777777777778
+train_or_instruct_people,Provide counseling support,2,2,1.0,4.68,0,0.002777777777777778
+train_or_instruct_people,Test marine equipment,2,2,1.0,4.085,2,0.002777777777777778
+train_or_instruct_people,Administer selection tests,1,1,0.5,3.76,0,0.001388888888888889
+train_or_instruct_people,Analyze market trends,1,1,0.5,3.89,0,0.001388888888888889
+train_or_instruct_people,Collaborate on research,1,1,0.5,3.95,0,0.001388888888888889
+train_or_instruct_people,Conduct hearings and investigations,1,1,0.5,4.65,0,0.001388888888888889
+train_or_instruct_people,Conduct research,1,1,0.5,3.38,0,0.001388888888888889
+train_or_instruct_people,Coordinate end-of-life services,1,1,0.5,3.75,0,0.001388888888888889
+train_or_instruct_people,Create visual designs,1,1,0.5,4.71,1,0.001388888888888889
+train_or_instruct_people,Deliver clinical treatment,1,1,0.5,3.95,0,0.001388888888888889
+train_or_instruct_people,Design renewable systems,1,1,0.5,3.55,0,0.001388888888888889
+train_or_instruct_people,Document clinical data,1,1,0.5,,0,0.001388888888888889
+train_or_instruct_people,Enforce behavior rules,1,1,0.5,4.68,0,0.001388888888888889
+train_or_instruct_people,Investigate theft and fraud,1,1,0.5,3.87,0,0.001388888888888889
+train_or_instruct_people,Maintain wind operations,1,1,0.5,3.83,0,0.001388888888888889
+train_or_instruct_people,Manage budgets,1,1,0.5,3.71,0,0.001388888888888889
+train_or_instruct_people,Manage hazardous disposal,1,1,0.5,3.08,0,0.001388888888888889
+train_or_instruct_people,Manage security operations,1,1,0.5,4.28,0,0.001388888888888889
+train_or_instruct_people,Monitor operational compliance,1,1,0.5,4.28,0,0.001388888888888889
+train_or_instruct_people,Operate power facilities,1,1,0.5,4.3,1,0.001388888888888889
+train_or_instruct_people,Optimize digital presence,1,1,0.5,3.63,0,0.001388888888888889
+train_or_instruct_people,Process insurance claims,1,1,0.5,3.32,0,0.001388888888888889
+train_or_instruct_people,Provide emergency care,1,1,0.5,,0,0.001388888888888889
+train_or_instruct_people,Repair system components,1,1,0.5,4.11,1,0.001388888888888889
+train_or_instruct_people,Run biofuel operations,1,1,0.5,4.04,0,0.001388888888888889
+write_research_or_analytic_reports,Prepare performance reports,129,119,64.5,3.9211570247933882,49,0.37283236994219654
+write_research_or_analytic_reports,Conduct research,35,35,17.5,4.063142857142857,0,0.10115606936416185
+write_research_or_analytic_reports,Maintain case records,18,18,9.0,3.907222222222222,4,0.05202312138728324
+write_research_or_analytic_reports,Edit and publish content,14,12,7.0,3.7546153846153847,9,0.04046242774566474
+write_research_or_analytic_reports,Produce media content,13,7,6.5,4.0475,0,0.03757225433526012
+write_research_or_analytic_reports,Analyze market trends,12,10,6.0,3.9240000000000004,9,0.03468208092485549
+write_research_or_analytic_reports,Manage databases,12,10,6.0,3.5063636363636363,4,0.03468208092485549
+write_research_or_analytic_reports,Plan transportation systems,12,10,6.0,3.8983333333333334,10,0.03468208092485549
+write_research_or_analytic_reports,Plan promotional campaigns,11,9,5.5,3.785,1,0.031791907514450865
+write_research_or_analytic_reports,Advance sustainability programs,10,9,5.0,3.656666666666667,3,0.028901734104046242
+write_research_or_analytic_reports,Conduct hearings and investigations,8,6,4.0,4.0725,0,0.023121387283236993
+write_research_or_analytic_reports,Evaluate treatment progress,7,7,3.5,4.617142857142857,6,0.02023121387283237
+write_research_or_analytic_reports,Pursue funding,7,7,3.5,3.744285714285714,0,0.02023121387283237
+write_research_or_analytic_reports,Curate collections,5,4,2.5,3.7980000000000005,3,0.014450867052023121
+write_research_or_analytic_reports,Ensure regulatory compliance,4,4,2.0,4.15,2,0.011560693641618497
+write_research_or_analytic_reports,Manage security operations,4,4,2.0,3.755,0,0.011560693641618497
+write_research_or_analytic_reports,Collect and test samples,3,3,1.5,4.24,0,0.008670520231213872
+write_research_or_analytic_reports,Diagnose patient conditions,3,2,1.5,4.716666666666666,0,0.008670520231213872
+write_research_or_analytic_reports,Document clinical data,3,3,1.5,3.8333333333333335,2,0.008670520231213872
+write_research_or_analytic_reports,Estimate project costs,3,3,1.5,3.83,1,0.008670520231213872
+write_research_or_analytic_reports,Map spatial data,3,3,1.5,4.183333333333334,0,0.008670520231213872
+write_research_or_analytic_reports,Monitor operational compliance,3,3,1.5,4.283333333333334,3,0.008670520231213872
+write_research_or_analytic_reports,Administer selection tests,2,2,1.0,3.72,1,0.005780346820809248
+write_research_or_analytic_reports,Analyze data and risk,2,2,1.0,4.385,0,0.005780346820809248
+write_research_or_analytic_reports,Appraise property value,2,2,1.0,4.7,0,0.005780346820809248
+write_research_or_analytic_reports,Compile reference materials,2,1,1.0,2.8200000000000003,0,0.005780346820809248
+write_research_or_analytic_reports,Improve quality systems,2,2,1.0,4.115,1,0.005780346820809248
+write_research_or_analytic_reports,Resolve customer complaints,2,2,1.0,4.1850000000000005,2,0.005780346820809248
+write_research_or_analytic_reports,Run biofuel operations,2,2,1.0,3.6100000000000003,0,0.005780346820809248
+write_research_or_analytic_reports,Support special needs,2,2,1.0,4.3100000000000005,0,0.005780346820809248
+write_research_or_analytic_reports,Create visual designs,1,1,0.5,3.6,1,0.002890173410404624
+write_research_or_analytic_reports,Deliver health programs,1,1,0.5,2.8,1,0.002890173410404624
+write_research_or_analytic_reports,Develop products and services,1,1,0.5,3.73,1,0.002890173410404624
+write_research_or_analytic_reports,Direct performance routines,1,1,0.5,4.29,0,0.002890173410404624
+write_research_or_analytic_reports,Improve energy efficiency,1,1,0.5,4.41,0,0.002890173410404624
+write_research_or_analytic_reports,Maintain operational records,1,1,0.5,4.19,0,0.002890173410404624
+write_research_or_analytic_reports,Negotiate contracts,1,1,0.5,3.96,1,0.002890173410404624
+write_research_or_analytic_reports,Organize fundraising campaigns,1,1,0.5,3.45,1,0.002890173410404624
+write_research_or_analytic_reports,Plan emergency response,1,1,0.5,4.36,0,0.002890173410404624
+write_research_or_analytic_reports,Provide personal grooming,1,1,0.5,3.57,1,0.002890173410404624
+write_research_or_analytic_reports,Test equipment performance,1,1,0.5,,1,0.002890173410404624

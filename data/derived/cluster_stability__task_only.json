@@ -1,0 +1,46 @@
+{
+  "variant": "task_only",
+  "hdbscan": {
+    "min_cluster_size": 30,
+    "min_samples": 10,
+    "n_clusters": 108,
+    "n_noise": 4487,
+    "n_soft_assigned": 4487,
+    "n_total": 12464
+  },
+  "kmeans": {
+    "k": 40,
+    "seed": 42
+  },
+  "ari_hdbscan_vs_kmeans_non_noise": 0.460187493146658,
+  "nmi_hdbscan_vs_kmeans_non_noise": 0.821755391240299,
+  "pre_clustering_reduction": {
+    "reducer": "umap",
+    "n_components": 15,
+    "n_neighbors": 30,
+    "min_dist": 0.0,
+    "metric": "cosine",
+    "seed": 42
+  },
+  "cluster_labeling": {
+    "source": "llm:gpt-5.4-mini",
+    "model_requested": "gpt-5.4-mini"
+  },
+  "layouts": {
+    "pca": {
+      "n_components": 2,
+      "input": "L2-normalized embeddings (variant=task_only)"
+    },
+    "umap": {
+      "n_neighbors": 30,
+      "min_dist": 0.1,
+      "metric": "cosine",
+      "input": "L2-normalized embeddings (variant=task_only)"
+    },
+    "tsne": {
+      "perplexity": 30,
+      "max_iter": 1000,
+      "input_dims": 15
+    }
+  }
+}

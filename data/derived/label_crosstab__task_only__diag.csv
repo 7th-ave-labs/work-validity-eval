@@ -1,0 +1,30 @@
+primary_label_id,n_tasks,n_auto_labels,dominant_auto_label,dominant_share,top2_auto_labels
+negotiate_or_mediate,97,15,Negotiate contracts,0.4536082474226804,Negotiate contracts; Process insurance claims
+manage_budgets_and_resources,287,43,Procure supplies and assets,0.3867595818815331,Procure supplies and assets; Manage budgets
+test_measure_or_calibrate,251,37,Test equipment performance,0.3784860557768924,Test equipment performance; Diagnose patient conditions
+write_research_or_analytic_reports,346,41,Prepare performance reports,0.37283236994219654,Prepare performance reports; Conduct research
+develop_and_implement_treatment_plans,153,24,Develop treatment plans,0.27450980392156865,Develop treatment plans; Support special needs
+process_or_verify_transactional_artifacts,195,37,Analyze market trends,0.2717948717948718,Analyze market trends; Process insurance claims
+conduct_experiments_or_tests,246,38,Collect and test samples,0.2601626016260163,Collect and test samples; Improve quality systems
+diagnose_and_repair_equipment,461,36,Repair system components,0.22559652928416485,Repair system components; Maintain equipment
+create_visual_or_graphic_design,185,36,Create visual designs,0.20540540540540542,Create visual designs; Plan promotional campaigns
+provide_treatment_or_therapy,358,24,Treat musculoskeletal disorders,0.17039106145251395,Treat musculoskeletal disorders; Perform medical procedures
+supervise_personnel,527,57,Supervise subordinate staff,0.16129032258064516,Supervise subordinate staff; Direct personnel functions
+prepare_official_documents,332,60,Pursue funding,0.1566265060240964,Pursue funding; Ensure regulatory compliance
+diagnose_or_assess_needs,290,39,Evaluate treatment progress,0.15517241379310345,Evaluate treatment progress; Diagnose patient conditions
+analyze_data_for_decisions,826,70,Advance sustainability programs,0.14285714285714285,Advance sustainability programs; Analyze market trends
+evaluate_compliance,418,56,Ensure regulatory compliance,0.14114832535885166,Ensure regulatory compliance; Monitor operational compliance
+train_or_instruct_people,720,70,Teach courses,0.1375,Teach courses; Train staff
+gather_field_evidence,233,51,Collect and test samples,0.13733905579399142,Collect and test samples; Map spatial data
+collect_and_maintain_records,914,77,Maintain operational records,0.13676148796498905,Maintain operational records; Document clinical data
+operate_equipment_or_systems,467,54,Produce media content,0.1349036402569593,Produce media content; Fabricate components
+plan_and_coordinate_programs,586,73,Direct organizational strategy,0.1348122866894198,Direct organizational strategy; Develop products and services
+consult_and_advise,1244,88,Develop products and services,0.12620578778135047,Develop products and services; Advance sustainability programs
+other,219,64,Stay informed,0.1187214611872146,Stay informed; Direct performance routines
+design_technical_artefact,627,53,Create technical drawings,0.11004784688995216,Create technical drawings; Design control systems
+develop_methods_or_techniques,630,72,Improve quality systems,0.10476190476190476,Improve quality systems; Advance sustainability programs
+compare_records_against_standards,223,49,Analyze market trends,0.1031390134529148,Analyze market trends; Improve quality systems
+extract_or_verify_information_from_documents,237,48,Create technical drawings,0.09282700421940929,Create technical drawings; Analyze market trends
+investigate_to_assess_conditions,327,50,Advance sustainability programs,0.08868501529051988,Advance sustainability programs; Test equipment performance
+monitor_equipment_and_environments,310,53,Evaluate treatment progress,0.08064516129032258,Evaluate treatment progress; Test equipment performance
+serve_clients_or_public,755,79,Resolve customer complaints,0.059602649006622516,Resolve customer complaints; Plan promotional campaigns

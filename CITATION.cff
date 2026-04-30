@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: >-
+  If you use this paper, the operation taxonomy, or the audit, please
+  cite it as below.
+title: "From Scores to Knowledge Work: Rethinking AI Agent Evaluation"
+abstract: >-
+  Knowledge work accounts for a large share of value in advanced
+  economies and is a central target for current AI-agent deployment.
+  We argue that high scores on public benchmarks under-determine
+  readiness for knowledge work, and propose evaluating agents on
+  cross-job operations under two audit axes: coverage (whether the
+  evaluation exercises the operations the deployment claim is about)
+  and validity (whether the score supports the intended use of the
+  output, separated into task validity and organizational validity).
+  We instantiate the framework with an 18-operation taxonomy derived
+  from O*NET 30.2, externally checked against ESCO v1.1.1, and audit
+  three frontier suites (GDPval, tau^2-Bench, APEX-Agents) against a
+  strict-cover rule and the validity criteria.
+type: conference-paper
+authors:
+  - family-names: "Hua"
+    given-names: "Yining"
+    affiliation: "Harvard University"
+    email: "yininghua@g.harvard.edu"
+  - family-names: "Na"
+    given-names: "Hongbin"
+    affiliation: "University of Technology Sydney"
+    email: "hongbin.na@student.uts.edu.au"
+  - family-names: "Ayubcha"
+    given-names: "Cyrus"
+    affiliation: "Harvard University"
+    email: "cyrusayubcha@hms.harvard.edu"
+  - family-names: "Lian"
+    given-names: "Levi"
+    affiliation: "Stanford University and Raycaster AI"
+    email: "levilian@raycaster.ai"
+preferred-citation:
+  type: conference-paper
+  title: "From Scores to Knowledge Work: Rethinking AI Agent Evaluation"
+  authors:
+    - family-names: "Hua"
+      given-names: "Yining"
+    - family-names: "Na"
+      given-names: "Hongbin"
+    - family-names: "Ayubcha"
+      given-names: "Cyrus"
+    - family-names: "Lian"
+      given-names: "Levi"
+  collection-title: "NeurIPS 2026 Position Paper Track"
+  year: 2026
+keywords:
+  - AI agents
+  - benchmarks
+  - knowledge work
+  - construct validity
+  - O*NET
+  - ESCO
+  - position paper
+license: Apache-2.0
+repository-code: "https://github.com/7th-ave-labs/knowledge-work-benchmark"

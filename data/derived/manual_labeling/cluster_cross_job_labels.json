@@ -1,0 +1,877 @@
+{
+  "_meta": {
+    "variant": "task_only",
+    "n_clusters": 108,
+    "n_tasks": 12464,
+    "provenance": "hand-labeled by human review of cluster_review.json (top occupations + top tasks per cluster); no LLM / API calls",
+    "labeling_rule": "19 top-level ops, plain-English noun names, no \"and\" connectives. Each op is defined with (a) a one-line plain statement, (b) its input and output, (c) explicit contrasts against adjacent ops. Every op is verified to be distinct.",
+    "date": "2026-04-22",
+    "revision": "v5 \u2014 plain-English names, split compliance_audit into inspection + investigation, add input/output/distinct-from in every op definition"
+  },
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "n_tasks": 35,
+      "n_occupations": 35,
+      "sub_op": "hold_scheduled_consultation_availability",
+      "top_level": "advising",
+      "note": "Office hours \u2192 availability windows for consultation; parallels clinic hours, banking hours, legal drop-ins, clergy counseling hours"
+    },
+    {
+      "cluster_id": 1,
+      "n_tasks": 35,
+      "n_occupations": 35,
+      "sub_op": "facilitate_group_discussions",
+      "top_level": "teaching",
+      "note": "Teachers, counselors, clergy, trainers, therapists, mediators"
+    },
+    {
+      "cluster_id": 2,
+      "n_tasks": 39,
+      "n_occupations": 37,
+      "sub_op": "compile_reference_materials_and_source_lists",
+      "top_level": "record_keeping",
+      "note": "Librarians, researchers, legal assistants, policy analysts, clergy"
+    },
+    {
+      "cluster_id": 3,
+      "n_tasks": 37,
+      "n_occupations": 37,
+      "sub_op": "advise_and_mentor_affiliated_groups",
+      "top_level": "advising",
+      "note": "Teachers as student-org advisers; parallels clergy, scout leaders, mentors"
+    },
+    {
+      "cluster_id": 4,
+      "n_tasks": 46,
+      "n_occupations": 42,
+      "sub_op": "serve_on_governance_bodies_and_committees",
+      "top_level": "representation",
+      "note": "Execs, legislators, faculty, physicians on hospital boards, clergy on councils"
+    },
+    {
+      "cluster_id": 5,
+      "n_tasks": 36,
+      "n_occupations": 36,
+      "sub_op": "evaluate_and_grade_submitted_work",
+      "top_level": "appraisal",
+      "note": "Teachers, reviewers, auditors, inspectors, peer reviewers, certifiers"
+    },
+    {
+      "cluster_id": 6,
+      "n_tasks": 56,
+      "n_occupations": 56,
+      "sub_op": "maintain_structured_client_or_participant_records",
+      "top_level": "record_keeping",
+      "note": "Crosses nearly every knowledge worker"
+    },
+    {
+      "cluster_id": 7,
+      "n_tasks": 36,
+      "n_occupations": 36,
+      "sub_op": "administer_and_score_assessments",
+      "top_level": "appraisal",
+      "note": "Teachers, HR testers, certification bodies, medical boards"
+    },
+    {
+      "cluster_id": 8,
+      "n_tasks": 50,
+      "n_occupations": 44,
+      "sub_op": "advise_people_on_educational_and_career_choices",
+      "top_level": "advising",
+      "note": "Counselors, HR, advisors, financial advisors"
+    },
+    {
+      "cluster_id": 9,
+      "n_tasks": 39,
+      "n_occupations": 39,
+      "sub_op": "collaborate_with_peers_on_research_projects",
+      "top_level": "analysis",
+      "note": "Any research-doing knowledge worker"
+    },
+    {
+      "cluster_id": 10,
+      "n_tasks": 35,
+      "n_occupations": 35,
+      "sub_op": "provide_expert_consultation_and_forecasts",
+      "top_level": "advising",
+      "note": "Economists, actuaries, geographers, consultants, domain experts"
+    },
+    {
+      "cluster_id": 11,
+      "n_tasks": 45,
+      "n_occupations": 43,
+      "sub_op": "recruit_and_place_candidates",
+      "top_level": "administration",
+      "note": "Admissions, HR, sports scouting, student recruitment, talent acquisition"
+    },
+    {
+      "cluster_id": 12,
+      "n_tasks": 67,
+      "n_occupations": 65,
+      "sub_op": "write_grant_proposals_to_secure_funding",
+      "top_level": "representation",
+      "note": "Researchers, nonprofits, educators, public health, emergency mgmt"
+    },
+    {
+      "cluster_id": 13,
+      "n_tasks": 39,
+      "n_occupations": 36,
+      "sub_op": "represent_organization_at_external_events",
+      "top_level": "representation",
+      "note": "Execs, PR, development, clergy, academic deans"
+    },
+    {
+      "cluster_id": 14,
+      "n_tasks": 38,
+      "n_occupations": 38,
+      "sub_op": "perform_departmental_administrative_duties",
+      "top_level": "administration",
+      "note": "Any manager / department head / unit lead"
+    },
+    {
+      "cluster_id": 15,
+      "n_tasks": 30,
+      "n_occupations": 22,
+      "sub_op": "establish_and_enforce_rules_and_order",
+      "top_level": "rule_enforcement",
+      "note": "Teachers, corrections, security, coaches, airline crew"
+    },
+    {
+      "cluster_id": 16,
+      "n_tasks": 66,
+      "n_occupations": 66,
+      "sub_op": "attend_continuing_education_and_training",
+      "top_level": "self_study",
+      "note": "All regulated professions"
+    },
+    {
+      "cluster_id": 17,
+      "n_tasks": 120,
+      "n_occupations": 115,
+      "sub_op": "keep_abreast_of_developments_in_the_field",
+      "top_level": "self_study",
+      "note": "All regulated professions"
+    },
+    {
+      "cluster_id": 18,
+      "n_tasks": 43,
+      "n_occupations": 41,
+      "sub_op": "conduct_research_and_publish_findings",
+      "top_level": "analysis",
+      "note": "Scientists, historians, policy analysts, educators, healthcare researchers"
+    },
+    {
+      "cluster_id": 19,
+      "n_tasks": 35,
+      "n_occupations": 35,
+      "sub_op": "prepare_and_deliver_presentations",
+      "top_level": "teaching",
+      "note": "Teachers, clergy, trainers, briefers, public speakers, conference presenters"
+    },
+    {
+      "cluster_id": 20,
+      "n_tasks": 45,
+      "n_occupations": 38,
+      "sub_op": "supervise_and_mentor_trainees",
+      "top_level": "administration",
+      "note": "Senior engineers, physicians, professors, foremen \u2014 any senior professional"
+    },
+    {
+      "cluster_id": 21,
+      "n_tasks": 52,
+      "n_occupations": 51,
+      "sub_op": "prepare_instructional_materials",
+      "top_level": "teaching",
+      "note": "Teachers, trainers, L&D, curriculum designers, clinical educators"
+    },
+    {
+      "cluster_id": 22,
+      "n_tasks": 36,
+      "n_occupations": 31,
+      "sub_op": "demonstrate_and_instruct_on_procedures_or_equipment",
+      "top_level": "teaching",
+      "note": "Trainers, coaches, safety officers, clinical instructors, equipment specialists"
+    },
+    {
+      "cluster_id": 23,
+      "n_tasks": 64,
+      "n_occupations": 32,
+      "sub_op": "assess_individual_progress_and_development",
+      "top_level": "appraisal",
+      "note": "Educators, counselors, physicians, therapists, HR evaluators"
+    },
+    {
+      "cluster_id": 24,
+      "n_tasks": 89,
+      "n_occupations": 59,
+      "sub_op": "design_and_evaluate_programs_and_curricula",
+      "top_level": "design",
+      "note": "Teachers, trainers, instructional designers, public health educators, program mgrs"
+    },
+    {
+      "cluster_id": 25,
+      "n_tasks": 75,
+      "n_occupations": 11,
+      "sub_op": "conduct_postmortem_examinations_and_services",
+      "top_level": "investigation",
+      "note": "Coroners, pathologists, morticians, veterinarians, forensic techs, embalmers"
+    },
+    {
+      "cluster_id": 26,
+      "n_tasks": 80,
+      "n_occupations": 69,
+      "sub_op": "produce_case_reports_and_documentation",
+      "top_level": "record_keeping",
+      "note": "Counselors, social workers, admin, compliance, investigators"
+    },
+    {
+      "cluster_id": 27,
+      "n_tasks": 76,
+      "n_occupations": 66,
+      "sub_op": "perform_clerical_office_support_duties",
+      "top_level": "record_keeping",
+      "note": "Clerks, secretaries, medical admins, technicians"
+    },
+    {
+      "cluster_id": 28,
+      "n_tasks": 116,
+      "n_occupations": 75,
+      "sub_op": "coordinate_and_schedule_activities_and_events",
+      "top_level": "coordination",
+      "note": "Execs, event planners, admin assistants, research coordinators"
+    },
+    {
+      "cluster_id": 29,
+      "n_tasks": 70,
+      "n_occupations": 32,
+      "sub_op": "confer_about_client_progress_and_behavior",
+      "top_level": "advising",
+      "note": "School counselors, therapists, social workers, HR, case managers"
+    },
+    {
+      "cluster_id": 30,
+      "n_tasks": 135,
+      "n_occupations": 48,
+      "sub_op": "organize_and_curate_reference_materials",
+      "top_level": "record_keeping",
+      "note": "Librarians, archivists, historians, researchers, journalists, legal researchers"
+    },
+    {
+      "cluster_id": 31,
+      "n_tasks": 276,
+      "n_occupations": 84,
+      "sub_op": "conduct_laboratory_tests_and_analyses",
+      "top_level": "protocol_execution",
+      "note": "Lab techs across biology, chemistry, materials, forensics, medicine \u2014 routed here for the hands-on bench craft; cross-job across lab types"
+    },
+    {
+      "cluster_id": 32,
+      "n_tasks": 36,
+      "n_occupations": 4,
+      "sub_op": "conduct_applied_technical_research",
+      "top_level": "analysis",
+      "note": "Absorbed (4 occs) \u2014 nano/microsystems engineers; abstract up to technical R&D that spans all engineering disciplines"
+    },
+    {
+      "cluster_id": 33,
+      "n_tasks": 36,
+      "n_occupations": 7,
+      "sub_op": "appraise_and_value_assets",
+      "top_level": "appraisal",
+      "note": "Real estate, personal property, auto damage, insurance, art/IP appraisers"
+    },
+    {
+      "cluster_id": 34,
+      "n_tasks": 163,
+      "n_occupations": 47,
+      "sub_op": "respond_to_emergencies_and_incidents",
+      "top_level": "emergency_response",
+      "note": "Firefighters, police, EMS, disaster mgmt, air traffic, utilities"
+    },
+    {
+      "cluster_id": 35,
+      "n_tasks": 152,
+      "n_occupations": 141,
+      "sub_op": "procure_and_manage_materials_and_supplies",
+      "top_level": "administration",
+      "note": "Purchasing, admin, ops, retail, healthcare, hospitality"
+    },
+    {
+      "cluster_id": 36,
+      "n_tasks": 94,
+      "n_occupations": 28,
+      "sub_op": "manage_logistics_and_distribution_operations",
+      "top_level": "administration",
+      "note": "Logistics analysts/engineers, supply chain, customs, distribution"
+    },
+    {
+      "cluster_id": 37,
+      "n_tasks": 76,
+      "n_occupations": 18,
+      "sub_op": "supervise_production_operations_and_compliance",
+      "top_level": "administration",
+      "note": "Biofuels, biomass, geothermal, chemical \u2014 production-plant supervision across energy + manufacturing"
+    },
+    {
+      "cluster_id": 38,
+      "n_tasks": 84,
+      "n_occupations": 8,
+      "sub_op": "conduct_specialized_diagnostic_examinations",
+      "top_level": "troubleshooting",
+      "note": "Ophthalmic workers in this cluster; the operation (structured diagnostic exam) spans physicians, dentists, optometrists, audiologists \u2014 and equally ENT triage, vet exam, mechanical/structural diagnostics"
+    },
+    {
+      "cluster_id": 39,
+      "n_tasks": 217,
+      "n_occupations": 42,
+      "sub_op": "provide_assessment_and_individualized_instruction",
+      "top_level": "teaching",
+      "note": "Sped teachers, speech-lang paths, audiologists, OT, adaptive/assistive educators"
+    },
+    {
+      "cluster_id": 40,
+      "n_tasks": 52,
+      "n_occupations": 29,
+      "sub_op": "deliver_classroom_instruction",
+      "top_level": "teaching",
+      "note": "K-12 teachers; parallels corporate trainers, clinical educators, tutoring staff"
+    },
+    {
+      "cluster_id": 41,
+      "n_tasks": 139,
+      "n_occupations": 90,
+      "sub_op": "monitor_safety_and_environmental_compliance",
+      "top_level": "inspection",
+      "note": "Safety eng, food sci, occ health, environmental, construction, healthcare"
+    },
+    {
+      "cluster_id": 42,
+      "n_tasks": 136,
+      "n_occupations": 120,
+      "sub_op": "document_procedures_and_outcomes",
+      "top_level": "record_keeping",
+      "note": "Essentially universal for procedural/technical roles"
+    },
+    {
+      "cluster_id": 43,
+      "n_tasks": 99,
+      "n_occupations": 67,
+      "sub_op": "maintain_equipment_cleanliness_and_sterility",
+      "top_level": "protocol_execution",
+      "note": "Lab, surgical, dental, veterinary, food-prep, cosmetology, nuclear"
+    },
+    {
+      "cluster_id": 44,
+      "n_tasks": 160,
+      "n_occupations": 50,
+      "sub_op": "analyze_and_interpret_data",
+      "top_level": "analysis",
+      "note": "Statisticians, data scientists, bioinformaticians, analysts across all industries"
+    },
+    {
+      "cluster_id": 45,
+      "n_tasks": 231,
+      "n_occupations": 156,
+      "sub_op": "prepare_interpretive_reports_and_analyses",
+      "top_level": "analysis",
+      "note": "Nearly universal across analytic knowledge work"
+    },
+    {
+      "cluster_id": 46,
+      "n_tasks": 216,
+      "n_occupations": 96,
+      "sub_op": "inspect_evaluate_and_verify_compliance",
+      "top_level": "inspection",
+      "note": "Compliance, regulatory, auditors, inspectors, nurses, QA, code inspectors"
+    },
+    {
+      "cluster_id": 47,
+      "n_tasks": 34,
+      "n_occupations": 7,
+      "sub_op": "deliver_expressive_therapy_interventions",
+      "top_level": "troubleshooting",
+      "note": "Music/art therapists; the operation (use expressive modality for therapeutic intervention) spans recreation therapy, dance/movement therapy, play therapy, animal-assisted therapy"
+    },
+    {
+      "cluster_id": 48,
+      "n_tasks": 45,
+      "n_occupations": 14,
+      "sub_op": "plan_and_deliver_nutrition_and_lifestyle_services",
+      "top_level": "troubleshooting",
+      "note": "Dietitians/nutritionists/cooks \u2014 plan+deliver is the cross-job operation (parallels lifestyle coaches, wellness, corporate wellness programs)"
+    },
+    {
+      "cluster_id": 49,
+      "n_tasks": 88,
+      "n_occupations": 31,
+      "sub_op": "plan_and_design_infrastructure_and_land_use",
+      "top_level": "design",
+      "note": "Transportation planners, urban planners, environmental engs, policy analysts"
+    },
+    {
+      "cluster_id": 50,
+      "n_tasks": 218,
+      "n_occupations": 39,
+      "sub_op": "conduct_spatial_surveys_and_produce_maps",
+      "top_level": "analysis",
+      "note": "Surveyors, GIS, remote sensing, atmospheric/space \u2014 also parallels LiDAR techs, topographers, cartographers, field ecologists"
+    },
+    {
+      "cluster_id": 51,
+      "n_tasks": 53,
+      "n_occupations": 7,
+      "sub_op": "assess_needs_and_propose_customized_solutions",
+      "top_level": "advising",
+      "note": "Solar-heavy but the operation (site audit \u2192 proposal) spans consultants, sales engineers, architects, building designers"
+    },
+    {
+      "cluster_id": 52,
+      "n_tasks": 77,
+      "n_occupations": 42,
+      "sub_op": "handle_hazardous_materials_and_contamination",
+      "top_level": "inspection",
+      "note": "Hazmat workers, environmental eng, occ health, brownfield, healthcare sharps, lab biosafety"
+    },
+    {
+      "cluster_id": 53,
+      "n_tasks": 578,
+      "n_occupations": 96,
+      "sub_op": "analyze_and_manage_environmental_and_natural_resources",
+      "top_level": "analysis",
+      "note": "Environmental scientists, ecologists, foresters, ag mgrs, water/climate analysts"
+    },
+    {
+      "cluster_id": 54,
+      "n_tasks": 45,
+      "n_occupations": 15,
+      "sub_op": "maintain_and_troubleshoot_power_generation_equipment",
+      "top_level": "troubleshooting",
+      "note": "Wind-heavy but tasks (inspect, diagnose, restart, track) parallel all industrial/energy equipment maint"
+    },
+    {
+      "cluster_id": 55,
+      "n_tasks": 54,
+      "n_occupations": 11,
+      "sub_op": "design_and_test_engineered_systems_and_components",
+      "top_level": "design",
+      "note": "Fuel cell + microsystems \u2014 fundamental engineering R&D that spans mechanical, electrical, chemical, materials"
+    },
+    {
+      "cluster_id": 56,
+      "n_tasks": 55,
+      "n_occupations": 18,
+      "sub_op": "audit_and_recommend_efficiency_improvements",
+      "top_level": "analysis",
+      "note": "Energy auditors + process-improvement consultants + ops analysts"
+    },
+    {
+      "cluster_id": 57,
+      "n_tasks": 147,
+      "n_occupations": 80,
+      "sub_op": "manage_workplace_relations_and_negotiations",
+      "top_level": "administration",
+      "note": "HR, labor relations, EEO, execs, mediators, ombuds, negotiators"
+    },
+    {
+      "cluster_id": 58,
+      "n_tasks": 204,
+      "n_occupations": 89,
+      "sub_op": "deliver_lecture_and_group_instruction",
+      "top_level": "teaching",
+      "note": "Teachers, clergy, trainers, instructional coordinators, coaches"
+    },
+    {
+      "cluster_id": 59,
+      "n_tasks": 96,
+      "n_occupations": 80,
+      "sub_op": "assess_training_needs_and_deliver_training",
+      "top_level": "teaching",
+      "note": "Training and development, HR, managers, supervisors, L&D"
+    },
+    {
+      "cluster_id": 60,
+      "n_tasks": 96,
+      "n_occupations": 83,
+      "sub_op": "supervise_and_direct_junior_staff",
+      "top_level": "administration",
+      "note": "Teaching assistants + scientists + tech leads \u2014 any senior mentor/supervisor role"
+    },
+    {
+      "cluster_id": 61,
+      "n_tasks": 163,
+      "n_occupations": 74,
+      "sub_op": "administer_personnel_and_benefits_programs",
+      "top_level": "administration",
+      "note": "HR, compensation, benefits, payroll, I/O psychologists"
+    },
+    {
+      "cluster_id": 62,
+      "n_tasks": 140,
+      "n_occupations": 99,
+      "sub_op": "provide_interpretive_and_liaison_services",
+      "top_level": "record_keeping",
+      "note": "Tour guides, translators, interpreters, medical interpreters, diplomatic liaisons"
+    },
+    {
+      "cluster_id": 63,
+      "n_tasks": 40,
+      "n_occupations": 9,
+      "sub_op": "collect_and_preserve_physical_evidence",
+      "top_level": "investigation",
+      "note": "Forensic, police, firefighter investigators, insurance investigators, IG inspectors"
+    },
+    {
+      "cluster_id": 64,
+      "n_tasks": 152,
+      "n_occupations": 43,
+      "sub_op": "research_and_prepare_written_analyses",
+      "top_level": "analysis",
+      "note": "Lawyers, judges, clerks; parallels policy analysts, compliance writers, academic researchers"
+    },
+    {
+      "cluster_id": 65,
+      "n_tasks": 135,
+      "n_occupations": 32,
+      "sub_op": "conduct_investigations",
+      "top_level": "investigation",
+      "note": "Fraud examiners, police, probation, intelligence, detectives \u2014 spans cyber, financial, corporate, gov"
+    },
+    {
+      "cluster_id": 66,
+      "n_tasks": 49,
+      "n_occupations": 34,
+      "sub_op": "provide_emergency_stabilization_care",
+      "top_level": "emergency_response",
+      "note": "ER docs, paramedics, ER nurses \u2014 reparented to emergency response where it sits alongside fire/police/disaster/utility emergency work"
+    },
+    {
+      "cluster_id": 67,
+      "n_tasks": 212,
+      "n_occupations": 86,
+      "sub_op": "deliver_individualized_assessment_and_care",
+      "top_level": "troubleshooting",
+      "note": "Physicians/nurses/midwives; the operation pattern (history+exam+plan+deliver care) is the same one mechanics, IT engineers, counselors, HVAC techs, and veterinarians follow on their own subjects"
+    },
+    {
+      "cluster_id": 68,
+      "n_tasks": 87,
+      "n_occupations": 30,
+      "sub_op": "develop_and_deliver_fitness_or_rehab_programs",
+      "top_level": "teaching",
+      "note": "Sports med, PT, athletic trainers, fitness coaches, exercise physiologists"
+    },
+    {
+      "cluster_id": 69,
+      "n_tasks": 122,
+      "n_occupations": 81,
+      "sub_op": "collect_and_document_client_intake_information",
+      "top_level": "record_keeping",
+      "note": "Medical records, social workers, case managers, pharm techs \u2014 intake is universal clerical/record work"
+    },
+    {
+      "cluster_id": 70,
+      "n_tasks": 127,
+      "n_occupations": 34,
+      "sub_op": "monitor_and_investigate_security_threats",
+      "top_level": "investigation",
+      "note": "Cyber + physical security + fraud + risk + forensic analysis"
+    },
+    {
+      "cluster_id": 71,
+      "n_tasks": 55,
+      "n_occupations": 9,
+      "sub_op": "develop_and_test_automated_systems",
+      "top_level": "design",
+      "note": "Robotics, photonics, mechatronics engineers; parallels industrial automation, process-control, aerospace engineers"
+    },
+    {
+      "cluster_id": 72,
+      "n_tasks": 152,
+      "n_occupations": 74,
+      "sub_op": "select_components_and_program_control_systems",
+      "top_level": "design",
+      "note": "Mechatronics, automotive, electronics, telecom \u2014 design-for-manufacture and controls engineering"
+    },
+    {
+      "cluster_id": 73,
+      "n_tasks": 98,
+      "n_occupations": 49,
+      "sub_op": "edit_and_revise_written_content",
+      "top_level": "record_keeping",
+      "note": "Editors, writers, proofreaders, translators, tech writers \u2014 content editing across industries"
+    },
+    {
+      "cluster_id": 74,
+      "n_tasks": 166,
+      "n_occupations": 83,
+      "sub_op": "negotiate_and_broker_transactions",
+      "top_level": "representation",
+      "note": "Real estate, customs, supply chain, procurement, wholesale sales reps"
+    },
+    {
+      "cluster_id": 75,
+      "n_tasks": 83,
+      "n_occupations": 25,
+      "sub_op": "assess_and_fit_custom_devices_or_solutions",
+      "top_level": "troubleshooting",
+      "note": "Dentists, prosthodontists, orthotists, audiologists \u2014 parallels tailors/fitters, opticians, custom-device engineers, assistive-tech specialists"
+    },
+    {
+      "cluster_id": 76,
+      "n_tasks": 97,
+      "n_occupations": 68,
+      "sub_op": "develop_and_manage_budgets",
+      "top_level": "administration",
+      "note": "Budget analysts, controllers, PMs, department heads, ED/nonprofit admin"
+    },
+    {
+      "cluster_id": 77,
+      "n_tasks": 95,
+      "n_occupations": 69,
+      "sub_op": "estimate_costs_of_projects_or_repairs",
+      "top_level": "administration",
+      "note": "Auto damage appraisers, cost estimators, construction mgrs, contractors"
+    },
+    {
+      "cluster_id": 78,
+      "n_tasks": 59,
+      "n_occupations": 17,
+      "sub_op": "provide_personal_care_and_aesthetic_services",
+      "top_level": "troubleshooting",
+      "note": "Cosmetologists, barbers, makeup artists, skincare, dental hygiene (prophylaxis), some cosmetic medical"
+    },
+    {
+      "cluster_id": 79,
+      "n_tasks": 93,
+      "n_occupations": 41,
+      "sub_op": "support_execution_of_expert_procedures",
+      "top_level": "assistance",
+      "note": "Surgical techs, nursing assts, vet techs, medical assts \u2014 the support-a-principal pattern also covers legal assts, research assts, engineering assts, teaching aides"
+    },
+    {
+      "cluster_id": 80,
+      "n_tasks": 220,
+      "n_occupations": 74,
+      "sub_op": "interpret_test_results_and_measurements",
+      "top_level": "analysis",
+      "note": "Radiologists, pathologists, MRI techs, dosimetrists \u2014 interpreting instrumental measurements is the same operation as QA test-result reading, engineering NDT, materials testing, software test analysis"
+    },
+    {
+      "cluster_id": 81,
+      "n_tasks": 123,
+      "n_occupations": 64,
+      "sub_op": "provide_counseling_and_behavioral_interventions",
+      "top_level": "advising",
+      "note": "Counselors, therapists, psychologists, social workers \u2014 life coaches, peer support, rehab counselors also fit"
+    },
+    {
+      "cluster_id": 82,
+      "n_tasks": 96,
+      "n_occupations": 42,
+      "sub_op": "execute_hands_on_therapeutic_techniques",
+      "top_level": "troubleshooting",
+      "note": "Chiros, acupuncturists, PTs, massage, dermatology, nursing assts \u2014 hands-on technique delivery"
+    },
+    {
+      "cluster_id": 83,
+      "n_tasks": 104,
+      "n_occupations": 47,
+      "sub_op": "administer_controlled_interventions_per_protocol",
+      "top_level": "troubleshooting",
+      "note": "Nurses, anesthetists, pharmacists, EMTs, vets \u2014 the protocol-bound administration operation also covers lab reagent handling, chemical/nuclear process operators following SOPs, aviation pre-flight checklists, pharmacy dispensing"
+    },
+    {
+      "cluster_id": 84,
+      "n_tasks": 71,
+      "n_occupations": 12,
+      "sub_op": "develop_and_maintain_digital_platforms",
+      "top_level": "design",
+      "note": "Web devs, digital marketers, web admins, merchants; parallels UX designers, SEO, product managers"
+    },
+    {
+      "cluster_id": 85,
+      "n_tasks": 155,
+      "n_occupations": 63,
+      "sub_op": "design_individualized_treatment_or_service_plans",
+      "top_level": "design",
+      "note": "Rehab counselors, therapists, OT/PT, substance counselors, case managers \u2014 personalized-plan design crosses clinical + social services + education (IEPs) + career planning"
+    },
+    {
+      "cluster_id": 86,
+      "n_tasks": 156,
+      "n_occupations": 73,
+      "sub_op": "conduct_evaluative_assessments_and_produce_reports",
+      "top_level": "appraisal",
+      "note": "Psych nurses, OT assts, PT, neuropsychs \u2014 assessment + report generation is the cross-job pattern shared with educational/HR/engineering/compliance evaluators"
+    },
+    {
+      "cluster_id": 87,
+      "n_tasks": 125,
+      "n_occupations": 45,
+      "sub_op": "review_and_adjudicate_claims_or_applications",
+      "top_level": "appraisal",
+      "note": "Claims adjusters, eligibility workers, insurance agents, mediators, arbitrators \u2014 review/evaluate/decide across government, insurance, HR"
+    },
+    {
+      "cluster_id": 88,
+      "n_tasks": 487,
+      "n_occupations": 175,
+      "sub_op": "coordinate_and_confer_with_stakeholders",
+      "top_level": "coordination",
+      "note": "Nearly universal \u2014 engineers, managers, consultants, PR, sales, clinicians all confer"
+    },
+    {
+      "cluster_id": 89,
+      "n_tasks": 82,
+      "n_occupations": 11,
+      "sub_op": "pilot_and_direct_aviation_operations",
+      "top_level": "protocol_execution",
+      "note": "ATC, pilots, airfield ops, aviation inspectors \u2014 operating complex vehicles under regs"
+    },
+    {
+      "cluster_id": 90,
+      "n_tasks": 99,
+      "n_occupations": 44,
+      "sub_op": "cultivate_and_manage_stakeholder_relationships",
+      "top_level": "representation",
+      "note": "Fundraisers, legislators (constituent rel), PR, sales AMs \u2014 any role that manages a portfolio of external relationships"
+    },
+    {
+      "cluster_id": 91,
+      "n_tasks": 61,
+      "n_occupations": 15,
+      "sub_op": "monitor_and_control_plant_operations",
+      "top_level": "protocol_execution",
+      "note": "Hydro, power plant, stationary engineers, boiler, solar thermal \u2014 continuous-process ops supervision"
+    },
+    {
+      "cluster_id": 92,
+      "n_tasks": 255,
+      "n_occupations": 104,
+      "sub_op": "establish_and_monitor_quality_assurance_programs",
+      "top_level": "inspection",
+      "note": "QC, QA, SW QA, validation, bioeng \u2014 cross-industry quality work"
+    },
+    {
+      "cluster_id": 93,
+      "n_tasks": 171,
+      "n_occupations": 65,
+      "sub_op": "design_and_maintain_information_systems_and_databases",
+      "top_level": "design",
+      "note": "DB architects, data eng, health informatics, doc mgmt, blockchain"
+    },
+    {
+      "cluster_id": 94,
+      "n_tasks": 157,
+      "n_occupations": 82,
+      "sub_op": "produce_technical_drawings_and_specifications",
+      "top_level": "design",
+      "note": "Drafters, architects, engineers across mech/elec/civil \u2014 CAD and specification work"
+    },
+    {
+      "cluster_id": 95,
+      "n_tasks": 115,
+      "n_occupations": 28,
+      "sub_op": "create_and_perform_artistic_works",
+      "top_level": "creative_production",
+      "note": "Musicians, composers, choreographers, dancers \u2014 performing-arts creative work"
+    },
+    {
+      "cluster_id": 96,
+      "n_tasks": 124,
+      "n_occupations": 41,
+      "sub_op": "navigate_and_direct_vessels",
+      "top_level": "protocol_execution",
+      "note": "Ship captains, marine engs, divers, transportation inspectors \u2014 complex navigation + safety oversight"
+    },
+    {
+      "cluster_id": 97,
+      "n_tasks": 107,
+      "n_occupations": 39,
+      "sub_op": "create_visual_designs_and_compositions",
+      "top_level": "creative_production",
+      "note": "Game designers, fine artists, graphic designers, set designers, display \u2014 visual creation"
+    },
+    {
+      "cluster_id": 98,
+      "n_tasks": 63,
+      "n_occupations": 28,
+      "sub_op": "capture_and_process_images_or_media",
+      "top_level": "creative_production",
+      "note": "Photographers, desktop pub, camera ops, radiographers, remote sensing \u2014 image capture+processing"
+    },
+    {
+      "cluster_id": 99,
+      "n_tasks": 258,
+      "n_occupations": 56,
+      "sub_op": "produce_and_edit_media_content",
+      "top_level": "creative_production",
+      "note": "Producers, directors, journalists, broadcast, film editors"
+    },
+    {
+      "cluster_id": 100,
+      "n_tasks": 198,
+      "n_occupations": 78,
+      "sub_op": "develop_and_deliver_marketing_campaigns",
+      "top_level": "representation",
+      "note": "Advertising, promo, PR, sales reps, search marketing"
+    },
+    {
+      "cluster_id": 101,
+      "n_tasks": 469,
+      "n_occupations": 108,
+      "sub_op": "perform_financial_analysis_and_transaction_processing",
+      "top_level": "administration",
+      "note": "Loan officers, sales agents, credit, billing, bookkeeping, accountants, auditors"
+    },
+    {
+      "cluster_id": 102,
+      "n_tasks": 185,
+      "n_occupations": 104,
+      "sub_op": "perform_equipment_maintenance_and_repair",
+      "top_level": "fabrication",
+      "note": "Aircraft mechs, radio/tower installers, maintenance, industrial mechs"
+    },
+    {
+      "cluster_id": 103,
+      "n_tasks": 276,
+      "n_occupations": 118,
+      "sub_op": "inspect_test_and_calibrate_equipment",
+      "top_level": "inspection",
+      "note": "Calibration techs, telecom installers, power repairers \u2014 inspect+test+calibrate spans all engineered systems"
+    },
+    {
+      "cluster_id": 104,
+      "n_tasks": 167,
+      "n_occupations": 54,
+      "sub_op": "fabricate_and_finish_precision_objects",
+      "top_level": "fabrication",
+      "note": "Jewelers, metal/stone workers, instrument repairers, machinists, potters"
+    },
+    {
+      "cluster_id": 105,
+      "n_tasks": 72,
+      "n_occupations": 22,
+      "sub_op": "design_and_produce_patterns_and_prototypes",
+      "top_level": "fabrication",
+      "note": "Patternmakers (fabric, metal, wood), fashion designers, model makers, craft artists"
+    },
+    {
+      "cluster_id": 106,
+      "n_tasks": 81,
+      "n_occupations": 35,
+      "sub_op": "install_and_connect_building_and_mechanical_systems",
+      "top_level": "fabrication",
+      "note": "Plumbers, electricians, HVAC, solar, telecom, motor repairers"
+    },
+    {
+      "cluster_id": 107,
+      "n_tasks": 140,
+      "n_occupations": 50,
+      "sub_op": "diagnose_repair_and_reassemble_machinery",
+      "top_level": "troubleshooting",
+      "note": "Auto, diesel, motorcycle, control/valve, industrial mech \u2014 diagnostic/repair of machinery"
+    }
+  ]
+}

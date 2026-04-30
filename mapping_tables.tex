@@ -1,0 +1,62 @@
+% --- auto-generated mapping tables ---
+\begin{table}[p]
+\caption{\emph{distinct-from} pairwise contrasts per operation. Each operation carries an explicit contrast against every adjacent operation whose embedding-space proximity risks collapse under short-form vocabulary (e.g.\ \emph{plan}, \emph{assess}, \emph{document}). These contrasts are invariants of the taxonomy: they are what allows a grading rubric for an operation to avoid silently scoring a different operation.}
+\label{tab:distinctfrom}
+\centering
+\scriptsize
+\begin{tabularx}{\linewidth}{l X}
+\toprule
+operation & \emph{distinct-from} contrasts \\
+\midrule
+\emph{analysis} & \emph{appraisal}: appraisal uses a pre-specified rubric to produce a score; analysis produces open-ended findings.; \emph{investigation}: investigation reconstructs a specific past event; analysis is broader interpretive work.; \emph{record-keeping}: record-keeping stores / retrieves existing records; analysis generates new findings from them.; \emph{design}: design specifies something new to build / deliver; analysis interprets what exists. \\
+\emph{administration} & \emph{coordination}: coordination aligns people on specific projects; administration runs steady-state functions.; \emph{representation}: representation is external-facing; administration is internal org-running. \\
+\emph{design} & \emph{fabrication}: fabrication physically builds the thing; design only specifies it.; \emph{analysis}: analysis is about existing evidence; design is about a new artefact. \\
+\emph{inspection} & \emph{investigation}: investigation reconstructs a specific past event; inspection checks present compliance.; \emph{appraisal}: appraisal produces a score / value; inspection produces a compliance verdict.; \emph{troubleshooting}: troubleshooting fixes; inspection only reports. \\
+\emph{troubleshooting} & \emph{protocol-execution}: protocol-execution follows a pre-scripted procedure with no diagnostic reasoning; troubleshooting requires figuring out what is wrong first.; \emph{inspection}: inspection only checks against rules; it does not fix.; \emph{emergency-response}: emergency-response is acute-crisis; troubleshooting is non-acute diagnose-and-fix. \\
+\emph{record-keeping} & \emph{analysis}: analysis produces new findings from records; record-keeping stores and retrieves them.; \emph{creative-production}: creative-production makes original works; record-keeping maintains references.; \emph{administration}: administration runs HR / finance / ops as a process; record-keeping maintains documents. \\
+\emph{teaching} & \emph{advising}: advising is personalized to one client's case; teaching delivers content that applies to the whole group / learner.; \emph{protocol-execution}: protocol-execution makes a principal productive; teaching makes a learner competent.; \emph{self-study}: self-study is the learner doing it themselves; teaching is the instructor side. \\
+\emph{protocol-execution} & \emph{troubleshooting}: troubleshooting requires diagnosis; protocol-execution follows specified steps.; \emph{fabrication}: fabrication builds a new physical artefact; protocol-execution runs a specified process. \\
+\emph{representation} & \emph{coordination}: coordination is internal alignment; representation is outward-facing.; \emph{advising}: advising is serving a client with personalized guidance; representation is soliciting / persuading external parties on behalf of the org. \\
+\emph{coordination} & \emph{administration}: administration runs steady-state org machinery (HR / finance / ops); coordination is task / project-scoped alignment.; \emph{representation}: representation engages external audiences; coordination is internal. \\
+\emph{creative-production} & \emph{fabrication}: fabrication makes utilitarian physical objects; creative-production makes creative / media works.; \emph{record-keeping}: record-keeping maintains existing records; creative-production generates originals. \\
+\emph{fabrication} & \emph{design}: design only specifies on paper; fabrication produces the physical thing.; \emph{creative-production}: creative-production makes creative / media artefacts; fabrication makes utilitarian physical objects.; \emph{protocol-execution}: protocol-execution runs a process; fabrication creates a new physical artefact. \\
+\emph{appraisal} & \emph{inspection}: inspection produces a pass/fail against rules; appraisal produces a score or value on a scale.; \emph{analysis}: analysis is open-ended interpretation of evidence; appraisal applies a pre-specified rubric.; \emph{investigation}: investigation reconstructs a past event; appraisal values / grades a current item. \\
+\emph{advising} & \emph{teaching}: teaching delivers general content to a group/learner; advising is 1:1 and tailored to one case.; \emph{analysis}: analysis produces findings from evidence; advising produces a recommendation for an individual.; \emph{representation}: representation engages external audiences for a transaction/commitment; advising is client-serving. \\
+\emph{investigation} & \emph{inspection}: inspection is a present-state compliance check; investigation is a retrospective reconstruction.; \emph{analysis}: analysis is broader interpretive work; investigation targets a specific past event / wrongdoing. \\
+\emph{emergency-response} & \emph{troubleshooting}: troubleshooting is non-acute diagnose-and-fix; emergency-response is acute crisis stabilization.; \emph{rule-enforcement}: rule-enforcement is ongoing behavioral control; emergency-response is acute. \\
+\emph{self-study} & \emph{teaching}: teaching makes others learn; self-study is the practitioner learning themselves.; \emph{analysis}: analysis produces new findings as a deliverable; self-study builds personal competency. \\
+\emph{rule-enforcement} & \emph{emergency-response}: emergency-response is acute-crisis; rule-enforcement is ongoing.; \emph{inspection}: inspection audits things / processes; rule-enforcement governs people. \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\begin{table}[p]
+\caption{\emph{cross-occupation-examples} per operation. The cross-profession invariant requires that every top-level operation carries examples from at least three distinct professional families. Examples are literal quotes from the final taxonomy JSON (\emph{data/derived/manual\_labeling/operation\_taxonomy.json}).}
+\label{tab:crossjob}
+\centering
+\scriptsize
+\begin{tabularx}{\linewidth}{l X}
+\toprule
+operation & cross-job examples \\
+\midrule
+\emph{analysis} & scientists and postsecondary researchers; policy analysts and economists; lawyers, judges, judicial clerks; data analysts / scientists / bioinformaticians; GIS analysts and surveyors; radiologists / pathologists interpreting instrumental output; environmental and climate analysts \\
+\emph{administration} & department heads and general managers; HR / labor relations / compensation / benefits; supervisors, foremen, production managers; purchasing / logistics / supply-chain analysts; budget analysts, controllers, accountants, auditors; loan officers, credit analysts, bookkeepers \\
+\emph{design} & curriculum / instructional designers; treatment and case-management planners; mechanical / electrical / civil / controls engineers; software and database architects; urban planners and architects; solution architects and product designers \\
+\emph{inspection} & safety, environmental, building, and code inspectors; QA / QC and software QA; calibration and telecom test technicians; hazmat / biosafety compliance officers; regulatory compliance auditors \\
+\emph{troubleshooting} & auto, diesel, and industrial mechanics; IT incident responders and network engineers; HVAC / wind-turbine / power-plant troubleshooters; physicians, nurses, NPs, PAs in assess-and-treat; PT / OT / speech / behavioral therapists; veterinarians; dental / audiology / optometry / prosthetics; cosmetologists and aestheticians \\
+\emph{record-keeping} & administrative and clerical staff; medical-records and clinical admin; social workers / case managers documenting cases; librarians, archivists, historians; editors, proofreaders, technical writers; translators and medical interpreters \\
+\emph{teaching} & classroom and postsecondary teachers; corporate trainers; clergy preaching; coaches and fitness / rehab instructors; clinical educators; safety and compliance trainers \\
+\emph{protocol-execution} & lab technicians (bio / chem / materials / forensic / clinical); sterility and infection control across lab, surgical, dental, food; aviation pilots, flight engineers, ATC; ship captains, marine engineers; power-plant / hydro / process-plant operators; surgical techs and nursing assistants; medical / dental / vet assistants; legal assistants and paralegals; research and laboratory assistants; engineering technicians and drafters; teaching aides \\
+\emph{representation} & executives, legislators, clergy representing institutions; sales account managers and negotiators; PR, development, fundraising; supply-chain / procurement negotiators; marketing campaign leads \\
+\emph{coordination} & project and program managers; executive assistants and event planners; research coordinators; engineers and clinicians conferring cross-functionally \\
+\emph{creative-production} & musicians, composers, choreographers, dancers; graphic / game / set designers and fine artists; photographers, camera operators, desktop publishers; producers, directors, journalists, broadcast and film editors \\
+\emph{fabrication} & jewelers, machinists, patternmakers, craft artists; plumbers, electricians, HVAC and solar installers; telecom and motor repairers; aircraft and industrial maintenance mechanics \\
+\emph{appraisal} & teachers grading work; HR / performance appraisers; clinical evaluators (psych, OT, PT); real-estate and damage appraisers; claims adjusters and eligibility workers; peer reviewers and certifiers \\
+\emph{advising} & financial advisors; physicians / NPs in consultation; career and school counselors; management consultants; clergy pastoral counseling; mental-health and rehab counselors; sales engineers doing site-assessment proposals \\
+\emph{investigation} & police, detectives, fraud examiners; intelligence and security analysts; forensic pathologists, coroners; insurance / IG investigators; cybersecurity forensics \\
+\emph{emergency-response} & firefighters, police, EMS, paramedics; ER physicians and nurses; disaster management and utility incident response; air-traffic controllers in incident response \\
+\emph{self-study} & every regulated / licensed profession — medicine, law, accounting, engineering, teaching, nursing, therapy, finance \\
+\emph{rule-enforcement} & teachers and coaches enforcing classroom rules; corrections and security officers; airline / transit crew enforcing safety rules; compliance officers enforcing conduct policies \\
+\bottomrule
+\end{tabularx}
+\end{table}

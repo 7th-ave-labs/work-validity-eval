@@ -1,0 +1,11 @@
+benchmark_id,source_name,scored_unit,paper_ref,task_template_ref,scoring_ref,work_patterns_covered,notes,harvest_status
+bench_legalbench,LegalBench,Issue-spotting prompts: 'does this fact pattern implicate rule X?'; Rhetorical-analysis / clause classification prompts; Rule-application prompts (IRAC application step),https://arxiv.org/abs/2308.11462,,,compare_records_against_standards|evaluate_compliance|extract_or_verify_information_from_documents,,coded
+bench_financebench,FinanceBench,"Open-book QA over public filings (10-K, 10-Q, earnings)",https://arxiv.org/abs/2311.11944,,,analyze_data_for_decisions|extract_or_verify_information_from_documents,,coded
+bench_browsecomp,BrowseComp,Hard-to-find fact queries; agent must browse to verify,https://openai.com/index/browsecomp/,,,extract_or_verify_information_from_documents|gather_field_evidence,,coded
+bench_gaia,GAIA,Open-domain assistant tasks with tool use,https://arxiv.org/abs/2311.12983,,,analyze_data_for_decisions|gather_field_evidence,,coded
+bench_webarena,WebArena,"Realistic web-agent tasks in reproducible sandboxes (shopping, git, maps, CMS, reddit)",https://arxiv.org/abs/2307.13854,,,process_or_verify_transactional_artifacts|serve_clients_or_public,,coded
+bench_workarena,WorkArena,Enterprise knowledge-worker tasks on ServiceNow,https://arxiv.org/abs/2403.07718,,,collect_and_maintain_records|process_or_verify_transactional_artifacts,,coded
+bench_osworld,OSWorld,Computer-use tasks across desktop OS apps,https://arxiv.org/abs/2404.07972,,,collect_and_maintain_records|process_or_verify_transactional_artifacts,,coded
+bench_officebench,OfficeBench,"Office-software tasks across Word, Excel, PPT",https://arxiv.org/abs/2407.19056,,,collect_and_maintain_records|write_research_or_analytic_reports,,coded
+bench_medagentbench,MedAgentBench,Clinical tasks against a simulated EHR with FHIR tools,https://arxiv.org/abs/2501.14654,,,collect_and_maintain_records|diagnose_or_assess_needs|process_or_verify_transactional_artifacts,,coded
+bench_apex_agents,APEX-Agents,Software engineering tasks scored by rubric + tests with observability,https://arxiv.org/abs/2506.12326,,,design_technical_artefact|develop_methods_or_techniques|evaluate_compliance,,coded

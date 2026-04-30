@@ -1,0 +1,435 @@
+{
+  "n_items": 5826,
+  "n_hdbscan_noise": 1985,
+  "n_hdbscan_clusters_raw": 46,
+  "n_hdbscan_clusters_assigned": 46,
+  "vs_llm_op_id": {
+    "n": 5730,
+    "ari": 0.06000468354281727,
+    "nmi": 0.2045951800784857
+  },
+  "vs_centroid_op_id": {
+    "n": 5826,
+    "ari": 0.14403805695362365,
+    "nmi": 0.3520078753943299
+  },
+  "vs_consensus_op_id": {
+    "n": 2293,
+    "ari": 0.17907698777865771,
+    "nmi": 0.4110533961129106
+  },
+  "per_op_homogeneity_vs_llm": {
+    "administration": {
+      "n_items": 441,
+      "dominant_cluster_share": 0.12471655328798185
+    },
+    "advising": {
+      "n_items": 508,
+      "dominant_cluster_share": 0.14960629921259844
+    },
+    "analysis": {
+      "n_items": 679,
+      "dominant_cluster_share": 0.09572901325478646
+    },
+    "appraisal": {
+      "n_items": 116,
+      "dominant_cluster_share": 0.1206896551724138
+    },
+    "coordination": {
+      "n_items": 496,
+      "dominant_cluster_share": 0.14919354838709678
+    },
+    "creative_production": {
+      "n_items": 185,
+      "dominant_cluster_share": 0.3027027027027027
+    },
+    "design": {
+      "n_items": 664,
+      "dominant_cluster_share": 0.19879518072289157
+    },
+    "emergency_response": {
+      "n_items": 50,
+      "dominant_cluster_share": 0.46
+    },
+    "fabrication": {
+      "n_items": 544,
+      "dominant_cluster_share": 0.18566176470588236
+    },
+    "inspection": {
+      "n_items": 514,
+      "dominant_cluster_share": 0.08560311284046693
+    },
+    "investigation": {
+      "n_items": 39,
+      "dominant_cluster_share": 0.15384615384615385
+    },
+    "protocol_execution": {
+      "n_items": 328,
+      "dominant_cluster_share": 0.10975609756097561
+    },
+    "record_keeping": {
+      "n_items": 297,
+      "dominant_cluster_share": 0.1919191919191919
+    },
+    "representation": {
+      "n_items": 292,
+      "dominant_cluster_share": 0.3527397260273973
+    },
+    "rule_enforcement": {
+      "n_items": 128,
+      "dominant_cluster_share": 0.1484375
+    },
+    "self_study": {
+      "n_items": 75,
+      "dominant_cluster_share": 0.24
+    },
+    "teaching": {
+      "n_items": 254,
+      "dominant_cluster_share": 0.25196850393700787
+    },
+    "troubleshooting": {
+      "n_items": 120,
+      "dominant_cluster_share": 0.15
+    }
+  },
+  "per_cluster_purity_vs_llm": {
+    "0": {
+      "n_items": 64,
+      "dominant_op": "design",
+      "dominant_share": 0.234375,
+      "second_op": "analysis",
+      "second_share": 0.203125
+    },
+    "1": {
+      "n_items": 82,
+      "dominant_op": "design",
+      "dominant_share": 0.3780487804878049,
+      "second_op": "fabrication",
+      "second_share": 0.25609756097560976
+    },
+    "2": {
+      "n_items": 55,
+      "dominant_op": "inspection",
+      "dominant_share": 0.2,
+      "second_op": "analysis",
+      "second_share": 0.16363636363636364
+    },
+    "3": {
+      "n_items": 75,
+      "dominant_op": "emergency_response",
+      "dominant_share": 0.30666666666666664,
+      "second_op": "analysis",
+      "second_share": 0.12
+    },
+    "4": {
+      "n_items": 75,
+      "dominant_op": "advising",
+      "dominant_share": 0.4,
+      "second_op": "fabrication",
+      "second_share": 0.21333333333333335
+    },
+    "5": {
+      "n_items": 53,
+      "dominant_op": "advising",
+      "dominant_share": 0.37735849056603776,
+      "second_op": "representation",
+      "second_share": 0.1509433962264151
+    },
+    "6": {
+      "n_items": 56,
+      "dominant_op": "protocol_execution",
+      "dominant_share": 0.17857142857142858,
+      "second_op": "fabrication",
+      "second_share": 0.16071428571428573
+    },
+    "7": {
+      "n_items": 115,
+      "dominant_op": "inspection",
+      "dominant_share": 0.3826086956521739,
+      "second_op": "analysis",
+      "second_share": 0.2608695652173913
+    },
+    "8": {
+      "n_items": 145,
+      "dominant_op": "administration",
+      "dominant_share": 0.3724137931034483,
+      "second_op": "coordination",
+      "second_share": 0.23448275862068965
+    },
+    "9": {
+      "n_items": 79,
+      "dominant_op": "inspection",
+      "dominant_share": 0.45569620253164556,
+      "second_op": "administration",
+      "second_share": 0.16455696202531644
+    },
+    "10": {
+      "n_items": 134,
+      "dominant_op": "fabrication",
+      "dominant_share": 0.22388059701492538,
+      "second_op": "inspection",
+      "second_share": 0.1791044776119403
+    },
+    "11": {
+      "n_items": 130,
+      "dominant_op": "record_keeping",
+      "dominant_share": 0.43846153846153846,
+      "second_op": "analysis",
+      "second_share": 0.13076923076923078
+    },
+    "12": {
+      "n_items": 82,
+      "dominant_op": "fabrication",
+      "dominant_share": 0.25609756097560976,
+      "second_op": "protocol_execution",
+      "second_share": 0.2073170731707317
+    },
+    "13": {
+      "n_items": 96,
+      "dominant_op": "rule_enforcement",
+      "dominant_share": 0.19791666666666666,
+      "second_op": "protocol_execution",
+      "second_share": 0.1875
+    },
+    "14": {
+      "n_items": 161,
+      "dominant_op": "advising",
+      "dominant_share": 0.19875776397515527,
+      "second_op": "design",
+      "second_share": 0.15527950310559005
+    },
+    "15": {
+      "n_items": 115,
+      "dominant_op": "inspection",
+      "dominant_share": 0.30434782608695654,
+      "second_op": "self_study",
+      "second_share": 0.1565217391304348
+    },
+    "16": {
+      "n_items": 231,
+      "dominant_op": "coordination",
+      "dominant_share": 0.3203463203463203,
+      "second_op": "administration",
+      "second_share": 0.16017316017316016
+    },
+    "17": {
+      "n_items": 88,
+      "dominant_op": "administration",
+      "dominant_share": 0.3977272727272727,
+      "second_op": "coordination",
+      "second_share": 0.1590909090909091
+    },
+    "18": {
+      "n_items": 122,
+      "dominant_op": "protocol_execution",
+      "dominant_share": 0.23770491803278687,
+      "second_op": "advising",
+      "second_share": 0.13934426229508196
+    },
+    "19": {
+      "n_items": 60,
+      "dominant_op": "analysis",
+      "dominant_share": 0.5333333333333333,
+      "second_op": "investigation",
+      "second_share": 0.1
+    },
+    "20": {
+      "n_items": 118,
+      "dominant_op": "inspection",
+      "dominant_share": 0.22033898305084745,
+      "second_op": "protocol_execution",
+      "second_share": 0.15254237288135594
+    },
+    "21": {
+      "n_items": 67,
+      "dominant_op": "advising",
+      "dominant_share": 0.34328358208955223,
+      "second_op": "analysis",
+      "second_share": 0.13432835820895522
+    },
+    "22": {
+      "n_items": 84,
+      "dominant_op": "design",
+      "dominant_share": 0.2261904761904762,
+      "second_op": "teaching",
+      "second_share": 0.17857142857142858
+    },
+    "23": {
+      "n_items": 152,
+      "dominant_op": "analysis",
+      "dominant_share": 0.26973684210526316,
+      "second_op": "protocol_execution",
+      "second_share": 0.23684210526315788
+    },
+    "24": {
+      "n_items": 68,
+      "dominant_op": "teaching",
+      "dominant_share": 0.9411764705882353,
+      "second_op": "analysis",
+      "second_share": 0.029411764705882353
+    },
+    "25": {
+      "n_items": 135,
+      "dominant_op": "teaching",
+      "dominant_share": 0.25925925925925924,
+      "second_op": "advising",
+      "second_share": 0.14074074074074075
+    },
+    "26": {
+      "n_items": 184,
+      "dominant_op": "advising",
+      "dominant_share": 0.41304347826086957,
+      "second_op": "representation",
+      "second_share": 0.09239130434782608
+    },
+    "27": {
+      "n_items": 93,
+      "dominant_op": "record_keeping",
+      "dominant_share": 0.44086021505376344,
+      "second_op": "design",
+      "second_share": 0.13978494623655913
+    },
+    "28": {
+      "n_items": 91,
+      "dominant_op": "fabrication",
+      "dominant_share": 0.6043956043956044,
+      "second_op": "inspection",
+      "second_share": 0.15384615384615385
+    },
+    "29": {
+      "n_items": 159,
+      "dominant_op": "protocol_execution",
+      "dominant_share": 0.2138364779874214,
+      "second_op": "inspection",
+      "second_share": 0.15723270440251572
+    },
+    "30": {
+      "n_items": 83,
+      "dominant_op": "coordination",
+      "dominant_share": 0.25301204819277107,
+      "second_op": "administration",
+      "second_share": 0.14457831325301204
+    },
+    "31": {
+      "n_items": 236,
+      "dominant_op": "advising",
+      "dominant_share": 0.3135593220338983,
+      "second_op": "analysis",
+      "second_share": 0.1483050847457627
+    },
+    "32": {
+      "n_items": 103,
+      "dominant_op": "advising",
+      "dominant_share": 0.47572815533980584,
+      "second_op": "analysis",
+      "second_share": 0.1941747572815534
+    },
+    "33": {
+      "n_items": 255,
+      "dominant_op": "representation",
+      "dominant_share": 0.403921568627451,
+      "second_op": "coordination",
+      "second_share": 0.25882352941176473
+    },
+    "34": {
+      "n_items": 133,
+      "dominant_op": "advising",
+      "dominant_share": 0.3007518796992481,
+      "second_op": "representation",
+      "second_share": 0.17293233082706766
+    },
+    "35": {
+      "n_items": 223,
+      "dominant_op": "analysis",
+      "dominant_share": 0.28699551569506726,
+      "second_op": "administration",
+      "second_share": 0.24663677130044842
+    },
+    "36": {
+      "n_items": 202,
+      "dominant_op": "design",
+      "dominant_share": 0.27722772277227725,
+      "second_op": "analysis",
+      "second_share": 0.19306930693069307
+    },
+    "37": {
+      "n_items": 121,
+      "dominant_op": "analysis",
+      "dominant_share": 0.5371900826446281,
+      "second_op": "design",
+      "second_share": 0.14049586776859505
+    },
+    "38": {
+      "n_items": 120,
+      "dominant_op": "coordination",
+      "dominant_share": 0.225,
+      "second_op": "creative_production",
+      "second_share": 0.19166666666666668
+    },
+    "39": {
+      "n_items": 124,
+      "dominant_op": "fabrication",
+      "dominant_share": 0.27419354838709675,
+      "second_op": "design",
+      "second_share": 0.2661290322580645
+    },
+    "40": {
+      "n_items": 220,
+      "dominant_op": "fabrication",
+      "dominant_share": 0.4590909090909091,
+      "second_op": "protocol_execution",
+      "second_share": 0.1409090909090909
+    },
+    "41": {
+      "n_items": 263,
+      "dominant_op": "design",
+      "dominant_share": 0.5019011406844106,
+      "second_op": "fabrication",
+      "second_share": 0.16730038022813687
+    },
+    "42": {
+      "n_items": 71,
+      "dominant_op": "analysis",
+      "dominant_share": 0.2535211267605634,
+      "second_op": "design",
+      "second_share": 0.23943661971830985
+    },
+    "43": {
+      "n_items": 105,
+      "dominant_op": "fabrication",
+      "dominant_share": 0.3238095238095238,
+      "second_op": "protocol_execution",
+      "second_share": 0.2761904761904762
+    },
+    "44": {
+      "n_items": 198,
+      "dominant_op": "creative_production",
+      "dominant_share": 0.2828282828282828,
+      "second_op": "coordination",
+      "second_share": 0.14646464646464646
+    },
+    "45": {
+      "n_items": 104,
+      "dominant_op": "fabrication",
+      "dominant_share": 0.3557692307692308,
+      "second_op": "creative_production",
+      "second_share": 0.17307692307692307
+    }
+  },
+  "vs_llm_op_id_kmeans18": {
+    "n": 5730,
+    "ari": 0.13255977759961193,
+    "nmi": 0.25632185616107406
+  },
+  "knn_label_consistency_vs_llm": {
+    "k=1": 0.4514834205933682,
+    "k=5": 0.4011867364746946,
+    "k=10": 0.3756544502617801
+  },
+  "knn_label_consistency_null": {
+    "k=1": 0.08516579406631762,
+    "k=5": 0.07993019197207679,
+    "k=10": 0.07921465968586387
+  },
+  "silhouette_llm_op_id": -0.13665685057640076
+}

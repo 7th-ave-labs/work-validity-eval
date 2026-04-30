@@ -1,0 +1,10 @@
+Third-party occupational data
+
+- O*NET 30.2 Database content used under the terms at https://www.onetcenter.org/license_db.html (CC BY 4.0 with U.S. Department of Labor, Employment and Training Administration attribution requirements).
+- When publishing derivatives, cite the O*NET 30.2 Database and follow the license attribution text from that page.
+
+Raw tab-delimited files downloaded by `scripts/download_onet_core.sh` are stored under `data/raw/onet/` and are not committed to this repository by default.
+
+- ESCO v1.1.1 (European Skills, Competences, Qualifications and Occupations) English CSV release, produced by the European Commission, DG Employment, Social Affairs and Inclusion, is used under the ESCO terms of use (https://esco.ec.europa.eu/en/about-esco/data-science-and-esco/esco-api) which grant reuse with attribution. The classification package is retrieved via the Tabiya public mirror of the official download. When publishing derivatives, cite ESCO v1.1.1 and include the attribution text from the ESCO terms of use page.
+
+Raw ESCO CSVs downloaded by `scripts/esco/download_esco.sh` are stored under `data/raw/esco/` and are not committed to this repository by default. Derived ESCO artefacts (embeddings, op assignments, coverage, structural-recoverability metrics) are stored under `data/derived/esco/`.

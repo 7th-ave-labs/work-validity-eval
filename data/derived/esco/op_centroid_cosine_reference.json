@@ -1,0 +1,110 @@
+{
+  "analysis": {
+    "n_onet_tasks": 1732,
+    "centroid_cosine_p05": 0.39966607093811035,
+    "centroid_cosine_p50": 0.5470495223999023,
+    "centroid_cosine_p95": 0.6529250144958496
+  },
+  "administration": {
+    "n_onet_tasks": 1517,
+    "centroid_cosine_p05": 0.42731741070747375,
+    "centroid_cosine_p50": 0.5573044419288635,
+    "centroid_cosine_p95": 0.6439701914787292
+  },
+  "design": {
+    "n_onet_tasks": 992,
+    "centroid_cosine_p05": 0.41378501057624817,
+    "centroid_cosine_p50": 0.5671296119689941,
+    "centroid_cosine_p95": 0.6704357862472534
+  },
+  "inspection": {
+    "n_onet_tasks": 963,
+    "centroid_cosine_p05": 0.4656628668308258,
+    "centroid_cosine_p50": 0.6053681969642639,
+    "centroid_cosine_p95": 0.7121695876121521
+  },
+  "troubleshooting": {
+    "n_onet_tasks": 902,
+    "centroid_cosine_p05": 0.3866915702819824,
+    "centroid_cosine_p50": 0.5382242202758789,
+    "centroid_cosine_p95": 0.6505640149116516
+  },
+  "record_keeping": {
+    "n_onet_tasks": 882,
+    "centroid_cosine_p05": 0.4095044732093811,
+    "centroid_cosine_p50": 0.5752193927764893,
+    "centroid_cosine_p95": 0.7264717221260071
+  },
+  "teaching": {
+    "n_onet_tasks": 814,
+    "centroid_cosine_p05": 0.47644081711769104,
+    "centroid_cosine_p50": 0.6210063695907593,
+    "centroid_cosine_p95": 0.7126075625419617
+  },
+  "protocol_execution": {
+    "n_onet_tasks": 735,
+    "centroid_cosine_p05": 0.40140441060066223,
+    "centroid_cosine_p50": 0.5547177791595459,
+    "centroid_cosine_p95": 0.6666955351829529
+  },
+  "representation": {
+    "n_onet_tasks": 615,
+    "centroid_cosine_p05": 0.4631931781768799,
+    "centroid_cosine_p50": 0.6036584377288818,
+    "centroid_cosine_p95": 0.6711437702178955
+  },
+  "coordination": {
+    "n_onet_tasks": 603,
+    "centroid_cosine_p05": 0.46886128187179565,
+    "centroid_cosine_p50": 0.6146703362464905,
+    "centroid_cosine_p95": 0.7287042737007141
+  },
+  "creative_production": {
+    "n_onet_tasks": 543,
+    "centroid_cosine_p05": 0.431222528219223,
+    "centroid_cosine_p50": 0.5560305118560791,
+    "centroid_cosine_p95": 0.674935519695282
+  },
+  "fabrication": {
+    "n_onet_tasks": 505,
+    "centroid_cosine_p05": 0.4329824447631836,
+    "centroid_cosine_p50": 0.5948723554611206,
+    "centroid_cosine_p95": 0.7138350605964661
+  },
+  "appraisal": {
+    "n_onet_tasks": 453,
+    "centroid_cosine_p05": 0.4061543047428131,
+    "centroid_cosine_p50": 0.5858975648880005,
+    "centroid_cosine_p95": 0.711917519569397
+  },
+  "advising": {
+    "n_onet_tasks": 403,
+    "centroid_cosine_p05": 0.37110981345176697,
+    "centroid_cosine_p50": 0.6673016548156738,
+    "centroid_cosine_p95": 0.7696712613105774
+  },
+  "investigation": {
+    "n_onet_tasks": 377,
+    "centroid_cosine_p05": 0.43458518385887146,
+    "centroid_cosine_p50": 0.5646053552627563,
+    "centroid_cosine_p95": 0.6663026213645935
+  },
+  "emergency_response": {
+    "n_onet_tasks": 212,
+    "centroid_cosine_p05": 0.4901904761791229,
+    "centroid_cosine_p50": 0.650775671005249,
+    "centroid_cosine_p95": 0.7349966764450073
+  },
+  "self_study": {
+    "n_onet_tasks": 186,
+    "centroid_cosine_p05": 0.5917319059371948,
+    "centroid_cosine_p50": 0.7609941959381104,
+    "centroid_cosine_p95": 0.9006386995315552
+  },
+  "rule_enforcement": {
+    "n_onet_tasks": 30,
+    "centroid_cosine_p05": 0.7128965854644775,
+    "centroid_cosine_p50": 0.9109942317008972,
+    "centroid_cosine_p95": 0.9567245244979858
+  }
+}

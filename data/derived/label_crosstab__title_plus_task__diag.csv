@@ -1,0 +1,30 @@
+primary_label_id,n_tasks,n_auto_labels,dominant_auto_label,dominant_share,top2_auto_labels
+train_or_instruct_people,720,146,Deliver classroom instruction,0.17222222222222222,Deliver classroom instruction; Teach and develop courses
+diagnose_and_repair_equipment,461,88,Repair mechanical equipment,0.14316702819956617,Repair mechanical equipment; Install electrical wiring
+provide_treatment_or_therapy,358,45,Provide dental care,0.12849162011173185,Provide dental care; Provide emergency medicine
+develop_and_implement_treatment_plans,153,50,Deliver classroom instruction,0.11764705882352941,Deliver classroom instruction; Provide behavioral counseling
+prepare_official_documents,332,114,Write grant proposals,0.10240963855421686,Write grant proposals; Deliver classroom instruction
+diagnose_or_assess_needs,290,73,Deliver classroom instruction,0.1,Deliver classroom instruction; Provide emergency medicine
+create_visual_or_graphic_design,185,71,Coordinate creative production,0.0972972972972973,Coordinate creative production; Create crafted designs
+write_research_or_analytic_reports,346,131,Advance academic research,0.0953757225433526,Advance academic research; Edit written content
+manage_budgets_and_resources,287,111,Teach and develop courses,0.09407665505226481,Teach and develop courses; Supervise field crews
+supervise_personnel,527,146,Teach and develop courses,0.09108159392789374,Teach and develop courses; Serve academic governance
+test_measure_or_calibrate,251,82,Perform eye diagnostics,0.08366533864541832,Perform eye diagnostics; Install mechanical systems
+negotiate_or_mediate,97,46,Administer compensation benefits,0.08247422680412371,Administer compensation benefits; Broker real estate deals
+evaluate_compliance,418,122,Evaluate student work,0.07655502392344497,Evaluate student work; Deliver classroom instruction
+gather_field_evidence,233,99,Investigate fraud,0.07296137339055794,Investigate fraud; Study water resources
+operate_equipment_or_systems,467,100,Produce media content,0.0728051391862955,Produce media content; Fabricate precision parts
+process_or_verify_transactional_artifacts,195,69,Evaluate student work,0.07179487179487179,Evaluate student work; Process financial records
+plan_and_coordinate_programs,586,150,Deliver classroom instruction,0.06996587030716724,Deliver classroom instruction; Supervise field crews
+conduct_experiments_or_tests,246,85,Analyze laboratory samples,0.06910569105691057,Analyze laboratory samples; Optimize chemical processes
+serve_clients_or_public,755,148,Engage community outreach,0.06225165562913907,Engage community outreach; Advise students
+develop_methods_or_techniques,630,152,Teach and develop courses,0.06190476190476191,Teach and develop courses; Deliver classroom instruction
+consult_and_advise,1244,175,Advise students,0.05627009646302251,Advise students; Advance academic research
+other,219,86,Fabricate precision parts,0.045662100456621,Fabricate precision parts; Inspect and investigate
+design_technical_artefact,627,116,Fabricate precision parts,0.0430622009569378,Fabricate precision parts; Create crafted designs
+investigate_to_assess_conditions,327,113,Supervise field crews,0.04281345565749235,Supervise field crews; Inspect and investigate
+compare_records_against_standards,223,98,Analyze laboratory samples,0.04035874439461883,Analyze laboratory samples; Edit written content
+extract_or_verify_information_from_documents,237,97,Investigate fraud,0.03375527426160337,Investigate fraud; Teach postsecondary courses
+collect_and_maintain_records,914,166,Deliver college instruction,0.03282275711159737,Deliver college instruction; Process financial records
+monitor_equipment_and_environments,310,123,Assess cardiovascular function,0.03225806451612903,Assess cardiovascular function; Operate flight systems
+analyze_data_for_decisions,826,159,Analyze statistical data,0.03026634382566586,Analyze statistical data; Analyze investment risk

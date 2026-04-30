@@ -1,0 +1,558 @@
+{
+  "_meta": {
+    "variant": "task_only",
+    "n_clusters_covered": 108,
+    "n_tasks_covered": 12464,
+    "n_top_level_operations": 19,
+    "revision": "v5 \u2014 plain-English names, 19 ops, explicit input/output/distinct-from",
+    "provenance": "Hand-summary of 108 per-cluster sub_ops into 19 top-level cross-job operations. No LLM / API calls.",
+    "rules": [
+      "(1) plain-English noun name, no \"and\" connectives",
+      "(2) cross-job: plausibly practiced across >=3 distinct professional families",
+      "(3) each op defined with one-line statement, input, output, and distinctions vs adjacent ops",
+      "(4) no overlap: every cluster has exactly one top_level assignment and the definitions are explicitly disjoint"
+    ],
+    "date": "2026-04-22"
+  },
+  "top_level_operations": [
+    {
+      "operation_id": "analysis",
+      "one_line": "Take raw evidence (data, case files, imaging, sensors, case law, literature) and produce findings, conclusions, or a written interpretation.",
+      "input": "Raw evidence / data.",
+      "output": "A report, paper, memo, brief, or interpretive finding.",
+      "distinct_from": {
+        "appraisal": "appraisal uses a pre-specified rubric to produce a score; analysis produces open-ended findings.",
+        "investigation": "investigation reconstructs a specific past event; analysis is broader interpretive work.",
+        "record_keeping": "record_keeping stores / retrieves existing records; analysis generates new findings from them.",
+        "design": "design specifies something new to build / deliver; analysis interprets what exists."
+      },
+      "cross_job_examples": [
+        "scientists and postsecondary researchers",
+        "policy analysts and economists",
+        "lawyers, judges, judicial clerks",
+        "data analysts / scientists / bioinformaticians",
+        "GIS analysts and surveyors",
+        "radiologists / pathologists interpreting instrumental output",
+        "environmental and climate analysts"
+      ],
+      "member_clusters": [
+        9,
+        18,
+        32,
+        44,
+        45,
+        50,
+        53,
+        56,
+        64,
+        80
+      ],
+      "n_member_clusters": 10,
+      "total_n_tasks": 1732,
+      "sum_n_occupations_overlap": 560
+    },
+    {
+      "operation_id": "administration",
+      "one_line": "Run the ongoing machinery of an organization \u2014 HR, budgets, procurement, payroll, supervision, financial transactions.",
+      "input": "Organizational functions that must run steadily (hires, budgets, purchase orders, payroll, supply, etc.).",
+      "output": "The organization keeps running.",
+      "distinct_from": {
+        "coordination": "coordination aligns people on specific projects; administration runs steady-state functions.",
+        "representation": "representation is external-facing; administration is internal org-running."
+      },
+      "cross_job_examples": [
+        "department heads and general managers",
+        "HR / labor relations / compensation / benefits",
+        "supervisors, foremen, production managers",
+        "purchasing / logistics / supply-chain analysts",
+        "budget analysts, controllers, accountants, auditors",
+        "loan officers, credit analysts, bookkeepers"
+      ],
+      "member_clusters": [
+        11,
+        14,
+        20,
+        35,
+        36,
+        37,
+        57,
+        60,
+        61,
+        76,
+        77,
+        101
+      ],
+      "n_member_clusters": 12,
+      "total_n_tasks": 1517,
+      "sum_n_occupations_overlap": 788
+    },
+    {
+      "operation_id": "design",
+      "one_line": "Produce a specification for a new system, plan, curriculum, product, or service \u2014 in blueprint form, not yet built.",
+      "input": "Requirements, constraints, goals.",
+      "output": "A specification someone else (or the same person later) can build / execute / deliver.",
+      "distinct_from": {
+        "fabrication": "fabrication physically builds the thing; design only specifies it.",
+        "analysis": "analysis is about existing evidence; design is about a new artefact."
+      },
+      "cross_job_examples": [
+        "curriculum / instructional designers",
+        "treatment and case-management planners",
+        "mechanical / electrical / civil / controls engineers",
+        "software and database architects",
+        "urban planners and architects",
+        "solution architects and product designers"
+      ],
+      "member_clusters": [
+        24,
+        49,
+        55,
+        71,
+        72,
+        84,
+        85,
+        93,
+        94
+      ],
+      "n_member_clusters": 9,
+      "total_n_tasks": 992,
+      "sum_n_occupations_overlap": 406
+    },
+    {
+      "operation_id": "inspection",
+      "one_line": "Check a subject, process, or organization against rules, codes, standards, or specs; report pass/fail and findings.",
+      "input": "A subject / process / site plus a set of rules or standards.",
+      "output": "A pass/fail + findings / violations list.",
+      "distinct_from": {
+        "investigation": "investigation reconstructs a specific past event; inspection checks present compliance.",
+        "appraisal": "appraisal produces a score / value; inspection produces a compliance verdict.",
+        "troubleshooting": "troubleshooting fixes; inspection only reports."
+      },
+      "cross_job_examples": [
+        "safety, environmental, building, and code inspectors",
+        "QA / QC and software QA",
+        "calibration and telecom test technicians",
+        "hazmat / biosafety compliance officers",
+        "regulatory compliance auditors"
+      ],
+      "member_clusters": [
+        41,
+        46,
+        52,
+        92,
+        103
+      ],
+      "n_member_clusters": 5,
+      "total_n_tasks": 963,
+      "sum_n_occupations_overlap": 450
+    },
+    {
+      "operation_id": "troubleshooting",
+      "one_line": "Observe a malfunctioning or problematic subject, diagnose the problem, and apply a remediating intervention \u2014 ad hoc, not scripted.",
+      "input": "A subject with an unknown / unspecified problem (patient, machine, IT system, environment, client).",
+      "output": "A remediated subject (problem fixed or managed).",
+      "distinct_from": {
+        "protocol_execution": "protocol_execution follows a pre-scripted procedure with no diagnostic reasoning; troubleshooting requires figuring out what is wrong first.",
+        "inspection": "inspection only checks against rules; it does not fix.",
+        "emergency_response": "emergency_response is acute-crisis; troubleshooting is non-acute diagnose-and-fix."
+      },
+      "cross_job_examples": [
+        "auto, diesel, and industrial mechanics",
+        "IT incident responders and network engineers",
+        "HVAC / wind-turbine / power-plant troubleshooters",
+        "physicians, nurses, NPs, PAs in assess-and-treat",
+        "PT / OT / speech / behavioral therapists",
+        "veterinarians",
+        "dental / audiology / optometry / prosthetics",
+        "cosmetologists and aestheticians"
+      ],
+      "member_clusters": [
+        38,
+        47,
+        48,
+        54,
+        67,
+        75,
+        78,
+        82,
+        83,
+        107
+      ],
+      "n_member_clusters": 10,
+      "total_n_tasks": 902,
+      "sum_n_occupations_overlap": 311
+    },
+    {
+      "operation_id": "record_keeping",
+      "one_line": "Produce, store, retrieve, translate, and curate records and documents so information is preserved and findable.",
+      "input": "Source documents / transcripts / forms / reference materials.",
+      "output": "A maintained record set and retrieved items on demand. (This is the human operation that maps to retrieval / RAG in NLP.)",
+      "distinct_from": {
+        "analysis": "analysis produces new findings from records; record_keeping stores and retrieves them.",
+        "creative_production": "creative_production makes original works; record_keeping maintains references.",
+        "administration": "administration runs HR / finance / ops as a process; record_keeping maintains documents."
+      },
+      "cross_job_examples": [
+        "administrative and clerical staff",
+        "medical-records and clinical admin",
+        "social workers / case managers documenting cases",
+        "librarians, archivists, historians",
+        "editors, proofreaders, technical writers",
+        "translators and medical interpreters"
+      ],
+      "member_clusters": [
+        2,
+        6,
+        26,
+        27,
+        30,
+        42,
+        62,
+        69,
+        73
+      ],
+      "n_member_clusters": 9,
+      "total_n_tasks": 882,
+      "sum_n_occupations_overlap": 625
+    },
+    {
+      "operation_id": "teaching",
+      "one_line": "Deliver structured content to one or more learners so they acquire skill or knowledge.",
+      "input": "Learners and a curriculum / lesson / training plan.",
+      "output": "Learner capability (they can now do / know something).",
+      "distinct_from": {
+        "advising": "advising is personalized to one client's case; teaching delivers content that applies to the whole group / learner.",
+        "assistance": "assistance makes a principal productive; teaching makes a learner competent.",
+        "self_study": "self_study is the learner doing it themselves; teaching is the instructor side."
+      },
+      "cross_job_examples": [
+        "classroom and postsecondary teachers",
+        "corporate trainers",
+        "clergy preaching",
+        "coaches and fitness / rehab instructors",
+        "clinical educators",
+        "safety and compliance trainers"
+      ],
+      "member_clusters": [
+        1,
+        19,
+        21,
+        22,
+        39,
+        40,
+        58,
+        59,
+        68
+      ],
+      "n_member_clusters": 9,
+      "total_n_tasks": 814,
+      "sum_n_occupations_overlap": 422
+    },
+    {
+      "operation_id": "protocol_execution",
+      "one_line": "Carry out a prescribed, safety-critical procedure exactly as specified \u2014 checklists, SOPs, navigation rules, bench protocols.",
+      "input": "A predefined procedure and a ready subject / system.",
+      "output": "The procedure completed correctly.",
+      "distinct_from": {
+        "troubleshooting": "troubleshooting requires diagnosis; protocol_execution follows specified steps.",
+        "fabrication": "fabrication builds a new physical artefact; protocol_execution runs a specified process."
+      },
+      "cross_job_examples": [
+        "lab technicians (bio / chem / materials / forensic / clinical)",
+        "sterility and infection control across lab, surgical, dental, food",
+        "aviation pilots, flight engineers, ATC",
+        "ship captains, marine engineers",
+        "power-plant / hydro / process-plant operators"
+      ],
+      "member_clusters": [
+        31,
+        43,
+        89,
+        91,
+        96
+      ],
+      "n_member_clusters": 5,
+      "total_n_tasks": 642,
+      "sum_n_occupations_overlap": 218
+    },
+    {
+      "operation_id": "representation",
+      "one_line": "Engage external audiences on behalf of the organization \u2014 sell, market, negotiate deals, cultivate donors / constituents, govern externally.",
+      "input": "External audience + an offer / ask / message.",
+      "output": "An external commitment, transaction, or relationship.",
+      "distinct_from": {
+        "coordination": "coordination is internal alignment; representation is outward-facing.",
+        "advising": "advising is serving a client with personalized guidance; representation is soliciting / persuading external parties on behalf of the org."
+      },
+      "cross_job_examples": [
+        "executives, legislators, clergy representing institutions",
+        "sales account managers and negotiators",
+        "PR, development, fundraising",
+        "supply-chain / procurement negotiators",
+        "marketing campaign leads"
+      ],
+      "member_clusters": [
+        4,
+        12,
+        13,
+        74,
+        90,
+        100
+      ],
+      "n_member_clusters": 6,
+      "total_n_tasks": 615,
+      "sum_n_occupations_overlap": 348
+    },
+    {
+      "operation_id": "coordination",
+      "one_line": "Align internal parties to deliver on a shared task \u2014 schedule, confer, chase updates, project-manage.",
+      "input": "A shared deliverable and the people / teams who need to work together on it.",
+      "output": "Aligned next actions across parties.",
+      "distinct_from": {
+        "administration": "administration runs steady-state org machinery (HR / finance / ops); coordination is task / project-scoped alignment.",
+        "representation": "representation engages external audiences; coordination is internal."
+      },
+      "cross_job_examples": [
+        "project and program managers",
+        "executive assistants and event planners",
+        "research coordinators",
+        "engineers and clinicians conferring cross-functionally"
+      ],
+      "member_clusters": [
+        28,
+        88
+      ],
+      "n_member_clusters": 2,
+      "total_n_tasks": 603,
+      "sum_n_occupations_overlap": 250
+    },
+    {
+      "operation_id": "creative_production",
+      "one_line": "Conceive, produce, and perform original creative output \u2014 performing and fine arts, visual design, photography and imaging, edited media content.",
+      "input": "A creative brief or self-directed concept.",
+      "output": "An original creative / media work.",
+      "distinct_from": {
+        "fabrication": "fabrication makes utilitarian physical objects; creative_production makes creative / media works.",
+        "record_keeping": "record_keeping maintains existing records; creative_production generates originals."
+      },
+      "cross_job_examples": [
+        "musicians, composers, choreographers, dancers",
+        "graphic / game / set designers and fine artists",
+        "photographers, camera operators, desktop publishers",
+        "producers, directors, journalists, broadcast and film editors"
+      ],
+      "member_clusters": [
+        95,
+        97,
+        98,
+        99
+      ],
+      "n_member_clusters": 4,
+      "total_n_tasks": 543,
+      "sum_n_occupations_overlap": 151
+    },
+    {
+      "operation_id": "fabrication",
+      "one_line": "Physically make, assemble, install, or maintain a tangible object or installed system.",
+      "input": "Materials, components, a design or spec.",
+      "output": "A physical artefact or installed / working system.",
+      "distinct_from": {
+        "design": "design only specifies on paper; fabrication produces the physical thing.",
+        "creative_production": "creative_production makes creative / media artefacts; fabrication makes utilitarian physical objects.",
+        "protocol_execution": "protocol_execution runs a process; fabrication creates a new physical artefact."
+      },
+      "cross_job_examples": [
+        "jewelers, machinists, patternmakers, craft artists",
+        "plumbers, electricians, HVAC and solar installers",
+        "telecom and motor repairers",
+        "aircraft and industrial maintenance mechanics"
+      ],
+      "member_clusters": [
+        102,
+        104,
+        105,
+        106
+      ],
+      "n_member_clusters": 4,
+      "total_n_tasks": 505,
+      "sum_n_occupations_overlap": 215
+    },
+    {
+      "operation_id": "appraisal",
+      "one_line": "Score / grade / value a submitted work, performance, or asset against a known rubric, scale, or market.",
+      "input": "A submitted item (paper, performance, claim, property) plus a rubric / scale / market reference.",
+      "output": "A score, grade, dollar value, or eligibility / claim decision.",
+      "distinct_from": {
+        "inspection": "inspection produces a pass/fail against rules; appraisal produces a score or value on a scale.",
+        "analysis": "analysis is open-ended interpretation of evidence; appraisal applies a pre-specified rubric.",
+        "investigation": "investigation reconstructs a past event; appraisal values / grades a current item."
+      },
+      "cross_job_examples": [
+        "teachers grading work",
+        "HR / performance appraisers",
+        "clinical evaluators (psych, OT, PT)",
+        "real-estate and damage appraisers",
+        "claims adjusters and eligibility workers",
+        "peer reviewers and certifiers"
+      ],
+      "member_clusters": [
+        5,
+        7,
+        23,
+        33,
+        86,
+        87
+      ],
+      "n_member_clusters": 6,
+      "total_n_tasks": 453,
+      "sum_n_occupations_overlap": 229
+    },
+    {
+      "operation_id": "advising",
+      "one_line": "One-on-one: listen to a specific client/patient/stakeholder, understand their situation, and recommend a personalized course of action.",
+      "input": "A client and their specific situation.",
+      "output": "A personalized recommendation for that client.",
+      "distinct_from": {
+        "teaching": "teaching delivers general content to a group/learner; advising is 1:1 and tailored to one case.",
+        "analysis": "analysis produces findings from evidence; advising produces a recommendation for an individual.",
+        "representation": "representation engages external audiences for a transaction/commitment; advising is client-serving."
+      },
+      "cross_job_examples": [
+        "financial advisors",
+        "physicians / NPs in consultation",
+        "career and school counselors",
+        "management consultants",
+        "clergy pastoral counseling",
+        "mental-health and rehab counselors",
+        "sales engineers doing site-assessment proposals"
+      ],
+      "member_clusters": [
+        0,
+        3,
+        8,
+        10,
+        29,
+        51,
+        81
+      ],
+      "n_member_clusters": 7,
+      "total_n_tasks": 403,
+      "sum_n_occupations_overlap": 254
+    },
+    {
+      "operation_id": "investigation",
+      "one_line": "Gather evidence to reconstruct an unknown past event or uncover wrongdoing (fraud, crime, death, breach).",
+      "input": "An incident, allegation, or unknown case.",
+      "output": "A factual narrative of what happened (plus recommended actions).",
+      "distinct_from": {
+        "inspection": "inspection is a present-state compliance check; investigation is a retrospective reconstruction.",
+        "analysis": "analysis is broader interpretive work; investigation targets a specific past event / wrongdoing."
+      },
+      "cross_job_examples": [
+        "police, detectives, fraud examiners",
+        "intelligence and security analysts",
+        "forensic pathologists, coroners",
+        "insurance / IG investigators",
+        "cybersecurity forensics"
+      ],
+      "member_clusters": [
+        25,
+        63,
+        65,
+        70
+      ],
+      "n_member_clusters": 4,
+      "total_n_tasks": 377,
+      "sum_n_occupations_overlap": 86
+    },
+    {
+      "operation_id": "emergency_response",
+      "one_line": "Act in an acute crisis to stabilize and restore safety \u2014 medical, fire, disaster, incident, utility outage.",
+      "input": "An acute incident / crisis.",
+      "output": "Immediate harm averted or mitigated.",
+      "distinct_from": {
+        "troubleshooting": "troubleshooting is non-acute diagnose-and-fix; emergency_response is acute crisis stabilization.",
+        "rule_enforcement": "rule_enforcement is ongoing behavioral control; emergency_response is acute."
+      },
+      "cross_job_examples": [
+        "firefighters, police, EMS, paramedics",
+        "ER physicians and nurses",
+        "disaster management and utility incident response",
+        "air-traffic controllers in incident response"
+      ],
+      "member_clusters": [
+        34,
+        66
+      ],
+      "n_member_clusters": 2,
+      "total_n_tasks": 212,
+      "sum_n_occupations_overlap": 81
+    },
+    {
+      "operation_id": "self_study",
+      "one_line": "Maintain own professional competency \u2014 continuing education, literature review, conferences, credential upkeep.",
+      "input": "Journals, CE courses, conferences, evolving standards.",
+      "output": "Practitioner stays current in their field.",
+      "distinct_from": {
+        "teaching": "teaching makes others learn; self_study is the practitioner learning themselves.",
+        "analysis": "analysis produces new findings as a deliverable; self_study builds personal competency."
+      },
+      "cross_job_examples": [
+        "every regulated / licensed profession \u2014 medicine, law, accounting, engineering, teaching, nursing, therapy, finance"
+      ],
+      "member_clusters": [
+        16,
+        17
+      ],
+      "n_member_clusters": 2,
+      "total_n_tasks": 186,
+      "sum_n_occupations_overlap": 181
+    },
+    {
+      "operation_id": "assistance",
+      "one_line": "Support a principal professional while they execute specialized work \u2014 prep before, assist during, document after.",
+      "input": "A principal doing specialized work and their tooling / environment.",
+      "output": "The principal is more productive.",
+      "distinct_from": {
+        "teaching": "teaching targets a learner's capability; assistance serves a principal's productivity.",
+        "coordination": "coordination aligns peers on a task; assistance is in-role support to a principal."
+      },
+      "cross_job_examples": [
+        "surgical techs and nursing assistants",
+        "medical / dental / vet assistants",
+        "legal assistants and paralegals",
+        "research and laboratory assistants",
+        "engineering technicians and drafters",
+        "teaching aides"
+      ],
+      "member_clusters": [
+        79
+      ],
+      "n_member_clusters": 1,
+      "total_n_tasks": 93,
+      "sum_n_occupations_overlap": 41
+    },
+    {
+      "operation_id": "rule_enforcement",
+      "one_line": "Set and uphold rules of behaviour in a defined setting \u2014 classroom, prison, transit, workplace.",
+      "input": "A setting with people and a set of rules.",
+      "output": "Behaviour compliant with the rules.",
+      "distinct_from": {
+        "emergency_response": "emergency_response is acute-crisis; rule_enforcement is ongoing.",
+        "inspection": "inspection audits things / processes; rule_enforcement governs people."
+      },
+      "cross_job_examples": [
+        "teachers and coaches enforcing classroom rules",
+        "corrections and security officers",
+        "airline / transit crew enforcing safety rules",
+        "compliance officers enforcing conduct policies"
+      ],
+      "member_clusters": [
+        15
+      ],
+      "n_member_clusters": 1,
+      "total_n_tasks": 30,
+      "sum_n_occupations_overlap": 22
+    }
+  ]
+}

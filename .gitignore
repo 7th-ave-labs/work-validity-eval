@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+
+# LaTeX build artefacts (the committed PDF is `main.pdf`)
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Regenerable embeddings (~89 MB; rebuild with scripts/embed_onet_tasks.py)
+data/derived/embeddings/
+
+# Optional ESCO LLM cache (regenerable, large)
+data/derived/esco/embeddings/
+data/derived/esco/esco_llm_cache.jsonl
