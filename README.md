@@ -106,7 +106,7 @@ An interactive HTML version is at
 Clone the repository to view it locally, or render it directly through
 GitHub's HTML preview:
 
-- [Interactive 3D atlas (htmlpreview.github.io)](https://htmlpreview.github.io/?https://github.com/7th-ave-labs/knowledge-work-benchmark/blob/main/docs/figures/operation_atlas.html)
+- [Interactive 3D atlas (htmlpreview.github.io)](https://htmlpreview.github.io/?https://github.com/7th-ave-labs/work-validity-eval/blob/main/docs/figures/operation_atlas.html)
 
 ### O\*NET vs ESCO per-operation share
 
@@ -151,7 +151,7 @@ citations).
 ## Repository layout
 
 ```
-knowledge-work-benchmark/
+work-validity-eval/
 ├── main.tex                   manuscript (NeurIPS 2026 position track)
 ├── main.pdf                   compiled paper
 ├── references.bib             bibliography
